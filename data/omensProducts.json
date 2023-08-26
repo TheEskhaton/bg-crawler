@@ -1,0 +1,2534 @@
+{
+ "products": [
+  {
+   "name": "7 Wonders: Duel",
+   "price": 23,
+   "available": true
+  },
+  {
+   "name": "Exploding Kittens Original Edition",
+   "price": 26,
+   "available": true
+  },
+  {
+   "name": "Exploding Kittens NSFW Edition",
+   "price": 26,
+   "available": true
+  },
+  {
+   "name": "Terraforming Mars",
+   "price": 55,
+   "available": true
+  },
+  {
+   "name": "The Quacks of Quedlinburg",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "Carcassonne Big Box",
+   "price": 75,
+   "available": true
+  },
+  {
+   "name": "Harry Potter: Hogwarts Battle",
+   "price": 58,
+   "available": true
+  },
+  {
+   "name": "Unstable Unicorns 2nd Edition",
+   "price": 27,
+   "available": true
+  },
+  {
+   "name": "Calico",
+   "price": 38,
+   "available": true
+  },
+  {
+   "name": "Sagrada",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "Citadels Revised",
+   "price": 34,
+   "available": true
+  },
+  {
+   "name": "Catan Cities and Knights 5-6 Player Extension",
+   "price": 6.5,
+   "available": true
+  },
+  {
+   "name": "Cockroach Poker",
+   "price": 12,
+   "available": true
+  },
+  {
+   "name": "Chronicles of Crime",
+   "price": 30,
+   "available": true
+  },
+  {
+   "name": "Forbidden Desert",
+   "price": 35,
+   "available": true
+  },
+  {
+   "name": "Spirit Island",
+   "price": 94.5,
+   "available": true
+  },
+  {
+   "name": "Unmatched: Battle of Legends, Volume One",
+   "price": 35,
+   "available": true
+  },
+  {
+   "name": "Codenames",
+   "price": 20,
+   "available": true
+  },
+  {
+   "name": "Brass Birmingham",
+   "price": 76.5,
+   "available": true
+  },
+  {
+   "name": "Harry Potter Hogwarts Battle - Defence Against the Dark Arts",
+   "price": 32,
+   "available": true
+  },
+  {
+   "name": "John Company: Second Edition",
+   "price": 112,
+   "available": true
+  },
+  {
+   "name": "It's a Wonderful World",
+   "price": 42,
+   "available": true
+  },
+  {
+   "name": "Destinies",
+   "price": 50,
+   "available": true
+  },
+  {
+   "name": "MicroMacro: Crime City",
+   "price": 27,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – The Galaxy's Most Wanted",
+   "price": 54.5,
+   "available": true
+  },
+  {
+   "name": "Catan: Treasures, Dragons & Adventurers",
+   "price": 12,
+   "available": true
+  },
+  {
+   "name": "Codenames: Pictures",
+   "price": 20,
+   "available": true
+  },
+  {
+   "name": "Trial by Trolley",
+   "price": 20,
+   "available": true
+  },
+  {
+   "name": "Flamecraft",
+   "price": 42,
+   "available": true
+  },
+  {
+   "name": "Kingdomino",
+   "price": 20,
+   "available": true
+  },
+  {
+   "name": "Taverns of Tiefenthal",
+   "price": 38,
+   "available": true
+  },
+  {
+   "name": "Cards Against Humanity International Edition",
+   "price": 48,
+   "available": true
+  },
+  {
+   "name": "Cascadia",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "The Wolves",
+   "price": 54,
+   "available": true
+  },
+  {
+   "name": "The Crew: The Quest for Planet Nine",
+   "price": 15,
+   "available": true
+  },
+  {
+   "name": "The Binding of Isaac: Four Souls - 2nd Edition",
+   "price": 42,
+   "available": true
+  },
+  {
+   "name": "Fort",
+   "price": 30,
+   "available": true
+  },
+  {
+   "name": "Blitzkrieg!: Combined Edition",
+   "price": 42,
+   "available": true
+  },
+  {
+   "name": "Railroad Ink: Deep Blue Edition",
+   "price": 25,
+   "available": true
+  },
+  {
+   "name": "Great Western Trail 2nd Edition",
+   "price": 52,
+   "available": true
+  },
+  {
+   "name": "THAT'S PRETTY CLEVER",
+   "price": 14,
+   "available": true
+  },
+  {
+   "name": "Small World",
+   "price": 60,
+   "available": true
+  },
+  {
+   "name": "Marvel: Remix",
+   "price": 22,
+   "available": true
+  },
+  {
+   "name": "Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures",
+   "price": 53.5,
+   "available": true
+  },
+  {
+   "name": "Hive",
+   "price": 31,
+   "available": true
+  },
+  {
+   "name": "The One Ring Starter Set",
+   "price": 52.5,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game",
+   "price": 72,
+   "available": true
+  },
+  {
+   "name": "Clank! In! Space! Apocalypse!",
+   "price": 29,
+   "available": true
+  },
+  {
+   "name": "Pictomania (2nd Edition)",
+   "price": 19.5,
+   "available": true
+  },
+  {
+   "name": "Trapwords",
+   "price": 19.5,
+   "available": true
+  },
+  {
+   "name": "Wrong Party",
+   "price": 35,
+   "available": true
+  },
+  {
+   "name": "Catan 5-6 Player Extension",
+   "price": 8,
+   "available": true
+  },
+  {
+   "name": "Tiletum",
+   "price": 53,
+   "available": true
+  },
+  {
+   "name": "Coffee Traders",
+   "price": 106,
+   "available": true
+  },
+  {
+   "name": "Star Wars: Outer Rim - Unfinished Business Expansion",
+   "price": 65,
+   "available": true
+  },
+  {
+   "name": "The Witcher: Old World Legendary Hunt Expansion",
+   "price": 62,
+   "available": true
+  },
+  {
+   "name": "Lost Ruins of Arnak: Expedition Leaders",
+   "price": 28,
+   "available": true
+  },
+  {
+   "name": "Shadows Amsterdam",
+   "price": 26,
+   "available": true
+  },
+  {
+   "name": "Undaunted: Normandy",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "Mind MGMT: The Psychic Espionage “Game”",
+   "price": 66,
+   "available": true
+  },
+  {
+   "name": "Doctor Who: Nemesis",
+   "price": 55,
+   "available": true
+  },
+  {
+   "name": "Doctor Who: Time of the Daleks",
+   "price": 55,
+   "available": true
+  },
+  {
+   "name": "Dune: Ixians and Tleilaxu House Expansion",
+   "price": 25,
+   "available": true
+  },
+  {
+   "name": "Cluedo Dracula",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "Cluedo Dungeons and Dragons",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "Monopoly Dungeons and Dragons",
+   "price": 44,
+   "available": true
+  },
+  {
+   "name": "Monikers",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "Monikers - Serious Nonsense with Shut Up & Sit Down",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "What Do You Meme TikTok Meme Edition",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "Alhambra",
+   "price": 45,
+   "available": true
+  },
+  {
+   "name": "Vengeance - Roll & Fight Episode 2",
+   "price": 52,
+   "available": true
+  },
+  {
+   "name": "Vengeance - Roll & Fight Episode 1",
+   "price": 52,
+   "available": true
+  },
+  {
+   "name": "Railroad Ink: Blazing Red Edition",
+   "price": 25,
+   "available": true
+  },
+  {
+   "name": "Dead of Winter A Crossroads Game",
+   "price": 77,
+   "available": true
+  },
+  {
+   "name": "Koi Garden",
+   "price": 26,
+   "available": true
+  },
+  {
+   "name": "Cartographers Map Pack 6 - Hornhelm Market",
+   "price": 16,
+   "available": true
+  },
+  {
+   "name": "D&D Dragonlance Shadow of the Dragon Queen Deluxe Edition",
+   "price": 122,
+   "available": true
+  },
+  {
+   "name": "War of the Ring Card Game",
+   "price": 46,
+   "available": true
+  },
+  {
+   "name": "Exit LOTR: The Shadows Over Middle Earth",
+   "price": 20,
+   "available": true
+  },
+  {
+   "name": "Teotihuacan: City of Gods",
+   "price": 49,
+   "available": true
+  },
+  {
+   "name": "The Binding of Isaac: Four Souls - Requiem Expansion",
+   "price": 36,
+   "available": true
+  },
+  {
+   "name": "Eleven",
+   "price": 50,
+   "available": true
+  },
+  {
+   "name": "Ivion - The Hound & The Hare",
+   "price": 43,
+   "available": true
+  },
+  {
+   "name": "Ivion - The Sun & The Stars",
+   "price": 43,
+   "available": true
+  },
+  {
+   "name": "Ivion - The Knight & The Lady",
+   "price": 43,
+   "available": true
+  },
+  {
+   "name": "Cartographers Map Pack 5: Kethra's Steppe",
+   "price": 10.5,
+   "available": true
+  },
+  {
+   "name": "Tic Tac KO Dragons VS Unicorns",
+   "price": 17,
+   "available": true
+  },
+  {
+   "name": "MicroMacro: Crime City 3 - All In",
+   "price": 27,
+   "available": true
+  },
+  {
+   "name": "Bunny Party at Maple Valley",
+   "price": 16,
+   "available": true
+  },
+  {
+   "name": "Paleo",
+   "price": 62,
+   "available": true
+  },
+  {
+   "name": "Cosmic Encounter Duel",
+   "price": 54,
+   "available": true
+  },
+  {
+   "name": "Watergate White Box Ed.",
+   "price": 33,
+   "available": true
+  },
+  {
+   "name": "Sherlock Holmes Consulting Detective: Carlton House & Queen's Park",
+   "price": 53,
+   "available": true
+  },
+  {
+   "name": "Wingspan European Expansion",
+   "price": 29,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror Files: The Road to Innsmouth",
+   "price": 39,
+   "available": true
+  },
+  {
+   "name": "Azul Queen's Garden Nordic",
+   "price": 43,
+   "available": true
+  },
+  {
+   "name": "Viticulture Essential Edition",
+   "price": 63,
+   "available": true
+  },
+  {
+   "name": "Imperium Legends",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "Imperium: Classics",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "Galaxy Trucker",
+   "price": 36,
+   "available": true
+  },
+  {
+   "name": "Letter Jam",
+   "price": 18.5,
+   "available": true
+  },
+  {
+   "name": "Lost Ruins of Arnak",
+   "price": 54.5,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: Mutant Genesis Expansion",
+   "price": 49,
+   "available": true
+  },
+  {
+   "name": "Love Letter (2019)",
+   "price": 19,
+   "available": true
+  },
+  {
+   "name": "Tokaido 5th Anniversary Deluxe Edition",
+   "price": 83,
+   "available": true
+  },
+  {
+   "name": "Golem (2021)",
+   "price": 64,
+   "available": true
+  },
+  {
+   "name": "Barrage",
+   "price": 74.5,
+   "available": true
+  },
+  {
+   "name": "Gloom 2nd Edition",
+   "price": 35,
+   "available": true
+  },
+  {
+   "name": "Lord of the Rings War of the Ring 2nd Edition",
+   "price": 114,
+   "available": true
+  },
+  {
+   "name": "Dune: A Game of Conquest and Diplomacy (2019)",
+   "price": 60,
+   "available": true
+  },
+  {
+   "name": "Praga Caput Regni",
+   "price": 45.5,
+   "available": true
+  },
+  {
+   "name": "Underwater Cities",
+   "price": 55,
+   "available": true
+  },
+  {
+   "name": "Hansa Teutonica Big Box",
+   "price": 50,
+   "available": true
+  },
+  {
+   "name": "MicroMacro: Crime City 2 - Full House",
+   "price": 27,
+   "available": true
+  },
+  {
+   "name": "Architects of the West Kingdom",
+   "price": 65,
+   "available": true
+  },
+  {
+   "name": "Stone Age",
+   "price": 66,
+   "available": true
+  },
+  {
+   "name": "HeroQuest - Return of the Witch Lord  (2021)",
+   "price": 36.5,
+   "available": true
+  },
+  {
+   "name": "Nidavellir",
+   "price": 31.5,
+   "available": true
+  },
+  {
+   "name": "Architects of the West Kingdom: Collector's Box",
+   "price": 29.5,
+   "available": true
+  },
+  {
+   "name": "Root: Underworld Hirelings Pack",
+   "price": 21,
+   "available": true
+  },
+  {
+   "name": "HeroQuest: Kellar's Keep Expansion",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "Root: Marauder Hirelings Pack and Hireling Box",
+   "price": 31.5,
+   "available": true
+  },
+  {
+   "name": "Root: The Clockwork Expansion 2",
+   "price": 42,
+   "available": true
+  },
+  {
+   "name": "Spirit Island: Jagged Earth",
+   "price": 73.5,
+   "available": true
+  },
+  {
+   "name": "Blood Rage",
+   "price": 113,
+   "available": true
+  },
+  {
+   "name": "Root: The Clockwork Expansion",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "Epic Resort",
+   "price": 49.5,
+   "available": true
+  },
+  {
+   "name": "Unmatched: Redemption Row",
+   "price": 53.5,
+   "available": true
+  },
+  {
+   "name": "Khora: Rise of an Empire",
+   "price": 55.5,
+   "available": true
+  },
+  {
+   "name": "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases",
+   "price": 53.5,
+   "available": true
+  },
+  {
+   "name": "Endangered",
+   "price": 57.5,
+   "available": true
+  },
+  {
+   "name": "Brass Lancashire",
+   "price": 73,
+   "available": true
+  },
+  {
+   "name": "Dice Realms",
+   "price": 112.5,
+   "available": true
+  },
+  {
+   "name": "Dune: CHOAM & Richese House Expansion",
+   "price": 25,
+   "available": true
+  },
+  {
+   "name": "The Grizzled",
+   "price": 30,
+   "available": true
+  },
+  {
+   "name": "Tiny Epic Mechs",
+   "price": 31,
+   "available": true
+  },
+  {
+   "name": "Cartographers Map Pack 1: Nebblis – Plane of Flame",
+   "price": 10,
+   "available": true
+  },
+  {
+   "name": "Cartographers Map Pack 2: Affril – Plane of Knowledge",
+   "price": 10,
+   "available": true
+  },
+  {
+   "name": "Munchkin Harry Potter",
+   "price": 27,
+   "available": true
+  },
+  {
+   "name": "Transformers Deck-Building Game",
+   "price": 42,
+   "available": true
+  },
+  {
+   "name": "Terraforming Mars: Ares Expedition",
+   "price": 50.5,
+   "available": true
+  },
+  {
+   "name": "Wildlands",
+   "price": 68,
+   "available": true
+  },
+  {
+   "name": "Judge Dredd: Helter Skelter",
+   "price": 66.5,
+   "available": true
+  },
+  {
+   "name": "Castles of Mad King Ludwig: Secrets",
+   "price": 25,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Wrecking Crew Scenario Pack",
+   "price": 29,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Wasp Hero Pack",
+   "price": 17,
+   "available": true
+  },
+  {
+   "name": "Dune: Betrayal",
+   "price": 27,
+   "available": true
+  },
+  {
+   "name": "Welcome to: Your perfect Home - Thematic Neighborhood Summer Expansion",
+   "price": 9,
+   "available": true
+  },
+  {
+   "name": "Welcome to: Your perfect Home - Thematic Neighborhood Doomsday Expansion",
+   "price": 9,
+   "available": true
+  },
+  {
+   "name": "Great Western Trail: Rails to the North",
+   "price": 25,
+   "available": true
+  },
+  {
+   "name": "Spartacus: A Game of Blood and Treachery",
+   "price": 47.5,
+   "available": true
+  },
+  {
+   "name": "Brass Empire",
+   "price": 33,
+   "available": true
+  },
+  {
+   "name": "Tapestry",
+   "price": 78,
+   "available": true
+  },
+  {
+   "name": "Inis",
+   "price": 60,
+   "available": true
+  },
+  {
+   "name": "Tzolk'in: The Mayan Calendar",
+   "price": 40,
+   "available": true
+  },
+  {
+   "name": "Spyfall 2",
+   "price": 21,
+   "available": true
+  },
+  {
+   "name": "Spyfall: Time Travel",
+   "price": 33,
+   "available": true
+  },
+  {
+   "name": "Dungeons & Dragons: Castle Ravenloft Board Game",
+   "price": 62,
+   "available": true
+  },
+  {
+   "name": "Dungeons & Dragons: The Legend of Drizzt Board Game",
+   "price": 62,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: Blood On The Altar Mythos Pack",
+   "price": 18,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: Where Doom Awaits Mythos Pack",
+   "price": 18,
+   "available": true
+  },
+  {
+   "name": "Astro Trash",
+   "price": 23.5,
+   "available": true
+  },
+  {
+   "name": "Cosmic Encounter",
+   "price": 92,
+   "available": true
+  },
+  {
+   "name": "Codenames: Duet",
+   "price": 20,
+   "available": true
+  },
+  {
+   "name": "Small World of Warcraft",
+   "price": 73,
+   "available": true
+  },
+  {
+   "name": "Wingspan",
+   "price": 60,
+   "available": false
+  },
+  {
+   "name": "Mysterium",
+   "price": 38,
+   "available": false
+  },
+  {
+   "name": "Deception Murder in Hong Kong",
+   "price": 38,
+   "available": false
+  },
+  {
+   "name": "Dixit",
+   "price": 28,
+   "available": false
+  },
+  {
+   "name": "Azul (GR)",
+   "price": 37.5,
+   "available": false
+  },
+  {
+   "name": "Gloomhaven Jaws of the Lion",
+   "price": 50,
+   "available": false
+  },
+  {
+   "name": "Sheriff of Nottingham: 2nd Edition",
+   "price": 43.5,
+   "available": false
+  },
+  {
+   "name": "Root",
+   "price": 64.5,
+   "available": false
+  },
+  {
+   "name": "7 Wonders 2nd edition",
+   "price": 38,
+   "available": false
+  },
+  {
+   "name": "Mindbug: First Contact - Base Set",
+   "price": 20,
+   "available": false
+  },
+  {
+   "name": "Betrayal at House on the Hill (3rd Edition)",
+   "price": 56,
+   "available": false
+  },
+  {
+   "name": "Catan 25th Anniversary Limited Edition",
+   "price": 82,
+   "available": false
+  },
+  {
+   "name": "Port Royal Big Box",
+   "price": 26.5,
+   "available": false
+  },
+  {
+   "name": "Catan Expansion Cities & Knights",
+   "price": 18,
+   "available": false
+  },
+  {
+   "name": "Ark Nova",
+   "price": 64,
+   "available": false
+  },
+  {
+   "name": "Catan: Trade Build Settle",
+   "price": 9.5,
+   "available": false
+  },
+  {
+   "name": "Everdell 2nd Edition",
+   "price": 69,
+   "available": false
+  },
+  {
+   "name": "Unmatched: Battle of Legends, Volume Two",
+   "price": 35,
+   "available": false
+  },
+  {
+   "name": "Azul: Crystal Mosaic Expansion",
+   "price": 15,
+   "available": false
+  },
+  {
+   "name": "Secret Hitler",
+   "price": 60,
+   "available": false
+  },
+  {
+   "name": "Skull (Pink)",
+   "price": 19,
+   "available": false
+  },
+  {
+   "name": "Pax Pamir: Second Edition",
+   "price": 80,
+   "available": false
+  },
+  {
+   "name": "Sushi Go!",
+   "price": 15,
+   "available": false
+  },
+  {
+   "name": "King of Tokyo: Monster Box",
+   "price": 50,
+   "available": false
+  },
+  {
+   "name": "Coup",
+   "price": 18.5,
+   "available": false
+  },
+  {
+   "name": "Dungeons & Dragons: Dungeon Mayhem",
+   "price": 15,
+   "available": false
+  },
+  {
+   "name": "Scythe: The Wind Gambit",
+   "price": 27,
+   "available": false
+  },
+  {
+   "name": "Welcome to: Your perfect Home",
+   "price": 23,
+   "available": false
+  },
+  {
+   "name": "Splendor Marvel",
+   "price": 35,
+   "available": false
+  },
+  {
+   "name": "Dungeons & Dragons: Wrath of Ashardalon Board game",
+   "price": 68,
+   "available": false
+  },
+  {
+   "name": "Harry Potter Hogwarts Battle - The Charms and Potions Expansion",
+   "price": 32,
+   "available": false
+  },
+  {
+   "name": "Dixit Daydreams",
+   "price": 18,
+   "available": false
+  },
+  {
+   "name": "Fantasy Realms",
+   "price": 18.5,
+   "available": false
+  },
+  {
+   "name": "Dune: Imperium Immortality Expansion",
+   "price": 32.5,
+   "available": false
+  },
+  {
+   "name": "John Company: Second Edition Metal Coins",
+   "price": 28,
+   "available": false
+  },
+  {
+   "name": "Patchwork: Valentines Day",
+   "price": 23,
+   "available": false
+  },
+  {
+   "name": "Undaunted: Stalingrad",
+   "price": 97,
+   "available": false
+  },
+  {
+   "name": "Nemesis Lockdown",
+   "price": 145,
+   "available": false
+  },
+  {
+   "name": "Nemesis",
+   "price": 135,
+   "available": false
+  },
+  {
+   "name": "Agricola Revised Ed.",
+   "price": 53,
+   "available": false
+  },
+  {
+   "name": "A Fake Artist Goes to New York",
+   "price": 20,
+   "available": false
+  },
+  {
+   "name": "Forbidden Island",
+   "price": 25,
+   "available": false
+  },
+  {
+   "name": "The Quacks Of Quedlinburg Mega Box",
+   "price": 68,
+   "available": false
+  },
+  {
+   "name": "Project L",
+   "price": 28.5,
+   "available": false
+  },
+  {
+   "name": "Istanbul Big Box",
+   "price": 50,
+   "available": false
+  },
+  {
+   "name": "Twilight Inscription",
+   "price": 63,
+   "available": false
+  },
+  {
+   "name": "Wonderland's Wars",
+   "price": 66.5,
+   "available": false
+  },
+  {
+   "name": "Dungeon Mayhem: Monster Madness",
+   "price": 24,
+   "available": false
+  },
+  {
+   "name": "Patchwork",
+   "price": 23,
+   "available": false
+  },
+  {
+   "name": "Star Wars: Rebellion",
+   "price": 131.5,
+   "available": false
+  },
+  {
+   "name": "Stella: Dixit Universe",
+   "price": 39.5,
+   "available": false
+  },
+  {
+   "name": "Dune: Imperium",
+   "price": 65.5,
+   "available": false
+  },
+  {
+   "name": "Terraforming Mars: Prelude",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "Ticket to Ride - Europe",
+   "price": 49.5,
+   "available": false
+  },
+  {
+   "name": "Cryptid",
+   "price": 34,
+   "available": false
+  },
+  {
+   "name": "Welcome to: Your perfect Home - Thematic Neighborhood Halloween Expansion",
+   "price": 9,
+   "available": false
+  },
+  {
+   "name": "Welcome to: Your perfect Home - Thematic Neighborhood Outbreak Expansion",
+   "price": 9,
+   "available": false
+  },
+  {
+   "name": "Splendor",
+   "price": 29,
+   "available": false
+  },
+  {
+   "name": "Jaipur 2nd Edition",
+   "price": 23.5,
+   "available": false
+  },
+  {
+   "name": "Terraforming Mars: Colonies",
+   "price": 31.5,
+   "available": false
+  },
+  {
+   "name": "Arboretum",
+   "price": 22,
+   "available": false
+  },
+  {
+   "name": "Catan: Seafarers Game Expansion",
+   "price": 56.5,
+   "available": false
+  },
+  {
+   "name": "The Quacks of Quedlinburg - The Alchemists",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "The Quacks of Quedlinburg - Herb Witches Expansion",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "Munchkin Batman",
+   "price": 47.5,
+   "available": false
+  },
+  {
+   "name": "Throw Throw Avocado",
+   "price": 20,
+   "available": false
+  },
+  {
+   "name": "Exploding Kittens Recipes for Disaster",
+   "price": 32,
+   "available": false
+  },
+  {
+   "name": "The Elder Scrolls: Skyrim - Adventure Board Game",
+   "price": 150,
+   "available": false
+  },
+  {
+   "name": "Tiny Epic Zombies",
+   "price": 31,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: Hero Pack Collection 1",
+   "price": 69.5,
+   "available": false
+  },
+  {
+   "name": "The Binding of Isaac: Four Souls - The Ultimate Collection",
+   "price": 120,
+   "available": false
+  },
+  {
+   "name": "Dixit Memories",
+   "price": 18,
+   "available": false
+  },
+  {
+   "name": "Dungeons & Dragons: Onslaught Core Board Game",
+   "price": 130,
+   "available": false
+  },
+  {
+   "name": "Caper: Europe",
+   "price": 35,
+   "available": false
+  },
+  {
+   "name": "Dune: Imperium Rise of Ix Expansion",
+   "price": 43,
+   "available": false
+  },
+  {
+   "name": "Pax Pamir: Second Edition Metal Coins",
+   "price": 14,
+   "available": false
+  },
+  {
+   "name": "Star Trek Ascendancy",
+   "price": 110,
+   "available": false
+  },
+  {
+   "name": "Unmatched: Little Red Riding Hood Vs Beowulf",
+   "price": 28,
+   "available": false
+  },
+  {
+   "name": "Wingspan Oceania Expansion",
+   "price": 35,
+   "available": false
+  },
+  {
+   "name": "The Batman Who Laughs Rising",
+   "price": 50,
+   "available": false
+  },
+  {
+   "name": "Celestia",
+   "price": 27,
+   "available": false
+  },
+  {
+   "name": "Gaia Project",
+   "price": 71.5,
+   "available": false
+  },
+  {
+   "name": "Ticket to Ride - Europe 1912 Expansion",
+   "price": 22,
+   "available": false
+  },
+  {
+   "name": "Obscurio",
+   "price": 40.5,
+   "available": false
+  },
+  {
+   "name": "Memoir 44",
+   "price": 58,
+   "available": false
+  },
+  {
+   "name": "Twilight Struggle Deluxe Edition (8th Print)",
+   "price": 85,
+   "available": false
+  },
+  {
+   "name": "Root: The Marauder Expansion",
+   "price": 52.5,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Path to Carcosa Investigator Expansion",
+   "price": 58,
+   "available": false
+  },
+  {
+   "name": "Mysterium Park",
+   "price": 32,
+   "available": false
+  },
+  {
+   "name": "Root: Riverfolk Expansion",
+   "price": 41.5,
+   "available": false
+  },
+  {
+   "name": "Werewords Deluxe Edition",
+   "price": 27,
+   "available": false
+  },
+  {
+   "name": "Patchwork Americana",
+   "price": 23,
+   "available": false
+  },
+  {
+   "name": "Canopy",
+   "price": 31,
+   "available": false
+  },
+  {
+   "name": "Captain Sonar",
+   "price": 42,
+   "available": false
+  },
+  {
+   "name": "Warhammer Quest: Cursed City",
+   "price": 153,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Dunwich Legacy Investigator Expansion",
+   "price": 53.5,
+   "available": false
+  },
+  {
+   "name": "Codenames: Marvel",
+   "price": 25.5,
+   "available": false
+  },
+  {
+   "name": "Tapestry: Plans & Ploys",
+   "price": 28,
+   "available": false
+  },
+  {
+   "name": "Welcome to: Your perfect Home - Thematic Neighborhood Winter Wonderlan Expansion",
+   "price": 9,
+   "available": false
+  },
+  {
+   "name": "The World of Scythe",
+   "price": 22,
+   "available": false
+  },
+  {
+   "name": "Terra Mystica",
+   "price": 71.5,
+   "available": false
+  },
+  {
+   "name": "Codenames: Disney Family Edition",
+   "price": 23,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror (Revised Core Set)",
+   "price": 83,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Blob That Ate Everything Scenario Pack",
+   "price": 24,
+   "available": false
+  },
+  {
+   "name": "The Castles of Burgundy",
+   "price": 50.5,
+   "available": false
+  },
+  {
+   "name": "Unstable Unicorns Dragons Expansion Pack",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "Gloomhaven",
+   "price": 155,
+   "available": false
+  },
+  {
+   "name": "Scythe",
+   "price": 90,
+   "available": false
+  },
+  {
+   "name": "The Witcher: Old World Deluxe Edition",
+   "price": 160,
+   "available": false
+  },
+  {
+   "name": "The Witcher: Old World",
+   "price": 88,
+   "available": false
+  },
+  {
+   "name": "Aliens: Another Glorious Day In The Corps",
+   "price": 63,
+   "available": false
+  },
+  {
+   "name": "The Lord of the Rings: Journeys in Middle-earth – Shadowed Paths Expansion",
+   "price": 100,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions Sinister Motives",
+   "price": 53,
+   "available": false
+  },
+  {
+   "name": "The Binding Of Isaac: Peach Momoko 2 player Playmat",
+   "price": 30,
+   "available": false
+  },
+  {
+   "name": "Critters at War: Flies, Lies and Supplies",
+   "price": 20,
+   "available": false
+  },
+  {
+   "name": "Harry Potter Hogwarts Battle - The Monster Box of Monsters Expansion",
+   "price": 32,
+   "available": false
+  },
+  {
+   "name": "Bang! 2nd Edition",
+   "price": 23,
+   "available": false
+  },
+  {
+   "name": "Pax Renaissance 2nd Edition",
+   "price": 75,
+   "available": false
+  },
+  {
+   "name": "Verdant",
+   "price": 42,
+   "available": false
+  },
+  {
+   "name": "Azul EN",
+   "price": 45,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Forgotten Age Campaign Expansion",
+   "price": 100,
+   "available": false
+  },
+  {
+   "name": "Werewolves - New edition",
+   "price": 15,
+   "available": false
+  },
+  {
+   "name": "Undaunted: North Africa",
+   "price": 37,
+   "available": false
+  },
+  {
+   "name": "Fantasy Realms: Deluxe Edition",
+   "price": 36,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: The Rise of Red Skull",
+   "price": 49,
+   "available": false
+  },
+  {
+   "name": "Sagrada: The Great Facades - Glory",
+   "price": 20,
+   "available": false
+  },
+  {
+   "name": "Cartographers Map Pack 4: Frozen Expanse",
+   "price": 10.5,
+   "available": false
+  },
+  {
+   "name": "Quoridor Classic",
+   "price": 32,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: Edge of the Earth Campaign Expansion",
+   "price": 72.5,
+   "available": false
+  },
+  {
+   "name": "Beyond the Sun",
+   "price": 88,
+   "available": false
+  },
+  {
+   "name": "Brew",
+   "price": 40,
+   "available": false
+  },
+  {
+   "name": "The Fox in the Forest",
+   "price": 18,
+   "available": false
+  },
+  {
+   "name": "Wavelenght",
+   "price": 53,
+   "available": false
+  },
+  {
+   "name": "Ultimate Werewolf Extreme (up to 75 players)",
+   "price": 28,
+   "available": false
+  },
+  {
+   "name": "Wingspan Asia Standalone Expansion",
+   "price": 47.5,
+   "available": false
+  },
+  {
+   "name": "Lacrimosa",
+   "price": 75,
+   "available": false
+  },
+  {
+   "name": "Everdell: Spirecrest 2nd Edition Expansion",
+   "price": 66,
+   "available": false
+  },
+  {
+   "name": "Everdell: Pearlbrook 2nd Edition Expansion",
+   "price": 66,
+   "available": false
+  },
+  {
+   "name": "Everdell: Bellfaire Expansion",
+   "price": 44,
+   "available": false
+  },
+  {
+   "name": "Hanabi",
+   "price": 12.5,
+   "available": false
+  },
+  {
+   "name": "Azul Queen's Garden",
+   "price": 43,
+   "available": false
+  },
+  {
+   "name": "Eldritch Horror",
+   "price": 83,
+   "available": false
+  },
+  {
+   "name": "Ankh Gods of Egypt",
+   "price": 105,
+   "available": false
+  },
+  {
+   "name": "First Rat",
+   "price": 37,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: Into The Maelstrom Mythos Pack",
+   "price": 17,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Scarlet Key Campaign Expansion",
+   "price": 90,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: Scarlet Keys Investigator Expansion",
+   "price": 45,
+   "available": false
+  },
+  {
+   "name": "Star Wars: The Clone Wars – A Pandemic System Game",
+   "price": 48.5,
+   "available": false
+  },
+  {
+   "name": "Parks",
+   "price": 56,
+   "available": false
+  },
+  {
+   "name": "Res Arcana",
+   "price": 38,
+   "available": false
+  },
+  {
+   "name": "Ticket to Ride 1910 Expansion",
+   "price": 15.5,
+   "available": false
+  },
+  {
+   "name": "Modern Art Board Game",
+   "price": 39,
+   "available": false
+  },
+  {
+   "name": "Eclipse 2nd Edition: Dawn for the Galaxy",
+   "price": 152,
+   "available": false
+  },
+  {
+   "name": "Ticket to Ride Europe - 15th Anniversary",
+   "price": 100,
+   "available": false
+  },
+  {
+   "name": "Abyss",
+   "price": 52,
+   "available": false
+  },
+  {
+   "name": "Mage Knight Ultimate Edition",
+   "price": 122,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: Ant-Man Hero Pack",
+   "price": 20.5,
+   "available": false
+  },
+  {
+   "name": "Just One",
+   "price": 23.5,
+   "available": false
+  },
+  {
+   "name": "Clank!",
+   "price": 66.5,
+   "available": false
+  },
+  {
+   "name": "Root: Landmarks Pack",
+   "price": 10.5,
+   "available": false
+  },
+  {
+   "name": "Root: Riverfolk Hirelings Pack",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "Shit Happens",
+   "price": 11,
+   "available": false
+  },
+  {
+   "name": "Spirit Island: Feather and Flame",
+   "price": 35,
+   "available": false
+  },
+  {
+   "name": "Spirit Island: Branch and Claw",
+   "price": 37,
+   "available": false
+  },
+  {
+   "name": "7 Wonders: Cities Expansion (2nd Edition)",
+   "price": 30.5,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Path to Carcosa Campaign Expansion",
+   "price": 90.5,
+   "available": false
+  },
+  {
+   "name": "Root: The Exiles and Partisans Deck",
+   "price": 10,
+   "available": false
+  },
+  {
+   "name": "Root: The Underworld Expansion",
+   "price": 48,
+   "available": false
+  },
+  {
+   "name": "So, You've Been Eaten.",
+   "price": 31,
+   "available": false
+  },
+  {
+   "name": "Cartographers: A Roll Player Tale",
+   "price": 28,
+   "available": false
+  },
+  {
+   "name": "Sleeping Gods",
+   "price": 106.5,
+   "available": false
+  },
+  {
+   "name": "Unmatched: Hell's Kitchen",
+   "price": 53.5,
+   "available": false
+  },
+  {
+   "name": "Codenames: Deep Undercover",
+   "price": 28,
+   "available": false
+  },
+  {
+   "name": "Unstable Unicorns Nightmares Expansion Pack",
+   "price": 18,
+   "available": false
+  },
+  {
+   "name": "Unstable Unicorns Adventures Expansion Pack",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "Fullmetal Alchemist: Brotherhood - The Promised Day Board Game",
+   "price": 60,
+   "available": false
+  },
+  {
+   "name": "Dungeon Mayhem: Battle for Baldur's Gate",
+   "price": 10,
+   "available": false
+  },
+  {
+   "name": "Monopoly: Star Wars Boba Fett Edition",
+   "price": 36.5,
+   "available": false
+  },
+  {
+   "name": "Games Compendium: Eight in One",
+   "price": 29.5,
+   "available": false
+  },
+  {
+   "name": "Final Fantasy Ehon Chocobo And The Flying Ship Jigsaw Puzzle (1000 Pieces)",
+   "price": 44,
+   "available": false
+  },
+  {
+   "name": "Bureau of Investigation: Investigations in Arkham & Elsewhere",
+   "price": 44.5,
+   "available": false
+  },
+  {
+   "name": "The One Ring Core Rules Standard Edition",
+   "price": 46.5,
+   "available": false
+  },
+  {
+   "name": "Aeon's End: The Nameless (second edition)",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "Aeon's End: Shattered Dreams",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "Tiny Epic Pirates",
+   "price": 29,
+   "available": false
+  },
+  {
+   "name": "Tiny Epic Dinosaurs",
+   "price": 31,
+   "available": false
+  },
+  {
+   "name": "Cleocatra",
+   "price": 23,
+   "available": false
+  },
+  {
+   "name": "Sentinels of the Multiverse: Definitive Edition",
+   "price": 62,
+   "available": false
+  },
+  {
+   "name": "Aeon's End (Second Edition)",
+   "price": 51.5,
+   "available": false
+  },
+  {
+   "name": "Tiny Epic Dungeons",
+   "price": 30,
+   "available": false
+  },
+  {
+   "name": "Tiny Epic Defenders (2nd Edition)",
+   "price": 29.5,
+   "available": false
+  },
+  {
+   "name": "Dungeon Fighter (2nd Edition)",
+   "price": 49.5,
+   "available": false
+  },
+  {
+   "name": "Munchkin Apocalypse: Kaiju",
+   "price": 9,
+   "available": false
+  },
+  {
+   "name": "Meeple Circus",
+   "price": 40,
+   "available": false
+  },
+  {
+   "name": "Dice Throne: Season One ReRolled – Monk v. Paladin",
+   "price": 29.5,
+   "available": false
+  },
+  {
+   "name": "The Isle of Cats: Explore and Draw",
+   "price": 33.5,
+   "available": false
+  },
+  {
+   "name": "Cat Lady",
+   "price": 23.5,
+   "available": false
+  },
+  {
+   "name": "Munchkin",
+   "price": 27,
+   "available": false
+  },
+  {
+   "name": "Inis: Seasons of Inis",
+   "price": 35,
+   "available": false
+  },
+  {
+   "name": "Stardew Valley: The Board Game",
+   "price": 70,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: Murder at the Excelsior Hotel Scenario Pack",
+   "price": 27,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: War of the Outer Gods Scenario Pack",
+   "price": 27,
+   "available": false
+  },
+  {
+   "name": "Twilight Imperium: Prophecy of Kings (4th edition)",
+   "price": 131.5,
+   "available": false
+  },
+  {
+   "name": "Star Wars: Outer Rim",
+   "price": 85,
+   "available": false
+  },
+  {
+   "name": "Unstable Unicorns NSFW Base Game",
+   "price": 28,
+   "available": false
+  },
+  {
+   "name": "Unmatched: Cobble & Fog",
+   "price": 38.5,
+   "available": false
+  },
+  {
+   "name": "Dungeons & Dragons: Ghosts of Saltmarsh Board Game",
+   "price": 52,
+   "available": false
+  },
+  {
+   "name": "Power Grid",
+   "price": 51.5,
+   "available": false
+  },
+  {
+   "name": "Talisman: Harry Potter",
+   "price": 60,
+   "available": false
+  },
+  {
+   "name": "Here to Slay Berserkers & Necromancers Expansion Pack",
+   "price": 15.5,
+   "available": false
+  },
+  {
+   "name": "Here to Slay Warriors & Druids Expansion Pack",
+   "price": 15.5,
+   "available": false
+  },
+  {
+   "name": "Heroquest (2021)",
+   "price": 133,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Dunwich Legacy Campaign Expansion",
+   "price": 84,
+   "available": false
+  },
+  {
+   "name": "Oath: Chronicles of Empire and Exile",
+   "price": 109,
+   "available": false
+  },
+  {
+   "name": "The Lord of the Rings: The Card Game – Revised Core Set",
+   "price": 83,
+   "available": false
+  },
+  {
+   "name": "Betrayal at Baldur's Gate",
+   "price": 55.5,
+   "available": false
+  },
+  {
+   "name": "Sid Meier's Civilization: A New Dawn",
+   "price": 66.5,
+   "available": false
+  },
+  {
+   "name": "Chronicles of Crime: 1900",
+   "price": 28,
+   "available": false
+  },
+  {
+   "name": "Tang Garden",
+   "price": 58.5,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: Return to the Circle Undone Expansion",
+   "price": 33.5,
+   "available": false
+  },
+  {
+   "name": "Tiny Epic Western",
+   "price": 31,
+   "available": false
+  },
+  {
+   "name": "Tiny Epic Kingdoms",
+   "price": 31,
+   "available": false
+  },
+  {
+   "name": "Love Letter Princess Princess Ever After",
+   "price": 22,
+   "available": false
+  },
+  {
+   "name": "Party Compendium",
+   "price": 27,
+   "available": false
+  },
+  {
+   "name": "Under Falling Skies",
+   "price": 31.5,
+   "available": false
+  },
+  {
+   "name": "Chronicles of Crime: 1400",
+   "price": 28,
+   "available": false
+  },
+  {
+   "name": "Minecraft Builders & Biomes",
+   "price": 42.5,
+   "available": false
+  },
+  {
+   "name": "Heroes of Terrinoth: The Adventure Card Game",
+   "price": 46.5,
+   "available": false
+  },
+  {
+   "name": "Codenames: The Simpsons Family Edition",
+   "price": 27,
+   "available": false
+  },
+  {
+   "name": "Harry Potter The Ultimate Movie Quiz",
+   "price": 27,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: Devil Reef Mythos Pack",
+   "price": 17,
+   "available": false
+  },
+  {
+   "name": "Cartographers Map Pack 3: Undercity – Depths of Sabek (2021)",
+   "price": 10,
+   "available": false
+  },
+  {
+   "name": "Cartographers Heroes",
+   "price": 25,
+   "available": false
+  },
+  {
+   "name": "Resident Evil 2: The Board Game",
+   "price": 100,
+   "available": false
+  },
+  {
+   "name": "Pandemic (2013)",
+   "price": 50.5,
+   "available": false
+  },
+  {
+   "name": "Tapestry Arts & Architecture Expansion",
+   "price": 44,
+   "available": false
+  },
+  {
+   "name": "Hello Neighbor: The Secret Neighbor Party Game",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "Codenames: Harry Potter",
+   "price": 25.5,
+   "available": false
+  },
+  {
+   "name": "Terraforming Mars: Big Box",
+   "price": 147.5,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Labyrinths of Lunacy Scenario Pack",
+   "price": 27,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: A Light in the Fog Mythos Pack",
+   "price": 17,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Lair of Dagon Mythos Pack",
+   "price": 17,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: Horror in High Gear Mythos Pack",
+   "price": 17,
+   "available": false
+  },
+  {
+   "name": "The Grizzled: Armistice Edition",
+   "price": 55.5,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror (3rd Edition)",
+   "price": 96,
+   "available": false
+  },
+  {
+   "name": "The Lord of the Rings: Journeys in Middle-Earth",
+   "price": 131.5,
+   "available": false
+  },
+  {
+   "name": "World of Warcraft: Wrath of the Lich King Board game",
+   "price": 72.5,
+   "available": false
+  },
+  {
+   "name": "Twilight Imperium (4th Edition)",
+   "price": 166,
+   "available": false
+  },
+  {
+   "name": "Gloomhaven: Jaws of the Lion Removable Sticker Set & Map",
+   "price": 8,
+   "available": false
+  },
+  {
+   "name": "The Lost Expedition",
+   "price": 25.5,
+   "available": false
+  },
+  {
+   "name": "Magic Money",
+   "price": 19,
+   "available": false
+  },
+  {
+   "name": "Odin's Ravens",
+   "price": 19.5,
+   "available": false
+  },
+  {
+   "name": "Scythe: Invaders from Afar",
+   "price": 33.5,
+   "available": false
+  },
+  {
+   "name": "Scythe: The Rise of Fenris",
+   "price": 51.5,
+   "available": false
+  },
+  {
+   "name": "Monopoly: Star Wars The Mandalorian",
+   "price": 62.5,
+   "available": false
+  },
+  {
+   "name": "D&D Tyrants of the Underdark: Board Game (2nd Edition)",
+   "price": 53.5,
+   "available": false
+  },
+  {
+   "name": "A Game of Thrones: The Board Game (2nd Edition)",
+   "price": 74.5,
+   "available": false
+  },
+  {
+   "name": "Azul: Glazed Pavilion Expansion",
+   "price": 15,
+   "available": false
+  },
+  {
+   "name": "Azul: Stained Glass of Sintra",
+   "price": 36.5,
+   "available": false
+  },
+  {
+   "name": "Azul: Summer Pavilion",
+   "price": 38,
+   "available": false
+  },
+  {
+   "name": "Rolling Realms",
+   "price": 24,
+   "available": false
+  },
+  {
+   "name": "Unmatched: Robin Hood vs. Bigfoot",
+   "price": 25,
+   "available": false
+  },
+  {
+   "name": "Unmatched: Buffy the Vampire Slayer",
+   "price": 48.5,
+   "available": false
+  },
+  {
+   "name": "Mansions of Madness (2nd Edition)",
+   "price": 131.5,
+   "available": false
+  },
+  {
+   "name": "Red Rising",
+   "price": 42,
+   "available": false
+  },
+  {
+   "name": "King of Tokyo: Power Up!",
+   "price": 17.5,
+   "available": false
+  },
+  {
+   "name": "Resistance: Avalon",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "Unstable Unicorns - Unicorns of Legend Expansion Pack",
+   "price": 17,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: The Hood Scenario Pack",
+   "price": 29,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: The Once and Future Kang Scenario Pack",
+   "price": 29,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: The Green Goblin Scenario Pack",
+   "price": 29,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: Thor Hero Pack",
+   "price": 22,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: Hulk Hero Pack",
+   "price": 17,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: Black Widow Hero Pack",
+   "price": 22,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: Doctor Strange Hero Pack",
+   "price": 17,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: Quicksilver Hero Pack",
+   "price": 22,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: Ms. Marvel Hero Pack",
+   "price": 22,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: Scarlet Witch Hero Pack",
+   "price": 22,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: Captain America Hero Pack",
+   "price": 22,
+   "available": false
+  },
+  {
+   "name": "Ludnica na tribinama",
+   "price": 36,
+   "available": false
+  },
+  {
+   "name": "Dune, A Game of Conquest and Diplomacy",
+   "price": 53.5,
+   "available": false
+  },
+  {
+   "name": "Horizon Zero Dawn: The Board Game",
+   "price": 111,
+   "available": false
+  },
+  {
+   "name": "Concordia",
+   "price": 52,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: The Mad Titan's Shadow",
+   "price": 40,
+   "available": false
+  },
+  {
+   "name": "Clank! The Mummy's Curse",
+   "price": 29,
+   "available": false
+  },
+  {
+   "name": "Clank! Legacy Acquisitions Incorporate",
+   "price": 90,
+   "available": false
+  },
+  {
+   "name": "Sanctum",
+   "price": 60.5,
+   "available": false
+  },
+  {
+   "name": "Last Will",
+   "price": 36,
+   "available": false
+  },
+  {
+   "name": "Space Alert",
+   "price": 38.5,
+   "available": false
+  },
+  {
+   "name": "Unlock! The Escape Game Star Wars Edition",
+   "price": 35,
+   "available": false
+  },
+  {
+   "name": "Tidal Blades: Heroes of the Reef",
+   "price": 49.5,
+   "available": false
+  },
+  {
+   "name": "Through the Ages: New Leaders and Wonders Expansion",
+   "price": 30,
+   "available": false
+  },
+  {
+   "name": "King of Tokyo: Halloween",
+   "price": 16,
+   "available": false
+  },
+  {
+   "name": "Umbrella Academy",
+   "price": 22,
+   "available": false
+  },
+  {
+   "name": "Dungeons&Dragons: Rock Paper Wizard",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "One Night Ultimate Werewolf",
+   "price": 28,
+   "available": false
+  },
+  {
+   "name": "Sagrada: Passion",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "Spyfall DC",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "Munchkin: Disney",
+   "price": 29,
+   "available": false
+  },
+  {
+   "name": "King of Tokyo",
+   "price": 35.5,
+   "available": false
+  },
+  {
+   "name": "Race for the Galaxy",
+   "price": 28,
+   "available": false
+  },
+  {
+   "name": "Risk Legacy",
+   "price": 71.5,
+   "available": false
+  },
+  {
+   "name": "Zombicide 2nd edition",
+   "price": 98,
+   "available": false
+  },
+  {
+   "name": "Through the Ages: A New Story of Civilization",
+   "price": 50.5,
+   "available": false
+  },
+  {
+   "name": "Dixit Odyssey",
+   "price": 28,
+   "available": false
+  },
+  {
+   "name": "Dungeons & Dragons: Lords of Waterdeep Board Game",
+   "price": 48,
+   "available": false
+  },
+  {
+   "name": "Dragon Castle",
+   "price": 46.5,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: Guardians of The Abyss Scenario Pack",
+   "price": 24,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Essex County Express Mythos Pack",
+   "price": 18,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: Winifred Habbamock Investigator Starter Deck",
+   "price": 18,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: Harvey Walters Investigator Starter Deck",
+   "price": 21,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Miskatonic Museum Mythos Pack",
+   "price": 18,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Innsmouth Conspiracy Expansion",
+   "price": 36,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Dunwich Legacy Expansion",
+   "price": 36,
+   "available": false
+  },
+  {
+   "name": "Monopoly Junior Peppa Pig Edition",
+   "price": 32,
+   "available": false
+  },
+  {
+   "name": "Unfathomable",
+   "price": 92,
+   "available": false
+  },
+  {
+   "name": "Monopoly: Star Wars The Child",
+   "price": 35.5,
+   "available": false
+  },
+  {
+   "name": "Monopoly Arcade Pacman",
+   "price": 48.5,
+   "available": false
+  },
+  {
+   "name": "Terraforming Mars: Venus Next",
+   "price": 31.5,
+   "available": false
+  },
+  {
+   "name": "Terraforming Mars: Turmoil",
+   "price": 35.5,
+   "available": false
+  },
+  {
+   "name": "Ticket to Ride",
+   "price": 49.5,
+   "available": false
+  },
+  {
+   "name": "Monopoly Super Mario Celebration",
+   "price": 48.5,
+   "available": false
+  },
+  {
+   "name": "Llamas Unleashed",
+   "price": 25.5,
+   "available": false
+  },
+  {
+   "name": "Here to Slay",
+   "price": 27,
+   "available": false
+  },
+  {
+   "name": "Unstable Unicorns Rainbow Apocalypse Expansion Pack",
+   "price": 18,
+   "available": false
+  },
+  {
+   "name": "Unstable Unicorns NSFW Expansion Pack",
+   "price": 18,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: Edge of the Earth Investigator Expansion",
+   "price": 58.5,
+   "available": false
+  },
+  {
+   "name": "Suddenly Drunk's Box of Bad Ideas",
+   "price": 25,
+   "available": false
+  },
+  {
+   "name": "The Lord of the Rings Monopoly",
+   "price": 43.5,
+   "available": false
+  },
+  {
+   "name": "Cluedo The Classic Mystery Game",
+   "price": 34,
+   "available": false
+  },
+  {
+   "name": "Carcassone - New Edition",
+   "price": 40,
+   "available": false
+  },
+  {
+   "name": "Pandemic Legacy Season Zero",
+   "price": 86,
+   "available": false
+  },
+  {
+   "name": "Pandemic Legacy Season 2",
+   "price": 84.5,
+   "available": false
+  },
+  {
+   "name": "Zombicide Invader",
+   "price": 105,
+   "available": false
+  },
+  {
+   "name": "Sherlock Holmes Consulting Detective: The Baker Street Irregulars",
+   "price": 43.5,
+   "available": false
+  },
+  {
+   "name": "Four Gardens",
+   "price": 40,
+   "available": false
+  },
+  {
+   "name": "Above and Below",
+   "price": 50,
+   "available": false
+  },
+  {
+   "name": "Isle of Cats",
+   "price": 57.5,
+   "available": false
+  },
+  {
+   "name": "Meadow",
+   "price": 48.5,
+   "available": false
+  },
+  {
+   "name": "7 Wonders Duel: Agora",
+   "price": 22,
+   "available": false
+  },
+  {
+   "name": "Cryo",
+   "price": 62,
+   "available": false
+  }
+ ]
+}

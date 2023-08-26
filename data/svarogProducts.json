@@ -1,0 +1,659 @@
+{
+ "products": [
+  {
+   "name": "Marvel Champions: The Card Game – Next Evolution exp.",
+   "price": 51.94,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: The Circle Undone – Investigator exp.",
+   "price": 45.99,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Circle Undone – Campaign exp.",
+   "price": 71.99,
+   "available": true
+  },
+  {
+   "name": "Lord of the Rings: The Card Game – Angmar Awakened Hero exp.",
+   "price": 54.79,
+   "available": true
+  },
+  {
+   "name": "Sretan put! Hrvatska",
+   "price": 29.99,
+   "available": true
+  },
+  {
+   "name": "Lord of the Rings: The Card Game – Dream-Chaser campaign exp.",
+   "price": 71.49,
+   "available": true
+  },
+  {
+   "name": "Ark Nova: Zoo Map Pack 1 exp.",
+   "price": 8.24,
+   "available": false
+  },
+  {
+   "name": "The Witcher: Old World – Legendary Hunt exp.",
+   "price": 56.49,
+   "available": true
+  },
+  {
+   "name": "The Witcher: Old World – Skellige exp.",
+   "price": 51.49,
+   "available": true
+  },
+  {
+   "name": "The Witcher: Old World",
+   "price": 75.99,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Hero Pack Collection 2",
+   "price": 45.93,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Sinister Motives exp.",
+   "price": 53.49,
+   "available": false
+  },
+  {
+   "name": "Summoner Wars – Wayfarers Faction Deck exp.",
+   "price": 15.99,
+   "available": true
+  },
+  {
+   "name": "Summoner Wars – Shadow Elves Faction Deck exp.",
+   "price": 15.99,
+   "available": true
+  },
+  {
+   "name": "Summoner Wars – Sand Goblins Faction Deck exp.",
+   "price": 15.99,
+   "available": true
+  },
+  {
+   "name": "Summoner Wars – Obsidian Dwarves Faction Deck exp.",
+   "price": 15.99,
+   "available": true
+  },
+  {
+   "name": "The Hunger",
+   "price": 55.74,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: Curse of the Rougarou – Scenario exp.",
+   "price": 23.73,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: The Forgotten Age – Campaign exp.",
+   "price": 72.26,
+   "available": true
+  },
+  {
+   "name": "Catherine: The Cities of the Tsarina",
+   "price": 55.05,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Storm (hero pack)",
+   "price": 22.99,
+   "available": true
+  },
+  {
+   "name": "War of the Ring: The Card Game",
+   "price": 46.63,
+   "available": true
+  },
+  {
+   "name": "7 Wonders: Cities exp.",
+   "price": 31.63,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – MojoMania (scenario pack)",
+   "price": 29.26,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Wolverine (hero pack)",
+   "price": 22.8,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Gambit (hero pack)",
+   "price": 21.35,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game –  Rogue (hero pack)",
+   "price": 20.96,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Forgotten Age – Investigator exp.",
+   "price": 52.24,
+   "available": true
+  },
+  {
+   "name": "Pathfinder Adventure Cardgame: Oracle class deck exp.",
+   "price": 8.14,
+   "available": true
+  },
+  {
+   "name": "Marvel: Remix",
+   "price": 20.99,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – The Hood (scenario pack)",
+   "price": 24.99,
+   "available": false
+  },
+  {
+   "name": "Escape from the Aliens in Outer Space – Ultimate Edition",
+   "price": 44.99,
+   "available": false
+  },
+  {
+   "name": "Summoner Wars – Cloaks Faction Deck exp.",
+   "price": 16.99,
+   "available": false
+  },
+  {
+   "name": "Summoner Wars – Skyspear Avians Faction Deck exp.",
+   "price": 16.99,
+   "available": false
+  },
+  {
+   "name": "Hero Realms",
+   "price": 22.49,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Scarlet Keys – Campaign exp.",
+   "price": 83.49,
+   "available": true
+  },
+  {
+   "name": "Lord of the Rings: The Card Game – The Fellowship of the Ring Saga exp.",
+   "price": 75.99,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Scarlet Keys – Investigator exp.",
+   "price": 49.49,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Cyclops (hero pack)",
+   "price": 19.86,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Phoenix (hero pack)",
+   "price": 19.86,
+   "available": true
+  },
+  {
+   "name": "Unlock 7! Epic Adventures",
+   "price": 32.49,
+   "available": true
+  },
+  {
+   "name": "Unlock 6! Timeless Adventures",
+   "price": 37.99,
+   "available": false
+  },
+  {
+   "name": "HeroQuest: Return of the Witch Lord exp.",
+   "price": 37.99,
+   "available": true
+  },
+  {
+   "name": "Res Arcana: Lux & Tenebrae exp.",
+   "price": 19.99,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Path to Carcosa – Investigator exp.",
+   "price": 49.93,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: The Path to Carcosa – Campaign exp.",
+   "price": 77.18,
+   "available": true
+  },
+  {
+   "name": "Mystic Vale: Essential Edition",
+   "price": 83.35,
+   "available": true
+  },
+  {
+   "name": "Dixit",
+   "price": 31.63,
+   "available": false
+  },
+  {
+   "name": "Summoner Wars – Starter Set",
+   "price": 26.46,
+   "available": true
+  },
+  {
+   "name": "Glow",
+   "price": 43.05,
+   "available": false
+  },
+  {
+   "name": "Trial by Trolley: R-Rated Track exp.",
+   "price": 16.99,
+   "available": true
+  },
+  {
+   "name": "Dungeons & Dragons – Dungeon Mayhem (D&D)",
+   "price": 16.24,
+   "available": false
+  },
+  {
+   "name": "Unlock! Star Wars",
+   "price": 36.86,
+   "available": false
+  },
+  {
+   "name": "Unlock! Escape Adventures",
+   "price": 29,
+   "available": false
+  },
+  {
+   "name": "Radlands",
+   "price": 25.99,
+   "available": true
+  },
+  {
+   "name": "Odin’s Ravens",
+   "price": 22.49,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Warmachine (hero pack)",
+   "price": 16.24,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Venom (hero pack)",
+   "price": 17.49,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – The Wrecking Crew (scenario pack)",
+   "price": 24.05,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: The Card Game – The Wasp (hero pack)",
+   "price": 17.49,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – The Galaxy’s Most Wanted exp.",
+   "price": 49.93,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Black Widow (hero pack)",
+   "price": 17.49,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Scarlet Witch (hero pack)",
+   "price": 21.08,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Ms. Marvel (hero pack)",
+   "price": 17.49,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Gamora (hero pack)",
+   "price": 17.49,
+   "available": true
+  },
+  {
+   "name": "Fantasy Realms: The Cursed Hoard exp.",
+   "price": 14.99,
+   "available": true
+  },
+  {
+   "name": "Catan: The Struggle for Catan",
+   "price": 17.49,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Dunwich Legacy – Investigator exp.",
+   "price": 53.99,
+   "available": true
+  },
+  {
+   "name": "Codenames: Deep Undercover [2.0]",
+   "price": 21.24,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: The Dead of Night exp.",
+   "price": 38.11,
+   "available": false
+  },
+  {
+   "name": "Fantasy Realms",
+   "price": 19.36,
+   "available": true
+  },
+  {
+   "name": "Lord of the Rings: The Card Game (revised)",
+   "price": 78.74,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: The Dunwich Legacy –  Campaign exp.",
+   "price": 79.36,
+   "available": false
+  },
+  {
+   "name": "Scythe: Encounters exp.",
+   "price": 23.11,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – The Once and Future Kang (scenario pack)",
+   "price": 25.61,
+   "available": true
+  },
+  {
+   "name": "Mansions of Madness: Path of the Serpent exp.",
+   "price": 84.91,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: Under Dark Waves exp.",
+   "price": 66.43,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Valkyrie (hero pack)",
+   "price": 16.24,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: Machinations Through Time exp.",
+   "price": 24.36,
+   "available": true
+  },
+  {
+   "name": "Nanty Narking",
+   "price": 38.74,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: The Blob That Ate Everything exp.",
+   "price": 26.24,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: Murder at the Excelsior Hotel exp.",
+   "price": 27.03,
+   "available": true
+  },
+  {
+   "name": "Cartographers: Heroes",
+   "price": 24.66,
+   "available": false
+  },
+  {
+   "name": "The Crew: Mission Deep Sea",
+   "price": 16.86,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: The Card Game – The Mad Titan’s Shadow (campaign exp.)",
+   "price": 46.71,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Vision (hero pack)",
+   "price": 18.74,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: Edge of the Earth – Campaign exp.",
+   "price": 66.24,
+   "available": false
+  },
+  {
+   "name": "Terraforming Mars: Ares Expedition (collector’s edition)",
+   "price": 50.98,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Star-Lord (hero pack)",
+   "price": 19.41,
+   "available": false
+  },
+  {
+   "name": "Dixit 10: Mirrors exp.",
+   "price": 24.19,
+   "available": true
+  },
+  {
+   "name": "Dixit: Odyssey",
+   "price": 36.24,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Thor (hero pack)",
+   "price": 21.08,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – The Rise of Red Skull (campaign exp.)",
+   "price": 48.99,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – The Green Goblin (scenario pack)",
+   "price": 26.86,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Hulk (hero pack)",
+   "price": 16.98,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Doctor Strange (hero pack)",
+   "price": 18.69,
+   "available": false
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Nebula (hero pack)",
+   "price": 18.45,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Captain America (hero pack)",
+   "price": 21.09,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game – Ant-Man (hero pack)",
+   "price": 19.99,
+   "available": true
+  },
+  {
+   "name": "Star Trek: Ascendancy – Borg Assimilation exp.",
+   "price": 47.49,
+   "available": true
+  },
+  {
+   "name": "Star Trek: Ascendancy – Vulcan High Command exp.",
+   "price": 38.11,
+   "available": true
+  },
+  {
+   "name": "Star Trek: Ascendancy – Ferengi Alliance exp.",
+   "price": 38.11,
+   "available": true
+  },
+  {
+   "name": "Star Trek: Ascendancy – Cardassian Union exp.",
+   "price": 37.49,
+   "available": true
+  },
+  {
+   "name": "Star Trek: Ascendancy – Andorian Empire exp.",
+   "price": 38.11,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: A Phantom of Truth exp.",
+   "price": 19.99,
+   "available": true
+  },
+  {
+   "name": "Trial by Trolley: R-Rated Modifier exp.",
+   "price": 16.99,
+   "available": true
+  },
+  {
+   "name": "Not Alone",
+   "price": 28.11,
+   "available": false
+  },
+  {
+   "name": "Summoner Wars – Master Set",
+   "price": 50.99,
+   "available": true
+  },
+  {
+   "name": "Pathfinder: Adventure Card Game – Core Set",
+   "price": 62.61,
+   "available": true
+  },
+  {
+   "name": "God of War: The Card Game",
+   "price": 30.43,
+   "available": true
+  },
+  {
+   "name": "Arkham Horror: The Card Game – Revised Core Set",
+   "price": 83.7,
+   "available": true
+  },
+  {
+   "name": "Unfathomable",
+   "price": 103.35,
+   "available": true
+  },
+  {
+   "name": "Trial By Trolley",
+   "price": 24.99,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: Edge of the Earth – Investigator exp.",
+   "price": 53.8,
+   "available": true
+  },
+  {
+   "name": "Aeon’s End: The New Age exp.",
+   "price": 60.61,
+   "available": false
+  },
+  {
+   "name": "7 Wonders: Duel",
+   "price": 30.53,
+   "available": false
+  },
+  {
+   "name": "Arkham Horror: Secrets of the Order exp.",
+   "price": 56.93,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions: The Card Game",
+   "price": 77.18,
+   "available": true
+  },
+  {
+   "name": "Imperial Settlers",
+   "price": 43.03,
+   "available": true
+  },
+  {
+   "name": "Smash Up",
+   "price": 37.09,
+   "available": true
+  },
+  {
+   "name": "Underwater Cities",
+   "price": 60.48,
+   "available": true
+  },
+  {
+   "name": "Dominion",
+   "price": 46.28,
+   "available": true
+  },
+  {
+   "name": "Dice Forge",
+   "price": 50.99,
+   "available": true
+  },
+  {
+   "name": "Terraforming Mars: Hellas & Elysium",
+   "price": 22.49,
+   "available": true
+  },
+  {
+   "name": "Res Arcana",
+   "price": 33.95,
+   "available": false
+  },
+  {
+   "name": "BANG!: The Bullet",
+   "price": 41.3,
+   "available": true
+  },
+  {
+   "name": "7 Wonders: Duel – Agora exp.",
+   "price": 21.86,
+   "available": false
+  },
+  {
+   "name": "Pandemic: Legacy – Season Zero",
+   "price": 87.49,
+   "available": false
+  },
+  {
+   "name": "Cosmic Encounter",
+   "price": 80.24,
+   "available": true
+  },
+  {
+   "name": "7 Wonders",
+   "price": 50.76,
+   "available": true
+  },
+  {
+   "name": "One Night Ultimate Werewolf",
+   "price": 23.49,
+   "available": true
+  }
+ ]
+}

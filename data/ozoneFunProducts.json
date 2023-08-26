@@ -1,0 +1,719 @@
+{
+ "products": [
+  {
+   "name": "Stranger Things: Attack of the Mind - party",
+   "price": 19.7,
+   "available": true
+  },
+  {
+   "name": "Challengers - party",
+   "price": 33.55,
+   "available": true
+  },
+  {
+   "name": "Color Addict - party",
+   "price": 9.01,
+   "available": true
+  },
+  {
+   "name": "Dobble: Star Wars Mandalorian - party",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Formula D - party",
+   "price": 40.47,
+   "available": true
+  },
+  {
+   "name": "Mascarade (Second Edition) - party",
+   "price": 16.7,
+   "available": true
+  },
+  {
+   "name": "Dobble: Friends - party",
+   "price": 15.44,
+   "available": true
+  },
+  {
+   "name": "Dobble - party",
+   "price": 13.31,
+   "available": true
+  },
+  {
+   "name": "Truth or Drink: Second Edition - party",
+   "price": 26.09,
+   "available": true
+  },
+  {
+   "name": "Disc Cover - party",
+   "price": 22.59,
+   "available": true
+  },
+  {
+   "name": "Blume",
+   "price": 38.44,
+   "available": true
+  },
+  {
+   "name": "Ultimate Werewolf: Extreme - party",
+   "price": 22.59,
+   "available": true
+  },
+  {
+   "name": "Gorilla Marketing - party",
+   "price": 29.55,
+   "available": true
+  },
+  {
+   "name": "Quest - party",
+   "price": 16.25,
+   "available": true
+  },
+  {
+   "name": "Cheese Master - party",
+   "price": 9.01,
+   "available": true
+  },
+  {
+   "name": "Dexterity Jane - pary",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Kids Against Maturity: Illustrated Edition",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Bears in Barrels - party",
+   "price": 11.18,
+   "available": true
+  },
+  {
+   "name": "Trial by Trolley: R-Rated Modifier Expansion",
+   "price": 15.8,
+   "available": true
+  },
+  {
+   "name": "Trial by Trolley: R-Rated Track Expansion",
+   "price": 15.8,
+   "available": true
+  },
+  {
+   "name": "Crimes & Capers: Lady Leona's Last Wishes - party",
+   "price": 24.85,
+   "available": true
+  },
+  {
+   "name": "Royally Screwed - party",
+   "price": 20.32,
+   "available": true
+  },
+  {
+   "name": "Proširenje za društvenu igaru Master Dater: Uncut Expansion",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Cockroach Salad (Kakerlakensalat) - party",
+   "price": 8.52,
+   "available": true
+  },
+  {
+   "name": "Društvena puzzle igra Mystery House",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "8Bit Box , party",
+   "price": 18.9,
+   "available": true
+  },
+  {
+   "name": "Hasbro - Twister",
+   "price": 20.77,
+   "available": true
+  },
+  {
+   "name": "Goat Yoga - party",
+   "price": 42.08,
+   "available": true
+  },
+  {
+   "name": "Šah sa šalicama - party",
+   "price": 58.4,
+   "available": true
+  },
+  {
+   "name": "Wheel of Shots Drinking Game - party",
+   "price": 20.77,
+   "available": true
+  },
+  {
+   "name": "Beer Yoga - party",
+   "price": 26.1,
+   "available": true
+  },
+  {
+   "name": "Picture Show - party",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "One Night Ultimate: Bonus Roles",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Drink Party - party",
+   "price": 9.58,
+   "available": true
+  },
+  {
+   "name": "Sports Trivia Game",
+   "price": 15.45,
+   "available": true
+  },
+  {
+   "name": "Pop Culture Trivia Game",
+   "price": 15.45,
+   "available": true
+  },
+  {
+   "name": "Gamer Trivia Game",
+   "price": 15.45,
+   "available": true
+  },
+  {
+   "name": "Movies Trivia Game",
+   "price": 15.45,
+   "available": true
+  },
+  {
+   "name": "Travel Trivia Game",
+   "price": 15.45,
+   "available": true
+  },
+  {
+   "name": "Do I Know You? Trivia Game",
+   "price": 13.13,
+   "available": true
+  },
+  {
+   "name": "Battleshots Drinking Game - party",
+   "price": 26.1,
+   "available": true
+  },
+  {
+   "name": "Ticket to Ride - Germany",
+   "price": 38.87,
+   "available": true
+  },
+  {
+   "name": "Menara",
+   "price": 37.28,
+   "available": true
+  },
+  {
+   "name": "The Resistance (3rd Edition)",
+   "price": 17.61,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle - Drop the Beat - party",
+   "price": 5.32,
+   "available": true
+  },
+  {
+   "name": "GoodCritters - party",
+   "price": 19.7,
+   "available": true
+  },
+  {
+   "name": "Marbushka Quick! - party",
+   "price": 42.55,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle - Video Game Trivia - party",
+   "price": 26.58,
+   "available": true
+  },
+  {
+   "name": "Društvenu igra Call of Duty: K/D Party Game - party",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Camel Up (2nd Edition) - party",
+   "price": 39.67,
+   "available": true
+  },
+  {
+   "name": "Sound Box - party",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "The Great Split - party",
+   "price": 33.91,
+   "available": true
+  },
+  {
+   "name": "LLAMA - party",
+   "price": 9.01,
+   "available": true
+  },
+  {
+   "name": "Long Shot: The Dice Game - party",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "Poetry for Neanderthals: More Cards Box 1",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "Poetry for Neanderthals: NSFW Edition",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Dodelido Extreme - party",
+   "price": 8.52,
+   "available": true
+  },
+  {
+   "name": "Marvel Rock Paper Heroes: Enter the Danger Room - party",
+   "price": 10.65,
+   "available": true
+  },
+  {
+   "name": "Werewolves (New Edition) - party",
+   "price": 11.18,
+   "available": true
+  },
+  {
+   "name": "HILO - party",
+   "price": 10.82,
+   "available": true
+  },
+  {
+   "name": "Throw Throw Burrito - party",
+   "price": 26.62,
+   "available": true
+  },
+  {
+   "name": "Exploding Kittens: NSFW Edition - party",
+   "price": 20.5,
+   "available": true
+  },
+  {
+   "name": "The Great Dalmuti (D&D Edition) - Zabava",
+   "price": 11.72,
+   "available": true
+  },
+  {
+   "name": "Party društvena igra Exploding Kittens - Original Edition",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Karte Professor Puzzle - Dog Jokes",
+   "price": 4.21,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle - Cocktail Coaster",
+   "price": 5.84,
+   "available": true
+  },
+  {
+   "name": "Karte Professor Puzzle - Cat Jokes",
+   "price": 4.21,
+   "available": true
+  },
+  {
+   "name": "The Resistance - Avalon, zabava",
+   "price": 17.04,
+   "available": true
+  },
+  {
+   "name": "Ten",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "Invisible Ink",
+   "price": 10.65,
+   "available": true
+  },
+  {
+   "name": "Nasty Neighbors",
+   "price": 13.31,
+   "available": true
+  },
+  {
+   "name": "s kartama Kraljevski poker s gmizavcima",
+   "price": 9.05,
+   "available": true
+  },
+  {
+   "name": "Dinosaur Tea Party",
+   "price": 17.61,
+   "available": true
+  },
+  {
+   "name": "Trapwords",
+   "price": 14.37,
+   "available": true
+  },
+  {
+   "name": "Time Bomb Evolution",
+   "price": 9.05,
+   "available": true
+  },
+  {
+   "name": "Trial By Trolley",
+   "price": 21.23,
+   "available": true
+  },
+  {
+   "name": "Ultimate Werewolf",
+   "price": 12.78,
+   "available": true
+  },
+  {
+   "name": "Coup - kartaška",
+   "price": 14.64,
+   "available": true
+  },
+  {
+   "name": "za dvoje Codenames - Duet",
+   "price": 14.91,
+   "available": true
+  },
+  {
+   "name": "Bed, Wed, Dead: A Game of Dirty Decisions",
+   "price": 22.59,
+   "available": true
+  },
+  {
+   "name": "Drunk Stoned or Stupid (Master Edition)",
+   "price": 31.65,
+   "available": true
+  },
+  {
+   "name": "Mimable",
+   "price": 9.05,
+   "available": true
+  },
+  {
+   "name": "Cards Against Humanity - Absurd Box",
+   "price": 22.36,
+   "available": true
+  },
+  {
+   "name": "Debate",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "Ipse Dixit",
+   "price": 9.01,
+   "available": true
+  },
+  {
+   "name": "Cards Against Humanity (UK Version)",
+   "price": 33.81,
+   "available": true
+  },
+  {
+   "name": "za odrasle Activity: Club Edition Travel",
+   "price": 11.18,
+   "available": true
+  },
+  {
+   "name": "Dungeons & Dragons: Rock Paper Wizard",
+   "price": 13.31,
+   "available": true
+  },
+  {
+   "name": "Hive - Mosquito",
+   "price": 6.75,
+   "available": true
+  },
+  {
+   "name": "Dixit - Origins (4.)",
+   "price": 14.91,
+   "available": true
+  },
+  {
+   "name": "Dixit - Harmonies (8.)",
+   "price": 14.37,
+   "available": true
+  },
+  {
+   "name": "Dixit - Daydreams (5.)",
+   "price": 14.91,
+   "available": true
+  },
+  {
+   "name": "Dixit - Journey (3.)",
+   "price": 14.91,
+   "available": true
+  },
+  {
+   "name": "Dixit - Revelations (7.)",
+   "price": 14.37,
+   "available": true
+  },
+  {
+   "name": "Dixit - Mirrors (10.)",
+   "price": 14.37,
+   "available": true
+  },
+  {
+   "name": "Dixit - Quest (2.)",
+   "price": 15.34,
+   "available": true
+  },
+  {
+   "name": "Memo Challenge",
+   "price": 6.92,
+   "available": true
+  },
+  {
+   "name": "Add Up",
+   "price": 9.01,
+   "available": true
+  },
+  {
+   "name": "Drunk Stoned or Stupid - Extreme Pack",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Dixit - 10th Anniversary (9.)",
+   "price": 15.34,
+   "available": true
+  },
+  {
+   "name": "Dixit - Memories (6.)",
+   "price": 15.34,
+   "available": true
+  },
+  {
+   "name": "Do You know Me?",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "The Sound Maker",
+   "price": 9.05,
+   "available": true
+  },
+  {
+   "name": "Disturbed Friends",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "Maracas",
+   "price": 5.32,
+   "available": true
+  },
+  {
+   "name": "Fangs",
+   "price": 10.65,
+   "available": true
+  },
+  {
+   "name": "Cards Against Humanity - Everything Box",
+   "price": 23.43,
+   "available": true
+  },
+  {
+   "name": "You've Got Crabs - Imitation Crab Expansion Kit",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "So Clover!",
+   "price": 18.64,
+   "available": true
+  },
+  {
+   "name": "Dječja igra Smart Games - Atlantis Escape",
+   "price": 15.33,
+   "available": true
+  },
+  {
+   "name": "Poetry for Neanderthals",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Dune: Betrayal",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Insider Black",
+   "price": 15.8,
+   "available": true
+  },
+  {
+   "name": "Cockroach Soup (Kakerlakensuppe) - Zabava",
+   "price": 8.52,
+   "available": true
+  },
+  {
+   "name": "On A Scale of One To T-Rex",
+   "price": 22.59,
+   "available": true
+  },
+  {
+   "name": "Kakerlaken Sushi",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "- The Mandalorian Trivia Quiz",
+   "price": 5.32,
+   "available": true
+  },
+  {
+   "name": "Dreadful Circus",
+   "price": 17.57,
+   "available": true
+  },
+  {
+   "name": "You've Got Crabs",
+   "price": 17.57,
+   "available": true
+  },
+  {
+   "name": "za dvoje A Little Wordy",
+   "price": 15.8,
+   "available": true
+  },
+  {
+   "name": "Throw Throw Burrito: Extreme Outdoor Edition",
+   "price": 25.03,
+   "available": true
+  },
+  {
+   "name": "Last Message",
+   "price": 13.31,
+   "available": true
+  },
+  {
+   "name": "- Back To Hogwarts Board Game with Spinner",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Who's Most Likely To... Voting Edition",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Codenames: Pictures XXL",
+   "price": 28.22,
+   "available": true
+  },
+  {
+   "name": "Exploding Minions",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Cards Against Humanity: Family Edition",
+   "price": 23.96,
+   "available": true
+  },
+  {
+   "name": "Drinking Games for People Who Never Drink (Except When They Do)",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Codenames  (englesko izdanje)",
+   "price": 15.8,
+   "available": true
+  },
+  {
+   "name": "Cards Against Humanity - Nerd Bundle",
+   "price": 29.38,
+   "available": true
+  },
+  {
+   "name": "Drunk Stoned or Stupid",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Monopoly - Rolling Stones",
+   "price": 36.17,
+   "available": true
+  },
+  {
+   "name": "Werewords - zabavna",
+   "price": 16.7,
+   "available": true
+  },
+  {
+   "name": "Alice in Wordland - zabavna",
+   "price": 22.59,
+   "available": true
+  },
+  {
+   "name": "Kartaška igra Dodelido",
+   "price": 10.82,
+   "available": true
+  },
+  {
+   "name": "Smash Up",
+   "price": 26.62,
+   "available": true
+  },
+  {
+   "name": "Planet",
+   "price": 26.62,
+   "available": true
+  },
+  {
+   "name": "Cheating Moth (Mogel Motte) - zabavna",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Schummel Hummel - zabavna",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Codenames XXL - zabavna",
+   "price": 29.38,
+   "available": true
+  },
+  {
+   "name": "Klasična igra Tactic - Jenga",
+   "price": 21.25,
+   "available": true
+  },
+  {
+   "name": "Treasure Island",
+   "price": 38.44,
+   "available": true
+  },
+  {
+   "name": "D&D Dungeon Mayhem - kartaška",
+   "price": 11.18,
+   "available": true
+  }
+ ]
+}

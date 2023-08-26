@@ -1,0 +1,26 @@
+{
+  "name": "bg-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "npx nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/flexsearch": "^0.7.3",
+    "chalk": "^4.1.2",
+    "commander": "^11.0.0",
+    "crawler": "^1.4.0",
+    "easy-table": "^1.2.0",
+    "flexsearch": "^0.7.31"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.37.1",
+    "@types/node": "^20.5.6",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

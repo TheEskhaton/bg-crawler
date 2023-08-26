@@ -1,0 +1,2674 @@
+{
+ "products": [
+  {
+   "name": "IT: Chapter Two",
+   "price": 9.01,
+   "available": true
+  },
+  {
+   "name": "Seasons of Arcadia",
+   "price": 38.44,
+   "available": true
+  },
+  {
+   "name": "Nightmare Productions",
+   "price": 54.28,
+   "available": true
+  },
+  {
+   "name": "Mech A Dream",
+   "price": 29.38,
+   "available": true
+  },
+  {
+   "name": "Set društvenih igara Six in One Compendium",
+   "price": 24.85,
+   "available": true
+  },
+  {
+   "name": "Everdell: Tales from the Green Acorn",
+   "price": 34.61,
+   "available": true
+  },
+  {
+   "name": "Everdell - Mistwood",
+   "price": 47.4,
+   "available": true
+  },
+  {
+   "name": "Hey That's My Fish!",
+   "price": 13.84,
+   "available": true
+  },
+  {
+   "name": "Everdell: Glimmergold Pack",
+   "price": 37.28,
+   "available": true
+  },
+  {
+   "name": "Monopoly - David Bowie",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "Ludoshi",
+   "price": 52.73,
+   "available": true
+  },
+  {
+   "name": "Monopoly - The Goonies",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "Monopoly - Gremlins",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "Draughts",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Behext",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "Pandemic: Contagion",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "Looney Tunes Mayhem",
+   "price": 50.59,
+   "available": true
+  },
+  {
+   "name": "Spin Master Jenga",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "Next Station: Tokyo",
+   "price": 13.31,
+   "available": true
+  },
+  {
+   "name": "Stella: Dixit Universe (englesko izdanje)",
+   "price": 30.35,
+   "available": true
+  },
+  {
+   "name": "za dvoje Great Plains",
+   "price": 20.32,
+   "available": true
+  },
+  {
+   "name": "Akropolis",
+   "price": 26.09,
+   "available": true
+  },
+  {
+   "name": "Komplet od 101 igre za djecu i odrasle",
+   "price": 14.91,
+   "available": true
+  },
+  {
+   "name": "Clever 4ever",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "za dvoje Rubik's Race",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "7 Wonders Edifice (2nd Edition)",
+   "price": 23.91,
+   "available": true
+  },
+  {
+   "name": "Mille Fiori: The Masterpieces",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Froth It",
+   "price": 6.75,
+   "available": true
+  },
+  {
+   "name": "Drvena igra s figurama 2 u 1 - gumica i šah",
+   "price": 20.19,
+   "available": true
+  },
+  {
+   "name": "Generation Genius Trivia",
+   "price": 3.58,
+   "available": true
+  },
+  {
+   "name": "Potion House",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Disney Villainous: Bigger & Badder",
+   "price": 31.95,
+   "available": true
+  },
+  {
+   "name": "Terra Futura",
+   "price": 20.37,
+   "available": true
+  },
+  {
+   "name": "Optical Illusions",
+   "price": 6.75,
+   "available": true
+  },
+  {
+   "name": "Hidden Leaders: Booster Pack",
+   "price": 6.75,
+   "available": true
+  },
+  {
+   "name": "Wonder Woods",
+   "price": 18.64,
+   "available": true
+  },
+  {
+   "name": "Don't Get Stabbed",
+   "price": 20.32,
+   "available": true
+  },
+  {
+   "name": "Snakes & Ladders",
+   "price": 21.25,
+   "available": true
+  },
+  {
+   "name": "Bingo",
+   "price": 5.85,
+   "available": true
+  },
+  {
+   "name": "DOG",
+   "price": 6.39,
+   "available": true
+  },
+  {
+   "name": "Four in a Row",
+   "price": 21.25,
+   "available": true
+  },
+  {
+   "name": "Munchkin Pathfinder",
+   "price": 24.85,
+   "available": true
+  },
+  {
+   "name": "Kingswood",
+   "price": 29.38,
+   "available": true
+  },
+  {
+   "name": "Everdell: Collector's Edition",
+   "price": 84.94,
+   "available": true
+  },
+  {
+   "name": "OverbooKing",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Shut the Box",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "The Mad Hatter's Tea Party Games",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "Fabula Rasa: Seemannsgarn",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "Set od 10 društvenih igara",
+   "price": 19.7,
+   "available": true
+  },
+  {
+   "name": "Rivality",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "K2",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "The Quest for El Dorado",
+   "price": 38.44,
+   "available": true
+  },
+  {
+   "name": "Fabula Rasa: Horror",
+   "price": 8.1,
+   "available": true
+  },
+  {
+   "name": "Uno Quatro",
+   "price": 22.63,
+   "available": true
+  },
+  {
+   "name": "Songbirds",
+   "price": 19.17,
+   "available": true
+  },
+  {
+   "name": "My Lil' Everdell",
+   "price": 34.61,
+   "available": true
+  },
+  {
+   "name": "Labyrinth",
+   "price": 22.63,
+   "available": true
+  },
+  {
+   "name": "Scrabble Junior 2 u 1 - hrvatski jezik",
+   "price": 19.01,
+   "available": true
+  },
+  {
+   "name": "Pictionary - hrvatski jezik",
+   "price": 5.43,
+   "available": true
+  },
+  {
+   "name": "Trool Park",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "Monopoly",
+   "price": 30.35,
+   "available": true
+  },
+  {
+   "name": "Miyabi",
+   "price": 32.1,
+   "available": true
+  },
+  {
+   "name": "Legend Raiders",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "The Gardens",
+   "price": 31.65,
+   "available": true
+  },
+  {
+   "name": "Cluedo - Dungeons & Dragons",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "Ravensburger Labyrinth Team Edition",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Hasbro Monopoly: Netflix La Casa de Papel - Money Heist",
+   "price": 33.91,
+   "available": true
+  },
+  {
+   "name": "Inkognito",
+   "price": 28.75,
+   "available": true
+  },
+  {
+   "name": "Villa of the Vampire",
+   "price": 26.62,
+   "available": true
+  },
+  {
+   "name": "Kids Against Maturity: Illustrated Edition",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Dungeon Time",
+   "price": 22.59,
+   "available": true
+  },
+  {
+   "name": "Valentine's Day",
+   "price": 9.05,
+   "available": true
+  },
+  {
+   "name": "Ravensburger Labyrinth Disney Villains",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "Chocobo Party Up!",
+   "price": 45.23,
+   "available": true
+  },
+  {
+   "name": "Beat The Parents",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Last One Alive",
+   "price": 12.78,
+   "available": true
+  },
+  {
+   "name": "Scotland Yard",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Karuba",
+   "price": 35.72,
+   "available": true
+  },
+  {
+   "name": "Pappy Winchester",
+   "price": 15.44,
+   "available": true
+  },
+  {
+   "name": "Canopy",
+   "price": 22.59,
+   "available": true
+  },
+  {
+   "name": "Bellz",
+   "price": 18.64,
+   "available": true
+  },
+  {
+   "name": "Paper Dungeons",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "Pronađite petice",
+   "price": 17.61,
+   "available": true
+  },
+  {
+   "name": "Animix",
+   "price": 9.05,
+   "available": true
+  },
+  {
+   "name": "Eriantys",
+   "price": 23.96,
+   "available": true
+  },
+  {
+   "name": "Istanbul: Choose & Write",
+   "price": 16.51,
+   "available": true
+  },
+  {
+   "name": "Wurf & Weg",
+   "price": 17.61,
+   "available": true
+  },
+  {
+   "name": "Harry Potter: Potions Challenge Game , poljski jezik",
+   "price": 20.32,
+   "available": true
+  },
+  {
+   "name": "Level 10",
+   "price": 7.45,
+   "available": true
+  },
+  {
+   "name": "Bendomino",
+   "price": 14.37,
+   "available": true
+  },
+  {
+   "name": "Overboss: A Boss Monster Adventure",
+   "price": 36.17,
+   "available": true
+  },
+  {
+   "name": "Vikings on Board - сobiteljska",
+   "price": 20.77,
+   "available": true
+  },
+  {
+   "name": "Cloaked cats",
+   "price": 17.61,
+   "available": true
+  },
+  {
+   "name": "Museum Suspects",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Lost Seas",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Karuba: The Card Game",
+   "price": 12.24,
+   "available": true
+  },
+  {
+   "name": "Peaky Blinders: Faster than Truth",
+   "price": 15.8,
+   "available": true
+  },
+  {
+   "name": "Hasbro Cluedo: The Classic Mystery Game",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "Monopoly Dungeons & Dragons: Honor Among Thieves (English Version)",
+   "price": 29.29,
+   "available": true
+  },
+  {
+   "name": "The Binding of Isaac: Four Souls Requiem - The Ultimate Collection",
+   "price": 103.85,
+   "available": true
+  },
+  {
+   "name": "Monopoly: Star Wars – The Child Edition",
+   "price": 29.38,
+   "available": true
+  },
+  {
+   "name": "Dixit: Disney (Bugarsko izdanje)",
+   "price": 31.42,
+   "available": true
+  },
+  {
+   "name": "Mystery House: The Lost Ship",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "Mystery House: Back to Tombstone",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "Riftforce: Beyond",
+   "price": 22.59,
+   "available": true
+  },
+  {
+   "name": "za dvoje King & Assassins (Deluxe Edition)",
+   "price": 26.09,
+   "available": true
+  },
+  {
+   "name": "za dvoje Fairy Tale Inn",
+   "price": 31.95,
+   "available": true
+  },
+  {
+   "name": "Star Wars Villainous: Power of the Dark Side",
+   "price": 37.28,
+   "available": true
+  },
+  {
+   "name": "Scotland Yard: Sherlock Holmes Edition",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "Everdell: Complete Collection",
+   "price": 292.39,
+   "available": true
+  },
+  {
+   "name": "Bargain Quest",
+   "price": 33.91,
+   "available": true
+  },
+  {
+   "name": "Costa Rica",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Pet: Luda utrka brojanja - dječja",
+   "price": 11.72,
+   "available": true
+  },
+  {
+   "name": "8Bit Box , party",
+   "price": 18.9,
+   "available": true
+  },
+  {
+   "name": "Escape Tales: Low Memory",
+   "price": 20.32,
+   "available": true
+  },
+  {
+   "name": "Fjords",
+   "price": 33.91,
+   "available": true
+  },
+  {
+   "name": "Obiteljska društvena igra Love Letter - Second Edition",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "Hasbro Monopoly: Bid - dječja",
+   "price": 5.85,
+   "available": true
+  },
+  {
+   "name": "STAR Slingslide - hokej",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Escape Tales: Children of Wyrmwood",
+   "price": 18.64,
+   "available": true
+  },
+  {
+   "name": "Martial Art",
+   "price": 29.38,
+   "available": true
+  },
+  {
+   "name": "King of New York - Power Up",
+   "price": 11.18,
+   "available": true
+  },
+  {
+   "name": "King of Tokyo - Halloween",
+   "price": 9.58,
+   "available": true
+  },
+  {
+   "name": "King of Tokyo - Power Up",
+   "price": 12.18,
+   "available": true
+  },
+  {
+   "name": "Break the Code",
+   "price": 12.63,
+   "available": true
+  },
+  {
+   "name": "Downforce - Danger Circuit",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "za dvoje Botanik",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Jaipur (2nd Edition)",
+   "price": 17.57,
+   "available": true
+  },
+  {
+   "name": "Igra s kartama Crni Petar - Harry Potter",
+   "price": 2.66,
+   "available": true
+  },
+  {
+   "name": "Dječja igra Tomy Games - T-Rex koji skače",
+   "price": 21.25,
+   "available": true
+  },
+  {
+   "name": "Tabletop Bowling",
+   "price": 31.42,
+   "available": true
+  },
+  {
+   "name": "Distant Suns",
+   "price": 10.65,
+   "available": true
+  },
+  {
+   "name": "My Little Pony: Adventures in Equestria - Familiar Faces",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Pathfinder: Goblin Firework Fight",
+   "price": 29.38,
+   "available": true
+  },
+  {
+   "name": "Monopoly: Top Gun",
+   "price": 26.62,
+   "available": true
+  },
+  {
+   "name": "Monopoly: Back to the future",
+   "price": 26.62,
+   "available": true
+  },
+  {
+   "name": "The Phantom Society",
+   "price": 14.91,
+   "available": true
+  },
+  {
+   "name": "Mystery House: The Secret of The Pharaoh",
+   "price": 9.05,
+   "available": true
+  },
+  {
+   "name": "Scrabble  (hrvatski jezik)",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Star Trek: Missions",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Whot! - Rick and Morty",
+   "price": 5.32,
+   "available": true
+  },
+  {
+   "name": "Festo!",
+   "price": 10.65,
+   "available": true
+  },
+  {
+   "name": "Sudoku kocka",
+   "price": 15.45,
+   "available": true
+  },
+  {
+   "name": "Hop!",
+   "price": 42.07,
+   "available": true
+  },
+  {
+   "name": "Rattus: Big Box",
+   "price": 66.57,
+   "available": true
+  },
+  {
+   "name": "Whitehall Mystery",
+   "price": 42.96,
+   "available": true
+  },
+  {
+   "name": "Monopoly - Super Mario Celebration (English Version)",
+   "price": 47.94,
+   "available": true
+  },
+  {
+   "name": "Sports Trivia Game",
+   "price": 15.45,
+   "available": true
+  },
+  {
+   "name": "Pop Culture Trivia Game",
+   "price": 15.45,
+   "available": true
+  },
+  {
+   "name": "Gamer Trivia Game",
+   "price": 15.45,
+   "available": true
+  },
+  {
+   "name": "Smash Up: 10th Anniversary Set",
+   "price": 34.61,
+   "available": true
+  },
+  {
+   "name": "Movies Trivia Game",
+   "price": 15.45,
+   "available": true
+  },
+  {
+   "name": "Travel Trivia Game",
+   "price": 15.45,
+   "available": true
+  },
+  {
+   "name": "Do I Know You? Trivia Game",
+   "price": 13.13,
+   "available": true
+  },
+  {
+   "name": "Harry Potter Miniatures Adventure Game: The Chamber of Secrets Chronicles Box (Limited Edition)",
+   "price": 69.23,
+   "available": true
+  },
+  {
+   "name": "Smash Up: Bigger Geekier Box",
+   "price": 37.28,
+   "available": true
+  },
+  {
+   "name": "Silver  (englesko izdanje)",
+   "price": 14.37,
+   "available": true
+  },
+  {
+   "name": "Call to Adventure: The Name of the Wind",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Call to Adventure: The Stormlight Archive",
+   "price": 31.65,
+   "available": true
+  },
+  {
+   "name": "The Walking Dead: Something to Fear",
+   "price": 20.32,
+   "available": true
+  },
+  {
+   "name": "Marbushka Do it Yourself (Boardgame Making Kit)",
+   "price": 25.51,
+   "available": true
+  },
+  {
+   "name": "Ticket to Ride - Germany",
+   "price": 38.87,
+   "available": true
+  },
+  {
+   "name": "Imaginarium",
+   "price": 39.34,
+   "available": true
+  },
+  {
+   "name": "Fallout Shelter: The Board Game",
+   "price": 37.81,
+   "available": true
+  },
+  {
+   "name": "Tidal Blades: Heroes of the Reef",
+   "price": 44.77,
+   "available": true
+  },
+  {
+   "name": "Menara",
+   "price": 37.28,
+   "available": true
+  },
+  {
+   "name": "Equinox (Green Box)",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Agricola Family",
+   "price": 27.16,
+   "available": true
+  },
+  {
+   "name": "Seasons",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "Ticket to Ride - Nederland",
+   "price": 22.9,
+   "available": true
+  },
+  {
+   "name": "The Legend of the Cherry Tree",
+   "price": 16.7,
+   "available": true
+  },
+  {
+   "name": "Ninja Academy",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Century - Golem Edition",
+   "price": 29.29,
+   "available": true
+  },
+  {
+   "name": "Prijenosna društvena igra, 6 u 1",
+   "price": 12.2,
+   "available": true
+  },
+  {
+   "name": "Bunny Kingdom - In the Sky",
+   "price": 23.49,
+   "available": true
+  },
+  {
+   "name": "Ishtar: Gardens of Babylon",
+   "price": 28.02,
+   "available": true
+  },
+  {
+   "name": "World Shapers",
+   "price": 12.18,
+   "available": true
+  },
+  {
+   "name": "Little Town",
+   "price": 17.57,
+   "available": true
+  },
+  {
+   "name": "Logička igra Professor Puzzle - Sword of Nine Seals",
+   "price": 10.65,
+   "available": true
+  },
+  {
+   "name": "Proširenje za društvenu igaru Azul: Summer Pavilion - Glazed Pavilion",
+   "price": 12.78,
+   "available": true
+  },
+  {
+   "name": "Hasbro Monopoly - Queen",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "Bunny Kingdom",
+   "price": 36.17,
+   "available": true
+  },
+  {
+   "name": "Proširenje za društvenu igaru Meadow: Downstream",
+   "price": 23.49,
+   "available": true
+  },
+  {
+   "name": "Arboretum",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Everdell , obiteljska",
+   "price": 48.99,
+   "available": true
+  },
+  {
+   "name": "Marbushka The Lost Necklace",
+   "price": 42.55,
+   "available": true
+  },
+  {
+   "name": "Marbushka Lighthouse Adventure",
+   "price": 36.16,
+   "available": true
+  },
+  {
+   "name": "Logička igra-slagalica Professor Puzzle - Sherlock Holmes The Case of Moriarty's Lair",
+   "price": 31.9,
+   "available": true
+  },
+  {
+   "name": "za dvoje Marbushka Ed & Wolf",
+   "price": 44.68,
+   "available": true
+  },
+  {
+   "name": "Marbushka The Forgotten Kingdom",
+   "price": 53.21,
+   "available": true
+  },
+  {
+   "name": "Marbushka Piggily",
+   "price": 38.29,
+   "available": true
+  },
+  {
+   "name": "Yak",
+   "price": 29.29,
+   "available": true
+  },
+  {
+   "name": "Megaland",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Maui",
+   "price": 31.65,
+   "available": true
+  },
+  {
+   "name": "Broken Planet",
+   "price": 56.54,
+   "available": true
+  },
+  {
+   "name": "The Hunger",
+   "price": 37.28,
+   "available": true
+  },
+  {
+   "name": "Insecta: The Ladies of Entomology",
+   "price": 37.28,
+   "available": true
+  },
+  {
+   "name": "Knight Fall",
+   "price": 39.41,
+   "available": true
+  },
+  {
+   "name": "Silver Coin",
+   "price": 18.64,
+   "available": true
+  },
+  {
+   "name": "Wormholes",
+   "price": 34.61,
+   "available": true
+  },
+  {
+   "name": "Talisman Harry Potter",
+   "price": 42.6,
+   "available": true
+  },
+  {
+   "name": "Camel Up: Off Season",
+   "price": 31.95,
+   "available": true
+  },
+  {
+   "name": "Dog Lover",
+   "price": 19.7,
+   "available": true
+  },
+  {
+   "name": "World's Fair 1893",
+   "price": 31.95,
+   "available": true
+  },
+  {
+   "name": "Century: Golem Edition - An Endless World",
+   "price": 31.65,
+   "available": true
+  },
+  {
+   "name": "Enola Holmes: Finder of lost Souls",
+   "price": 31.65,
+   "available": true
+  },
+  {
+   "name": "Carcassonne 20th Anniversary Edition",
+   "price": 43.67,
+   "available": true
+  },
+  {
+   "name": "Welcome To The Moon",
+   "price": 33.91,
+   "available": true
+  },
+  {
+   "name": "Talisman: Star Wars",
+   "price": 31.95,
+   "available": true
+  },
+  {
+   "name": "Travelin",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "Carnival of Monsters",
+   "price": 16.51,
+   "available": true
+  },
+  {
+   "name": "Cluedo - Killing Eve",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "Tiny Turbo Cars - Collector's Edition",
+   "price": 53.25,
+   "available": true
+  },
+  {
+   "name": "Spaceship Unity - Season 1.1",
+   "price": 26.62,
+   "available": true
+  },
+  {
+   "name": "Monopoly - Peanuts",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "Pathfinder: Level 20",
+   "price": 18.64,
+   "available": true
+  },
+  {
+   "name": "Mandragora",
+   "price": 11.72,
+   "available": true
+  },
+  {
+   "name": "Pearladora",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "Hibachi: Hot & Spicy",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Monopoly - Bond 007",
+   "price": 38.44,
+   "available": true
+  },
+  {
+   "name": "Tiny Turbo Cars",
+   "price": 13.31,
+   "available": true
+  },
+  {
+   "name": "Dale of Merchants Collection",
+   "price": 36.17,
+   "available": true
+  },
+  {
+   "name": "Starship Captains",
+   "price": 29.29,
+   "available": true
+  },
+  {
+   "name": "Dale of Merchants 2",
+   "price": 12.78,
+   "available": true
+  },
+  {
+   "name": "Monopoly - Lilo & Stitch",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "Ticket To Ride: San Francisco",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Astra",
+   "price": 24.49,
+   "available": true
+  },
+  {
+   "name": "za dvoje Exploding Kittens - 2 Player Edition",
+   "price": 9.05,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle: Peace by Peace Succulents",
+   "price": 18.05,
+   "available": true
+  },
+  {
+   "name": "Guardians",
+   "price": 31.65,
+   "available": true
+  },
+  {
+   "name": "Tidal Blades: Banner Festival",
+   "price": 26.62,
+   "available": true
+  },
+  {
+   "name": "Paris - l'Etoile Expansion",
+   "price": 10.11,
+   "available": true
+  },
+  {
+   "name": "3000 Scoundrels",
+   "price": 33.91,
+   "available": true
+  },
+  {
+   "name": "Witless Wizards",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "The Guild of Merchant Explorers",
+   "price": 38.44,
+   "available": true
+  },
+  {
+   "name": "Nessos",
+   "price": 9.05,
+   "available": true
+  },
+  {
+   "name": "Galaxy Trucker: Keep on Trucking",
+   "price": 23.49,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle: Escape From The Museum",
+   "price": 5.27,
+   "available": true
+  },
+  {
+   "name": "Barenpark",
+   "price": 29.29,
+   "available": true
+  },
+  {
+   "name": "Dive",
+   "price": 22.9,
+   "available": true
+  },
+  {
+   "name": "Sushi Go!",
+   "price": 11.18,
+   "available": true
+  },
+  {
+   "name": "Dale of Merchants 3",
+   "price": 12.24,
+   "available": true
+  },
+  {
+   "name": "Catan: Dawn of Humankind",
+   "price": 54.85,
+   "available": true
+  },
+  {
+   "name": "- Scrabble (engleski jezik)",
+   "price": 20.77,
+   "available": true
+  },
+  {
+   "name": "Sheriff of Nottingham (2nd Edition)",
+   "price": 36.74,
+   "available": true
+  },
+  {
+   "name": "Azul: Summer Pavilion",
+   "price": 34.61,
+   "available": true
+  },
+  {
+   "name": "Flamecraft",
+   "price": 29.82,
+   "available": true
+  },
+  {
+   "name": "Port Royal Big Box",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "SmallWorld Underground",
+   "price": 42.6,
+   "available": true
+  },
+  {
+   "name": "World of Tanks Miniatures Game  - obiteljka",
+   "price": 30.89,
+   "available": true
+  },
+  {
+   "name": "Kilim",
+   "price": 17.61,
+   "available": true
+  },
+  {
+   "name": "Kannste Knicken",
+   "price": 7.45,
+   "available": true
+  },
+  {
+   "name": "Kanagawa",
+   "price": 20.32,
+   "available": true
+  },
+  {
+   "name": "Throw Throw Burrito - party",
+   "price": 26.62,
+   "available": true
+  },
+  {
+   "name": "Dune - Arrakis: Dawn of the Fremen",
+   "price": 31.95,
+   "available": true
+  },
+  {
+   "name": "Star Wars: Jabbas Palace (A Love Letter Game)",
+   "price": 12.78,
+   "available": true
+  },
+  {
+   "name": "Atari Centipede",
+   "price": 10.65,
+   "available": true
+  },
+  {
+   "name": "Azul: Kraljevski vrt",
+   "price": 35.15,
+   "available": true
+  },
+  {
+   "name": "Encore!",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "I Know It All!",
+   "price": 13.31,
+   "available": true
+  },
+  {
+   "name": "Anagramming",
+   "price": 10.65,
+   "available": true
+  },
+  {
+   "name": "Nomen",
+   "price": 10.65,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle - Travel Trivia",
+   "price": 14.33,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle - The Big Movie Quiz",
+   "price": 14.33,
+   "available": true
+  },
+  {
+   "name": "Drvena igra Professor Puzzle - Jenga, 54 komada",
+   "price": 14.89,
+   "available": true
+  },
+  {
+   "name": "Triovision",
+   "price": 15.8,
+   "available": true
+  },
+  {
+   "name": "Valeria Card Kingdoms (2nd Edition)",
+   "price": 28.22,
+   "available": true
+  },
+  {
+   "name": "Proširenje za društvenu igaru Ticket to Ride - Poland",
+   "price": 19.7,
+   "available": true
+  },
+  {
+   "name": "Mystic Vale: Essential Edition",
+   "price": 63.91,
+   "available": true
+  },
+  {
+   "name": "Fabula Rasa: Crime",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle - Book Trivia",
+   "price": 4.21,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle - Music Trivia",
+   "price": 3.58,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle - Sports Trivia",
+   "price": 3.58,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle - PET Trivia",
+   "price": 3.58,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle - Food and Drink",
+   "price": 4.21,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle - Movie Trivia",
+   "price": 4.21,
+   "available": true
+  },
+  {
+   "name": "Professor Puzzle - Pocket Pub Quiz",
+   "price": 4.21,
+   "available": true
+  },
+  {
+   "name": "Brew",
+   "price": 25.76,
+   "available": true
+  },
+  {
+   "name": "Monopoly - The Big Bang Theory Edition",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "7 Wonders Architects - obiteljski",
+   "price": 35.41,
+   "available": true
+  },
+  {
+   "name": "Ticket to Ride",
+   "price": 36.74,
+   "available": true
+  },
+  {
+   "name": "Dinosaur Tea Party",
+   "price": 17.61,
+   "available": true
+  },
+  {
+   "name": "Castles of Caladale, obiteljska",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "Blue Lagoon,",
+   "price": 17.57,
+   "available": true
+  },
+  {
+   "name": "Dr. Beaker",
+   "price": 22.59,
+   "available": true
+  },
+  {
+   "name": "Ninja Night",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Uxmal",
+   "price": 14.37,
+   "available": true
+  },
+  {
+   "name": "Scarabya",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "Dragon Market",
+   "price": 30.29,
+   "available": true
+  },
+  {
+   "name": "Hanamikoji",
+   "price": 14.91,
+   "available": true
+  },
+  {
+   "name": "Betrayal at Baldur's Gate",
+   "price": 42.96,
+   "available": true
+  },
+  {
+   "name": "Time Bomb Evolution",
+   "price": 9.05,
+   "available": true
+  },
+  {
+   "name": "Flyin' Goblin",
+   "price": 22.9,
+   "available": true
+  },
+  {
+   "name": "Fairy Tile",
+   "price": 17.04,
+   "available": true
+  },
+  {
+   "name": "Rent a Hero",
+   "price": 12.18,
+   "available": true
+  },
+  {
+   "name": "Pictionary Air",
+   "price": 19.01,
+   "available": true
+  },
+  {
+   "name": "Ultimate Werewolf",
+   "price": 12.78,
+   "available": true
+  },
+  {
+   "name": "Welcome Back to the Dungeon",
+   "price": 12.63,
+   "available": true
+  },
+  {
+   "name": "Agricola (Revisited Edition)",
+   "price": 45.27,
+   "available": true
+  },
+  {
+   "name": "Everdell - Bellfaire",
+   "price": 34.61,
+   "available": true
+  },
+  {
+   "name": "Welcome to the Dungeon",
+   "price": 12.63,
+   "available": true
+  },
+  {
+   "name": "Obrazovna društvena igra Otimo",
+   "price": 22.41,
+   "available": true
+  },
+  {
+   "name": "Ticket to Ride - Asia",
+   "price": 31.95,
+   "available": true
+  },
+  {
+   "name": "Vivid Memories",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Dodatak za društvenu igru Unicorn Fever - El Sparko Dorado",
+   "price": 2.66,
+   "available": true
+  },
+  {
+   "name": "Dodatak za društvenu igru Unicorn Fever - Hilda Rainbowbreaker",
+   "price": 7.2,
+   "available": true
+  },
+  {
+   "name": "Dodatak za društvenu igru Unicorn Fever - Frankie Flakes",
+   "price": 7.2,
+   "available": true
+  },
+  {
+   "name": "Smash Up: Marvel",
+   "price": 31.65,
+   "available": true
+  },
+  {
+   "name": "Mandala (Mandala Stones) - Harmony",
+   "price": 6.92,
+   "available": true
+  },
+  {
+   "name": "za dvoje Mandala",
+   "price": 18.97,
+   "available": true
+  },
+  {
+   "name": "Railroad Ink - Electricity",
+   "price": 7.2,
+   "available": true
+  },
+  {
+   "name": "Ticket to Ride - Europe (englesko izdanje)",
+   "price": 39.94,
+   "available": true
+  },
+  {
+   "name": "Istanbul - Big Box",
+   "price": 38.87,
+   "available": true
+  },
+  {
+   "name": "Rummy",
+   "price": 42.61,
+   "available": true
+  },
+  {
+   "name": "Pirate Kimble",
+   "price": 21.25,
+   "available": true
+  },
+  {
+   "name": "Cleocatra",
+   "price": 16.7,
+   "available": true
+  },
+  {
+   "name": "Century: Golem Edition – Eastern Mountains",
+   "price": 28.22,
+   "available": true
+  },
+  {
+   "name": "Patchwork Americana Edition",
+   "price": 15.8,
+   "available": true
+  },
+  {
+   "name": "Codenames: Disney",
+   "price": 21.83,
+   "available": true
+  },
+  {
+   "name": "Dungeon Academy - The Lost Forest",
+   "price": 5.85,
+   "available": true
+  },
+  {
+   "name": "Wise Guys",
+   "price": 37.28,
+   "available": true
+  },
+  {
+   "name": "Dungeon Academy - The Forbidden Mountain",
+   "price": 5.85,
+   "available": true
+  },
+  {
+   "name": "Monopoly - Jaws",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "Monopoly - Metallica",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "Hidden Leaders",
+   "price": 16.51,
+   "available": true
+  },
+  {
+   "name": "Monopoly - Dungeons and Dragons",
+   "price": 31.95,
+   "available": true
+  },
+  {
+   "name": "The Isle of Cats: Explore & Draw",
+   "price": 18.64,
+   "available": true
+  },
+  {
+   "name": "The Isle of Cats: Kittens + Beasts",
+   "price": 24.85,
+   "available": true
+  },
+  {
+   "name": "Potion Explosion - The Fifth Ingredient",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Contact",
+   "price": 17.61,
+   "available": true
+  },
+  {
+   "name": "Visual",
+   "price": 11.72,
+   "available": true
+  },
+  {
+   "name": "Words in Mind",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "za dvoje Radlands",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Nine Dice",
+   "price": 9.58,
+   "available": true
+  },
+  {
+   "name": "za dvoje Seven Games",
+   "price": 9.05,
+   "available": true
+  },
+  {
+   "name": "Storyteller",
+   "price": 9.01,
+   "available": true
+  },
+  {
+   "name": "Welkin",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Dream Runners",
+   "price": 29.38,
+   "available": true
+  },
+  {
+   "name": "Tajuto",
+   "price": 36.17,
+   "available": true
+  },
+  {
+   "name": "Gravwell (2nd Edition)",
+   "price": 31.65,
+   "available": true
+  },
+  {
+   "name": "Broom Service",
+   "price": 24.49,
+   "available": true
+  },
+  {
+   "name": "Museum - Peoples Choice",
+   "price": 13.84,
+   "available": true
+  },
+  {
+   "name": "i proširenje Disney Villainous - Perfectly Wretched",
+   "price": 31.65,
+   "available": true
+  },
+  {
+   "name": "Ravensburger Back to the Future",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "Ravensburger Scotland Yard Card Game",
+   "price": 5.85,
+   "available": true
+  },
+  {
+   "name": "Dungeons & Dragons: Rock Paper Wizard - Fistful of Monsters",
+   "price": 15.8,
+   "available": true
+  },
+  {
+   "name": "Zombie Princess and the Enchanted Maze",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Bequest",
+   "price": 31.95,
+   "available": true
+  },
+  {
+   "name": "Ligretto Domino",
+   "price": 21.68,
+   "available": true
+  },
+  {
+   "name": "Klasična igra Schmidt - Tripple Domino",
+   "price": 19.87,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions - The Galaxy's Most Wanted",
+   "price": 37.28,
+   "available": true
+  },
+  {
+   "name": "Marvel Champions - Star-Lord Hero Pack",
+   "price": 14.37,
+   "available": true
+  },
+  {
+   "name": "za dvoje ZERTZ",
+   "price": 29.38,
+   "available": true
+  },
+  {
+   "name": "Mille Fiori",
+   "price": 30.74,
+   "available": true
+  },
+  {
+   "name": "Hive - Mosquito",
+   "price": 6.75,
+   "available": true
+  },
+  {
+   "name": "Sorcerer City",
+   "price": 40.7,
+   "available": true
+  },
+  {
+   "name": "Glory Islands",
+   "price": 26.62,
+   "available": true
+  },
+  {
+   "name": "The Grimm Masquerade",
+   "price": 20.32,
+   "available": true
+  },
+  {
+   "name": "Viticulture - Essential Edition",
+   "price": 45.27,
+   "available": true
+  },
+  {
+   "name": "AlderQuest",
+   "price": 25.03,
+   "available": true
+  },
+  {
+   "name": "reMEmber",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Framework",
+   "price": 26.09,
+   "available": true
+  },
+  {
+   "name": "Hidden Games Crime Scene: The Little Gomersal Case",
+   "price": 21.83,
+   "available": true
+  },
+  {
+   "name": "Drvena igra za put Small Foot - Zmije i stepenice",
+   "price": 8.52,
+   "available": true
+  },
+  {
+   "name": "First Rat",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "Dixit - Origins (4.)",
+   "price": 14.91,
+   "available": true
+  },
+  {
+   "name": "Dixit - Harmonies (8.)",
+   "price": 14.37,
+   "available": true
+  },
+  {
+   "name": "Drvena igra Small Foot - Čovječe, ne ljuti se, safari životinje",
+   "price": 14.91,
+   "available": true
+  },
+  {
+   "name": "Drvena društvena igra Small Foot - Čovječe, ne ljuti se",
+   "price": 6.39,
+   "available": true
+  },
+  {
+   "name": "Dixit - Daydreams (5.)",
+   "price": 14.91,
+   "available": true
+  },
+  {
+   "name": "Dixit - Journey (3.)",
+   "price": 14.91,
+   "available": true
+  },
+  {
+   "name": "Strand Unter",
+   "price": 23.96,
+   "available": true
+  },
+  {
+   "name": "Fire & Stone",
+   "price": 23.96,
+   "available": true
+  },
+  {
+   "name": "Dixit - Revelations (7.)",
+   "price": 14.37,
+   "available": true
+  },
+  {
+   "name": "Tobago",
+   "price": 29.29,
+   "available": true
+  },
+  {
+   "name": "Dixit - Mirrors (10.)",
+   "price": 14.37,
+   "available": true
+  },
+  {
+   "name": "Dixit - Quest (2.)",
+   "price": 15.34,
+   "available": true
+  },
+  {
+   "name": "Drvena igra Small Foot - Čovječe, ne ljuti se, sa životinjama, plava",
+   "price": 19.17,
+   "available": true
+  },
+  {
+   "name": "Chronicles of Avel",
+   "price": 33.91,
+   "available": true
+  },
+  {
+   "name": "KO Memo",
+   "price": 14.44,
+   "available": true
+  },
+  {
+   "name": "Twin Cities",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Quick Stick",
+   "price": 14.44,
+   "available": true
+  },
+  {
+   "name": "Murano: Light Masters",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "MasterBluff",
+   "price": 9.01,
+   "available": true
+  },
+  {
+   "name": "Sequence-X",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "Escape Math",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Optical",
+   "price": 9.01,
+   "available": true
+  },
+  {
+   "name": "Dixit - 10th Anniversary (9.)",
+   "price": 15.34,
+   "available": true
+  },
+  {
+   "name": "Dixit - Memories (6.)",
+   "price": 15.34,
+   "available": true
+  },
+  {
+   "name": "Clouds",
+   "price": 7.45,
+   "available": true
+  },
+  {
+   "name": "Fiesta Mexicana",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "za dvoje Bubble Stories",
+   "price": 7.45,
+   "available": true
+  },
+  {
+   "name": "Društvena solo igra Mazescape Ariadne",
+   "price": 9.01,
+   "available": true
+  },
+  {
+   "name": "OČZ: Horde čudovišta i zlikovaca",
+   "price": 18.64,
+   "available": true
+  },
+  {
+   "name": "za dvoje Fairy Trails",
+   "price": 13.08,
+   "available": true
+  },
+  {
+   "name": "za dvoje Kahuna",
+   "price": 15.8,
+   "available": true
+  },
+  {
+   "name": "Adventure Games - The Volcanic Island",
+   "price": 10.11,
+   "available": true
+  },
+  {
+   "name": "za dvoje Imhotep: The Duel",
+   "price": 15.8,
+   "available": true
+  },
+  {
+   "name": "Adventure Games - The Grand Hotel Abaddon",
+   "price": 16.7,
+   "available": true
+  },
+  {
+   "name": "Andor: The Family Fantasy Game",
+   "price": 22.9,
+   "available": true
+  },
+  {
+   "name": "The Adventures of Robin Hood",
+   "price": 35.15,
+   "available": true
+  },
+  {
+   "name": "za dvoje Brix",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Who did it?",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "Once Upon a Castle",
+   "price": 23.04,
+   "available": true
+  },
+  {
+   "name": "Princess Legend",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Cloud City",
+   "price": 16.51,
+   "available": true
+  },
+  {
+   "name": "Midnight Exchange",
+   "price": 13.84,
+   "available": true
+  },
+  {
+   "name": "za dvoje Espresso Doppio",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "12 Gangsters",
+   "price": 6.92,
+   "available": true
+  },
+  {
+   "name": "Neoville",
+   "price": 12.78,
+   "available": true
+  },
+  {
+   "name": "Coralia",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "Rajas of the Ganges: The Dice Charmers",
+   "price": 12.78,
+   "available": true
+  },
+  {
+   "name": "Silver  (bugarsko izdanje)",
+   "price": 13.84,
+   "available": true
+  },
+  {
+   "name": "Harry Potter: Memory Master",
+   "price": 3.72,
+   "available": true
+  },
+  {
+   "name": "Boomerang: USA",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "Riverside",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Meeple Circus: The Show Must Go On",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "Hibachi",
+   "price": 27.12,
+   "available": true
+  },
+  {
+   "name": "A Game of Thrones: B'Twixt",
+   "price": 21.03,
+   "available": true
+  },
+  {
+   "name": "Rolling Realms - Obiteljska",
+   "price": 8.52,
+   "available": true
+  },
+  {
+   "name": "za dvoje Paris: City of Light",
+   "price": 18.1,
+   "available": true
+  },
+  {
+   "name": "The Isle of Cats",
+   "price": 43.42,
+   "available": true
+  },
+  {
+   "name": "7 Wonders (2nd Edition)",
+   "price": 38.34,
+   "available": true
+  },
+  {
+   "name": "Packing Suitcases",
+   "price": 2.13,
+   "available": true
+  },
+  {
+   "name": "Pakal",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Conspiracy: Abyss (Blue Cardboard Box), obiteljska",
+   "price": 14.91,
+   "available": true
+  },
+  {
+   "name": "Monopoly - Riverdale",
+   "price": 26.62,
+   "available": true
+  },
+  {
+   "name": "Scape Goat",
+   "price": 15.8,
+   "available": true
+  },
+  {
+   "name": "Fake That",
+   "price": 10.65,
+   "available": true
+  },
+  {
+   "name": "Feelinks",
+   "price": 18.1,
+   "available": true
+  },
+  {
+   "name": "Abra Кazam",
+   "price": 10.65,
+   "available": true
+  },
+  {
+   "name": "MicroMacro: Crime City 2 - Full House",
+   "price": 20.32,
+   "available": true
+  },
+  {
+   "name": "Temple Rush",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Dobble Minions",
+   "price": 15.44,
+   "available": true
+  },
+  {
+   "name": "GrandBois - dječja",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Cluedo - Batman",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Plapparagei - dječja",
+   "price": 6.92,
+   "available": true
+  },
+  {
+   "name": "za dvoje Stronghold: Undead (Second Edition)",
+   "price": 31.95,
+   "available": true
+  },
+  {
+   "name": "Sticky Cthulhu",
+   "price": 13.31,
+   "available": true
+  },
+  {
+   "name": "CATAN: 3d Edition",
+   "price": 226.3,
+   "available": true
+  },
+  {
+   "name": "Wordsmith",
+   "price": 13.84,
+   "available": true
+  },
+  {
+   "name": "Little Factory",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "Imperial Settlers: Empires of the North - Egyptian Kings",
+   "price": 15.44,
+   "available": true
+  },
+  {
+   "name": "Neuroshima Hex 3.0 - Year of Moloch Edition",
+   "price": 53.25,
+   "available": true
+  },
+  {
+   "name": "Anansi",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "za dvoje The Dwarves: The Duel",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "For The King (and Me)",
+   "price": 16.7,
+   "available": true
+  },
+  {
+   "name": "Monopoly - Dragon Ball",
+   "price": 36.21,
+   "available": true
+  },
+  {
+   "name": "- The Mandalorian Trivia Quiz",
+   "price": 5.32,
+   "available": true
+  },
+  {
+   "name": "Ticket to Ride - Japan & Italy",
+   "price": 34.61,
+   "available": true
+  },
+  {
+   "name": "Diamant",
+   "price": 22.59,
+   "available": true
+  },
+  {
+   "name": "Oriflamme: Ablaze",
+   "price": 12.18,
+   "available": true
+  },
+  {
+   "name": "Galaxy Trucker (2021 Edition)",
+   "price": 27.96,
+   "available": true
+  },
+  {
+   "name": "- Back To Hogwarts Board Game with Spinner",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Who's Most Likely To... Voting Edition",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Nova Luna",
+   "price": 19.7,
+   "available": true
+  },
+  {
+   "name": "i proširenje Disney Villainous: Evil Comes Prepared",
+   "price": 31.65,
+   "available": true
+  },
+  {
+   "name": "i proširenje Disney Villainous: Wicked to the Core",
+   "price": 31.65,
+   "available": true
+  },
+  {
+   "name": "Cards Against Humanity: Family Edition",
+   "price": 23.96,
+   "available": true
+  },
+  {
+   "name": "Jewel Heist",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Cascadia",
+   "price": 33.91,
+   "available": true
+  },
+  {
+   "name": "Calico",
+   "price": 29.38,
+   "available": true
+  },
+  {
+   "name": "Drvena igra Small Foot - Jenga",
+   "price": 14.37,
+   "available": true
+  },
+  {
+   "name": "Noris BBC Earth - Animals",
+   "price": 39.94,
+   "available": true
+  },
+  {
+   "name": "Djeco Igra Guska",
+   "price": 13.85,
+   "available": true
+  },
+  {
+   "name": "Monopoly - Rolling Stones",
+   "price": 36.17,
+   "available": true
+  },
+  {
+   "name": "Sherlock Express",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Vault of Dragons",
+   "price": 44.73,
+   "available": true
+  },
+  {
+   "name": "2 u 1 Trefl - Psići u ophodnji, dječja",
+   "price": 11.31,
+   "available": true
+  },
+  {
+   "name": "Sherlock Holmes Consulting Detective: The Baker Street Irregulars",
+   "price": 37.81,
+   "available": true
+  },
+  {
+   "name": "Mice and Mystics",
+   "price": 66.57,
+   "available": true
+  },
+  {
+   "name": "Silver Dagger",
+   "price": 20.32,
+   "available": true
+  },
+  {
+   "name": "Cat Lady: Box of Treats",
+   "price": 13.31,
+   "available": true
+  },
+  {
+   "name": "Call to Adventure",
+   "price": 29.29,
+   "available": true
+  },
+  {
+   "name": "Dice Forge - Rebellion",
+   "price": 28.48,
+   "available": true
+  },
+  {
+   "name": "Starcadia Quest",
+   "price": 58.58,
+   "available": true
+  },
+  {
+   "name": "Troyes",
+   "price": 45.23,
+   "available": true
+  },
+  {
+   "name": "Moon Bots",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Forgotten Waters",
+   "price": 47.93,
+   "available": true
+  },
+  {
+   "name": "Traintopia",
+   "price": 31.65,
+   "available": true
+  },
+  {
+   "name": "Last Will: Getting Sacked",
+   "price": 15.8,
+   "available": true
+  },
+  {
+   "name": "Tricky Druids",
+   "price": 13.31,
+   "available": true
+  },
+  {
+   "name": "Undo - Blood in the Gutter",
+   "price": 9.58,
+   "available": true
+  },
+  {
+   "name": "Treasure Island: Captain Silver",
+   "price": 22.59,
+   "available": true
+  },
+  {
+   "name": "Dječja kartaška igra Tarantula Tango",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "Kartaška igra Dodelido",
+   "price": 10.82,
+   "available": true
+  },
+  {
+   "name": "za dva igrača Codenames: Duet XXL",
+   "price": 26.09,
+   "available": true
+  },
+  {
+   "name": "Munchkin, kartaška",
+   "price": 22.59,
+   "available": true
+  },
+  {
+   "name": "Papillon",
+   "price": 38.44,
+   "available": true
+  },
+  {
+   "name": "Ticket to Ride - USA 1910",
+   "price": 15.84,
+   "available": true
+  },
+  {
+   "name": "Dječja kartaška igra Biss 20",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Aztec",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "Monolith Arena",
+   "price": 23.96,
+   "available": true
+  },
+  {
+   "name": "Adventure Island",
+   "price": 21.3,
+   "available": true
+  },
+  {
+   "name": "Princess Jing",
+   "price": 14.91,
+   "available": true
+  },
+  {
+   "name": "Second Chance (2nd Edition)",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Sherlock Holmes - The Thames Murders & Other Cases",
+   "price": 39.94,
+   "available": true
+  },
+  {
+   "name": "Cockroach Salad - dječja",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Dice Forge, obiteljska",
+   "price": 39.94,
+   "available": true
+  },
+  {
+   "name": "Planet",
+   "price": 26.62,
+   "available": true
+  },
+  {
+   "name": "Cheating Moth (Mogel Motte) - zabavna",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Raptor",
+   "price": 21.83,
+   "available": true
+  },
+  {
+   "name": "Schummel Hummel - zabavna",
+   "price": 11.27,
+   "available": true
+  },
+  {
+   "name": "Dungeon Academy",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Sonar Family",
+   "price": 15.97,
+   "available": true
+  },
+  {
+   "name": "Space Dragons",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "za dva igrača - Kingdomino Duel",
+   "price": 10.82,
+   "available": true
+  },
+  {
+   "name": "Klasična igra Tactic - Mikado",
+   "price": 13.31,
+   "available": true
+  },
+  {
+   "name": "Las Vegas Royale",
+   "price": 34.61,
+   "available": true
+  },
+  {
+   "name": "za dva igrača The Fox in the Forest Duet",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "MicroMacro: Crime City",
+   "price": 20.32,
+   "available": true
+  },
+  {
+   "name": "Minecraft - Farmer's Market",
+   "price": 10.65,
+   "available": true
+  },
+  {
+   "name": "Downforce - Wild Ride",
+   "price": 13.53,
+   "available": true
+  },
+  {
+   "name": "Ticket to Ride: Amsterdam",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Escape Tales: The Awakening",
+   "price": 17.04,
+   "available": true
+  },
+  {
+   "name": "Photograph (Wind the film)",
+   "price": 9.58,
+   "available": true
+  },
+  {
+   "name": "Trefl - Snježno kraljevstvo",
+   "price": 7.98,
+   "available": true
+  },
+  {
+   "name": "Ticket to Ride - United Kingdom",
+   "price": 31.42,
+   "available": true
+  },
+  {
+   "name": "Speed Colors - dječja",
+   "price": 11.72,
+   "available": true
+  },
+  {
+   "name": "SmallWorld",
+   "price": 44.2,
+   "available": true
+  },
+  {
+   "name": "Treasure Island",
+   "price": 38.44,
+   "available": true
+  },
+  {
+   "name": "Proširenje za Wingspan - European Expansion",
+   "price": 18.06,
+   "available": true
+  },
+  {
+   "name": "Ticket to Ride - Heart of Africa",
+   "price": 22.36,
+   "available": true
+  },
+  {
+   "name": "X-men: Mutant Insurrection",
+   "price": 49.75,
+   "available": true
+  },
+  {
+   "name": "Ticket to Ride - Europe (15th Anniversary Edition)",
+   "price": 82.01,
+   "available": true
+  },
+  {
+   "name": "Smile",
+   "price": 12.24,
+   "available": true
+  },
+  {
+   "name": "Splendor: Marvel",
+   "price": 30.35,
+   "available": true
+  },
+  {
+   "name": "Patchwork",
+   "price": 19.7,
+   "available": true
+  },
+  {
+   "name": "Rory's Story Cubes - Putovanja",
+   "price": 7.45,
+   "available": true
+  },
+  {
+   "name": "Splendor - Cities of Splendor",
+   "price": 23.43,
+   "available": true
+  },
+  {
+   "name": "Rory's Story Cubes - Akcija",
+   "price": 6.92,
+   "available": true
+  },
+  {
+   "name": "Dječja stolna igra Haba – Žirafe",
+   "price": 13.05,
+   "available": true
+  },
+  {
+   "name": "Drvena igra Small Foot - Jenga, s brojevima i kockicama",
+   "price": 18.64,
+   "available": true
+  },
+  {
+   "name": "Wingspan",
+   "price": 42.6,
+   "available": true
+  }
+ ]
+}

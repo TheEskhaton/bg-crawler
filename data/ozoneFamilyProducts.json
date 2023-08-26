@@ -101,7 +101,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Great Plains",
+   "name": "Great Plains",
    "price": 20.32,
    "available": true
   },
@@ -121,7 +121,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Rubik's Race",
+   "name": "Rubik's Race",
    "price": 21.3,
    "available": true
   },
@@ -526,12 +526,12 @@
    "available": true
   },
   {
-   "name": "za dvoje King & Assassins (Deluxe Edition)",
+   "name": "King & Assassins (Deluxe Edition)",
    "price": 26.09,
    "available": true
   },
   {
-   "name": "za dvoje Fairy Tale Inn",
+   "name": "Fairy Tale Inn",
    "price": 31.95,
    "available": true
   },
@@ -631,7 +631,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Botanik",
+   "name": "Botanik",
    "price": 15.97,
    "available": true
   },
@@ -941,7 +941,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Marbushka Ed & Wolf",
+   "name": "Marbushka Ed & Wolf",
    "price": 44.68,
    "available": true
   },
@@ -1136,7 +1136,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Exploding Kittens - 2 Player Edition",
+   "name": "Exploding Kittens - 2 Player Edition",
    "price": 9.05,
    "available": true
   },
@@ -1546,7 +1546,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Mandala",
+   "name": "Mandala",
    "price": 18.97,
    "available": true
   },
@@ -1661,7 +1661,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Radlands",
+   "name": "Radlands",
    "price": 21.3,
    "available": true
   },
@@ -1671,7 +1671,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Seven Games",
+   "name": "Seven Games",
    "price": 9.05,
    "available": true
   },
@@ -1761,7 +1761,7 @@
    "available": true
   },
   {
-   "name": "za dvoje ZERTZ",
+   "name": "ZERTZ",
    "price": 29.38,
    "available": true
   },
@@ -1956,7 +1956,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Bubble Stories",
+   "name": "Bubble Stories",
    "price": 7.45,
    "available": true
   },
@@ -1971,12 +1971,12 @@
    "available": true
   },
   {
-   "name": "za dvoje Fairy Trails",
+   "name": "Fairy Trails",
    "price": 13.08,
    "available": true
   },
   {
-   "name": "za dvoje Kahuna",
+   "name": "Kahuna",
    "price": 15.8,
    "available": true
   },
@@ -1986,7 +1986,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Imhotep: The Duel",
+   "name": "Imhotep: The Duel",
    "price": 15.8,
    "available": true
   },
@@ -2006,7 +2006,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Brix",
+   "name": "Brix",
    "price": 15.97,
    "available": true
   },
@@ -2036,7 +2036,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Espresso Doppio",
+   "name": "Espresso Doppio",
    "price": 21.3,
    "available": true
   },
@@ -2101,7 +2101,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Paris: City of Light",
+   "name": "Paris: City of Light",
    "price": 18.1,
    "available": true
   },
@@ -2186,7 +2186,7 @@
    "available": true
   },
   {
-   "name": "za dvoje Stronghold: Undead (Second Edition)",
+   "name": "Stronghold: Undead (Second Edition)",
    "price": 31.95,
    "available": true
   },
@@ -2226,7 +2226,7 @@
    "available": true
   },
   {
-   "name": "za dvoje The Dwarves: The Duel",
+   "name": "The Dwarves: The Duel",
    "price": 11.27,
    "available": true
   },
@@ -2481,11 +2481,6 @@
    "available": true
   },
   {
-   "name": "Sherlock Holmes - The Thames Murders & Other Cases",
-   "price": 39.94,
-   "available": true
-  },
-  {
    "name": "Cockroach Salad - dječja",
    "price": 11.27,
    "available": true
@@ -2496,12 +2491,17 @@
    "available": true
   },
   {
+   "name": "Sherlock Holmes - The Thames Murders & Other Cases",
+   "price": 39.94,
+   "available": true
+  },
+  {
    "name": "Planet",
    "price": 26.62,
    "available": true
   },
   {
-   "name": "Cheating Moth (Mogel Motte) - zabavna",
+   "name": "Cheating Moth (Mogel Motte)",
    "price": 11.27,
    "available": true
   },
@@ -2511,7 +2511,7 @@
    "available": true
   },
   {
-   "name": "Schummel Hummel - zabavna",
+   "name": "Schummel Hummel",
    "price": 11.27,
    "available": true
   },

@@ -19,7 +19,6 @@ export default class OzoneStrategyCrawler extends BaseCrawler {
                 price = await productEl.locator('.price-box  .price').first().textContent();
             }
             const available = true;
-            console.log("Proccessed product: ", name);
             this.products.push({
                 name: String(name)
                     .replace(/\n/g, '')
@@ -30,6 +29,7 @@ export default class OzoneStrategyCrawler extends BaseCrawler {
                     .replace('- zabava', '')
                     .replace('- zabavna', '')
                     .replace(', strateška', '')
+                    .replace('za dvoje ', '')
                     .replace('Proširenje za društvenu igru ', '')
                     .replace('Proširenje za kartašku igru ', '')
                     .trim(),

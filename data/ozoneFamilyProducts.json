@@ -3,2672 +3,3086 @@
   {
    "name": "IT: Chapter Two",
    "price": 9.01,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.036Z"
   },
   {
    "name": "Seasons of Arcadia",
    "price": 38.44,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.099Z"
   },
   {
    "name": "Nightmare Productions",
    "price": 54.28,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.154Z"
   },
   {
    "name": "Mech A Dream",
    "price": 29.38,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.197Z"
   },
   {
    "name": "Set društvenih igara Six in One Compendium",
    "price": 24.85,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.230Z"
   },
   {
    "name": "Everdell: Tales from the Green Acorn",
    "price": 34.61,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.265Z"
   },
   {
    "name": "Everdell - Mistwood",
    "price": 47.4,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.299Z"
   },
   {
    "name": "Hey That's My Fish!",
    "price": 13.84,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.337Z"
   },
   {
    "name": "Everdell: Glimmergold Pack",
    "price": 37.28,
-   "available": true
-  },
-  {
-   "name": "Monopoly - David Bowie",
-   "price": 40.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.376Z"
   },
   {
    "name": "Ludoshi",
    "price": 52.73,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.427Z"
   },
   {
    "name": "Monopoly - The Goonies",
    "price": 40.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.484Z"
   },
   {
    "name": "Monopoly - Gremlins",
    "price": 40.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.538Z"
   },
   {
    "name": "Draughts",
    "price": 18.06,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.571Z"
+  },
+  {
+   "name": "Monopoly - David Bowie",
+   "price": 40.7,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.649Z"
   },
   {
    "name": "Behext",
    "price": 40.7,
-   "available": true
-  },
-  {
-   "name": "Pandemic: Contagion",
-   "price": 27.12,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.688Z"
   },
   {
    "name": "Looney Tunes Mayhem",
    "price": 50.59,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.776Z"
+  },
+  {
+   "name": "Pandemic: Contagion",
+   "price": 27.12,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.814Z"
   },
   {
    "name": "Spin Master Jenga",
    "price": 7.98,
-   "available": true
-  },
-  {
-   "name": "Next Station: Tokyo",
-   "price": 13.31,
-   "available": true
-  },
-  {
-   "name": "Stella: Dixit Universe (englesko izdanje)",
-   "price": 30.35,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.859Z"
   },
   {
    "name": "Great Plains",
    "price": 20.32,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.907Z"
   },
   {
-   "name": "Akropolis",
-   "price": 26.09,
-   "available": true
+   "name": "Stella: Dixit Universe (englesko izdanje)",
+   "price": 30.35,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.942Z"
+  },
+  {
+   "name": "Next Station: Tokyo",
+   "price": 13.31,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.987Z"
   },
   {
    "name": "Komplet od 101 igre za djecu i odrasle",
    "price": 14.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.035Z"
   },
   {
-   "name": "Clever 4ever",
-   "price": 11.27,
-   "available": true
+   "name": "Akropolis",
+   "price": 26.09,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.143Z"
   },
   {
    "name": "Rubik's Race",
    "price": 21.3,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.199Z"
   },
   {
    "name": "7 Wonders Edifice (2nd Edition)",
    "price": 23.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.241Z"
   },
   {
    "name": "Mille Fiori: The Masterpieces",
    "price": 18.06,
-   "available": true
-  },
-  {
-   "name": "Froth It",
-   "price": 6.75,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.289Z"
   },
   {
    "name": "Drvena igra s figurama 2 u 1 - gumica i šah",
    "price": 20.19,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.334Z"
   },
   {
    "name": "Generation Genius Trivia",
    "price": 3.58,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.376Z"
   },
   {
-   "name": "Potion House",
-   "price": 15.97,
-   "available": true
+   "name": "Froth It",
+   "price": 6.75,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.474Z"
   },
   {
    "name": "Disney Villainous: Bigger & Badder",
    "price": 31.95,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.551Z"
   },
   {
-   "name": "Terra Futura",
-   "price": 20.37,
-   "available": true
+   "name": "Potion House",
+   "price": 15.97,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.598Z"
   },
   {
    "name": "Optical Illusions",
    "price": 6.75,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.637Z"
+  },
+  {
+   "name": "Terra Futura",
+   "price": 20.37,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.670Z"
   },
   {
    "name": "Hidden Leaders: Booster Pack",
    "price": 6.75,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.700Z"
   },
   {
    "name": "Wonder Woods",
    "price": 18.64,
-   "available": true
-  },
-  {
-   "name": "Don't Get Stabbed",
-   "price": 20.32,
-   "available": true
-  },
-  {
-   "name": "Snakes & Ladders",
-   "price": 21.25,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.731Z"
   },
   {
    "name": "Bingo",
    "price": 5.85,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.759Z"
+  },
+  {
+   "name": "Don't Get Stabbed",
+   "price": 20.32,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.814Z"
+  },
+  {
+   "name": "Snakes & Ladders",
+   "price": 21.25,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.847Z"
   },
   {
    "name": "DOG",
    "price": 6.39,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.880Z"
   },
   {
    "name": "Four in a Row",
    "price": 21.25,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.908Z"
   },
   {
    "name": "Munchkin Pathfinder",
    "price": 24.85,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.936Z"
   },
   {
    "name": "Kingswood",
    "price": 29.38,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.964Z"
   },
   {
    "name": "Everdell: Collector's Edition",
    "price": 84.94,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.998Z"
   },
   {
    "name": "OverbooKing",
    "price": 18.06,
-   "available": true
-  },
-  {
-   "name": "Shut the Box",
-   "price": 18.06,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.031Z"
   },
   {
    "name": "The Mad Hatter's Tea Party Games",
    "price": 13.53,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.067Z"
   },
   {
    "name": "Fabula Rasa: Seemannsgarn",
    "price": 13.53,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.099Z"
+  },
+  {
+   "name": "Shut the Box",
+   "price": 18.06,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.143Z"
   },
   {
    "name": "Set od 10 društvenih igara",
    "price": 19.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.180Z"
   },
   {
    "name": "Rivality",
    "price": 27.12,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.210Z"
   },
   {
    "name": "K2",
    "price": 27.12,
-   "available": true
-  },
-  {
-   "name": "The Quest for El Dorado",
-   "price": 38.44,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.248Z"
   },
   {
    "name": "Fabula Rasa: Horror",
    "price": 8.1,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.284Z"
   },
   {
    "name": "Uno Quatro",
    "price": 22.63,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.322Z"
   },
   {
    "name": "Songbirds",
    "price": 19.17,
-   "available": true
-  },
-  {
-   "name": "My Lil' Everdell",
-   "price": 34.61,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.359Z"
   },
   {
    "name": "Labyrinth",
    "price": 22.63,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.388Z"
   },
   {
    "name": "Scrabble Junior 2 u 1 - hrvatski jezik",
    "price": 19.01,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.416Z"
+  },
+  {
+   "name": "My Lil' Everdell",
+   "price": 34.61,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.447Z"
   },
   {
    "name": "Pictionary - hrvatski jezik",
    "price": 5.43,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.476Z"
   },
   {
    "name": "Trool Park",
    "price": 7.98,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.511Z"
   },
   {
    "name": "Monopoly",
    "price": 30.35,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.551Z"
   },
   {
    "name": "Miyabi",
    "price": 32.1,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.583Z"
   },
   {
    "name": "Legend Raiders",
    "price": 27.12,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.626Z"
   },
   {
    "name": "The Gardens",
    "price": 31.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.660Z"
   },
   {
    "name": "Cluedo - Dungeons & Dragons",
    "price": 40.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.689Z"
   },
   {
    "name": "Ravensburger Labyrinth Team Edition",
    "price": 21.3,
-   "available": true
-  },
-  {
-   "name": "Hasbro Monopoly: Netflix La Casa de Papel - Money Heist",
-   "price": 33.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.734Z"
   },
   {
    "name": "Inkognito",
    "price": 28.75,
-   "available": true
-  },
-  {
-   "name": "Villa of the Vampire",
-   "price": 26.62,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.772Z"
   },
   {
    "name": "Kids Against Maturity: Illustrated Edition",
    "price": 15.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.809Z"
   },
   {
    "name": "Dungeon Time",
    "price": 22.59,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.837Z"
   },
   {
    "name": "Valentine's Day",
    "price": 9.05,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.865Z"
+  },
+  {
+   "name": "Villa of the Vampire",
+   "price": 26.62,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.895Z"
   },
   {
    "name": "Ravensburger Labyrinth Disney Villains",
    "price": 27.12,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.926Z"
   },
   {
    "name": "Chocobo Party Up!",
    "price": 45.23,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.959Z"
   },
   {
    "name": "Beat The Parents",
    "price": 15.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.991Z"
+  },
+  {
+   "name": "Hasbro Monopoly: Netflix La Casa de Papel - Money Heist",
+   "price": 33.91,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.017Z"
   },
   {
    "name": "Last One Alive",
    "price": 12.78,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.045Z"
   },
   {
    "name": "Scotland Yard",
    "price": 21.3,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.073Z"
   },
   {
    "name": "Karuba",
    "price": 35.72,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.101Z"
   },
   {
    "name": "Pappy Winchester",
    "price": 15.44,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.129Z"
   },
   {
    "name": "Canopy",
    "price": 22.59,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.158Z"
   },
   {
    "name": "Bellz",
    "price": 18.64,
-   "available": true
-  },
-  {
-   "name": "Paper Dungeons",
-   "price": 27.12,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.184Z"
   },
   {
    "name": "Pronađite petice",
    "price": 17.61,
-   "available": true
-  },
-  {
-   "name": "Animix",
-   "price": 9.05,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.217Z"
   },
   {
    "name": "Eriantys",
    "price": 23.96,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.243Z"
   },
   {
-   "name": "Istanbul: Choose & Write",
-   "price": 16.51,
-   "available": true
+   "name": "Animix",
+   "price": 9.05,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.273Z"
+  },
+  {
+   "name": "Paper Dungeons",
+   "price": 27.12,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.302Z"
   },
   {
    "name": "Wurf & Weg",
    "price": 17.61,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.329Z"
+  },
+  {
+   "name": "Istanbul: Choose & Write",
+   "price": 16.51,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.357Z"
   },
   {
    "name": "Harry Potter: Potions Challenge Game , poljski jezik",
    "price": 20.32,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.382Z"
   },
   {
    "name": "Level 10",
    "price": 7.45,
-   "available": true
-  },
-  {
-   "name": "Bendomino",
-   "price": 14.37,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.410Z"
   },
   {
    "name": "Overboss: A Boss Monster Adventure",
    "price": 36.17,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.435Z"
   },
   {
-   "name": "Vikings on Board - сobiteljska",
-   "price": 20.77,
-   "available": true
+   "name": "Bendomino",
+   "price": 14.37,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.463Z"
   },
   {
    "name": "Cloaked cats",
    "price": 17.61,
-   "available": true
-  },
-  {
-   "name": "Museum Suspects",
-   "price": 15.97,
-   "available": true
-  },
-  {
-   "name": "Lost Seas",
-   "price": 15.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.495Z"
   },
   {
    "name": "Karuba: The Card Game",
    "price": 12.24,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.522Z"
   },
   {
-   "name": "Peaky Blinders: Faster than Truth",
-   "price": 15.8,
-   "available": true
+   "name": "Vikings on Board - сobiteljska",
+   "price": 20.77,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.555Z"
+  },
+  {
+   "name": "Lost Seas",
+   "price": 15.97,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.583Z"
+  },
+  {
+   "name": "Museum Suspects",
+   "price": 15.97,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.610Z"
   },
   {
    "name": "Hasbro Cluedo: The Classic Mystery Game",
    "price": 27.12,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.659Z"
   },
   {
    "name": "Monopoly Dungeons & Dragons: Honor Among Thieves (English Version)",
    "price": 29.29,
-   "available": true
-  },
-  {
-   "name": "The Binding of Isaac: Four Souls Requiem - The Ultimate Collection",
-   "price": 103.85,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.700Z"
   },
   {
    "name": "Monopoly: Star Wars – The Child Edition",
    "price": 29.38,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.739Z"
+  },
+  {
+   "name": "The Binding of Isaac: Four Souls Requiem - The Ultimate Collection",
+   "price": 103.85,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.770Z"
   },
   {
    "name": "Dixit: Disney (Bugarsko izdanje)",
    "price": 31.42,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.799Z"
   },
   {
    "name": "Mystery House: The Lost Ship",
    "price": 7.98,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.829Z"
   },
   {
    "name": "Mystery House: Back to Tombstone",
    "price": 7.98,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.684Z"
   },
   {
    "name": "Riftforce: Beyond",
    "price": 22.59,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.761Z"
   },
   {
    "name": "King & Assassins (Deluxe Edition)",
    "price": 26.09,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.917Z"
   },
   {
    "name": "Fairy Tale Inn",
    "price": 31.95,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.980Z"
   },
   {
    "name": "Star Wars Villainous: Power of the Dark Side",
    "price": 37.28,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.121Z"
   },
   {
    "name": "Scotland Yard: Sherlock Holmes Edition",
    "price": 27.12,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.256Z"
   },
   {
    "name": "Everdell: Complete Collection",
    "price": 292.39,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.498Z"
   },
   {
    "name": "Bargain Quest",
    "price": 33.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.566Z"
   },
   {
    "name": "Costa Rica",
    "price": 15.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.603Z"
   },
   {
    "name": "Pet: Luda utrka brojanja - dječja",
    "price": 11.72,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.642Z"
   },
   {
    "name": "8Bit Box , party",
    "price": 18.9,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.683Z"
   },
   {
    "name": "Escape Tales: Low Memory",
    "price": 20.32,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.788Z"
   },
   {
    "name": "Fjords",
    "price": 33.91,
-   "available": true
-  },
-  {
-   "name": "Obiteljska društvena igra Love Letter - Second Edition",
-   "price": 13.53,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.851Z"
   },
   {
    "name": "Hasbro Monopoly: Bid - dječja",
    "price": 5.85,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.891Z"
   },
   {
    "name": "STAR Slingslide - hokej",
    "price": 18.06,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.925Z"
+  },
+  {
+   "name": "Obiteljska društvena igra Love Letter - Second Edition",
+   "price": 13.53,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.964Z"
   },
   {
    "name": "Escape Tales: Children of Wyrmwood",
    "price": 18.64,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.003Z"
   },
   {
    "name": "Martial Art",
    "price": 29.38,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.044Z"
   },
   {
    "name": "King of New York - Power Up",
    "price": 11.18,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.090Z"
   },
   {
    "name": "King of Tokyo - Halloween",
    "price": 9.58,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.134Z"
   },
   {
    "name": "King of Tokyo - Power Up",
    "price": 12.18,
-   "available": true
-  },
-  {
-   "name": "Break the Code",
-   "price": 12.63,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.174Z"
   },
   {
    "name": "Downforce - Danger Circuit",
    "price": 13.53,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.207Z"
   },
   {
    "name": "Botanik",
    "price": 15.97,
-   "available": true
-  },
-  {
-   "name": "Jaipur (2nd Edition)",
-   "price": 17.57,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.236Z"
   },
   {
    "name": "Igra s kartama Crni Petar - Harry Potter",
    "price": 2.66,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.266Z"
   },
   {
    "name": "Dječja igra Tomy Games - T-Rex koji skače",
    "price": 21.25,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.295Z"
   },
   {
    "name": "Tabletop Bowling",
    "price": 31.42,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.335Z"
   },
   {
    "name": "Distant Suns",
    "price": 10.65,
-   "available": true
-  },
-  {
-   "name": "My Little Pony: Adventures in Equestria - Familiar Faces",
-   "price": 21.3,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.369Z"
   },
   {
    "name": "Pathfinder: Goblin Firework Fight",
    "price": 29.38,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.408Z"
+  },
+  {
+   "name": "My Little Pony: Adventures in Equestria - Familiar Faces",
+   "price": 21.3,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.441Z"
   },
   {
    "name": "Monopoly: Top Gun",
    "price": 26.62,
-   "available": true
-  },
-  {
-   "name": "Monopoly: Back to the future",
-   "price": 26.62,
-   "available": true
-  },
-  {
-   "name": "The Phantom Society",
-   "price": 14.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.483Z"
   },
   {
    "name": "Mystery House: The Secret of The Pharaoh",
    "price": 9.05,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.520Z"
   },
   {
    "name": "Scrabble  (hrvatski jezik)",
    "price": 15.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.554Z"
   },
   {
    "name": "Star Trek: Missions",
    "price": 18.06,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.585Z"
+  },
+  {
+   "name": "The Phantom Society",
+   "price": 14.91,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.619Z"
+  },
+  {
+   "name": "Monopoly: Back to the future",
+   "price": 26.62,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.667Z"
   },
   {
    "name": "Whot! - Rick and Morty",
    "price": 5.32,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.751Z"
   },
   {
    "name": "Festo!",
    "price": 10.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.784Z"
   },
   {
    "name": "Sudoku kocka",
    "price": 15.45,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.822Z"
   },
   {
    "name": "Hop!",
    "price": 42.07,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.859Z"
   },
   {
    "name": "Rattus: Big Box",
    "price": 66.57,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.895Z"
   },
   {
    "name": "Whitehall Mystery",
    "price": 42.96,
-   "available": true
-  },
-  {
-   "name": "Monopoly - Super Mario Celebration (English Version)",
-   "price": 47.94,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.928Z"
   },
   {
    "name": "Sports Trivia Game",
    "price": 15.45,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.971Z"
   },
   {
    "name": "Pop Culture Trivia Game",
    "price": 15.45,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.013Z"
   },
   {
    "name": "Gamer Trivia Game",
    "price": 15.45,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.047Z"
   },
   {
    "name": "Smash Up: 10th Anniversary Set",
    "price": 34.61,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.077Z"
   },
   {
    "name": "Movies Trivia Game",
    "price": 15.45,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.102Z"
   },
   {
    "name": "Travel Trivia Game",
    "price": 15.45,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.140Z"
   },
   {
    "name": "Do I Know You? Trivia Game",
    "price": 13.13,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.173Z"
   },
   {
    "name": "Harry Potter Miniatures Adventure Game: The Chamber of Secrets Chronicles Box (Limited Edition)",
    "price": 69.23,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.210Z"
   },
   {
    "name": "Smash Up: Bigger Geekier Box",
    "price": 37.28,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.251Z"
   },
   {
    "name": "Silver  (englesko izdanje)",
    "price": 14.37,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.291Z"
   },
   {
    "name": "Call to Adventure: The Name of the Wind",
    "price": 18.06,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.329Z"
   },
   {
    "name": "Call to Adventure: The Stormlight Archive",
    "price": 31.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.368Z"
   },
   {
    "name": "The Walking Dead: Something to Fear",
    "price": 20.32,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.404Z"
   },
   {
    "name": "Marbushka Do it Yourself (Boardgame Making Kit)",
    "price": 25.51,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.443Z"
   },
   {
    "name": "Ticket to Ride - Germany",
    "price": 38.87,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.487Z"
   },
   {
    "name": "Imaginarium",
    "price": 39.34,
-   "available": true
-  },
-  {
-   "name": "Fallout Shelter: The Board Game",
-   "price": 37.81,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.520Z"
   },
   {
    "name": "Tidal Blades: Heroes of the Reef",
    "price": 44.77,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.554Z"
   },
   {
    "name": "Menara",
    "price": 37.28,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.587Z"
   },
   {
-   "name": "Equinox (Green Box)",
-   "price": 21.3,
-   "available": true
-  },
-  {
-   "name": "Agricola Family",
-   "price": 27.16,
-   "available": true
+   "name": "Fallout Shelter: The Board Game",
+   "price": 37.81,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.635Z"
   },
   {
    "name": "Seasons",
    "price": 40.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.668Z"
+  },
+  {
+   "name": "Equinox (Green Box)",
+   "price": 21.3,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.704Z"
+  },
+  {
+   "name": "Agricola Family",
+   "price": 27.16,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.749Z"
   },
   {
    "name": "Ticket to Ride - Nederland",
    "price": 22.9,
-   "available": true
-  },
-  {
-   "name": "The Legend of the Cherry Tree",
-   "price": 16.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.788Z"
   },
   {
    "name": "Ninja Academy",
    "price": 11.27,
-   "available": true
-  },
-  {
-   "name": "Century - Golem Edition",
-   "price": 29.29,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.822Z"
   },
   {
    "name": "Prijenosna društvena igra, 6 u 1",
    "price": 12.2,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.854Z"
   },
   {
-   "name": "Bunny Kingdom - In the Sky",
-   "price": 23.49,
-   "available": true
+   "name": "The Legend of the Cherry Tree",
+   "price": 16.7,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.886Z"
   },
   {
    "name": "Ishtar: Gardens of Babylon",
    "price": 28.02,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.921Z"
+  },
+  {
+   "name": "Century - Golem Edition",
+   "price": 29.29,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.959Z"
   },
   {
    "name": "World Shapers",
    "price": 12.18,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.995Z"
   },
   {
    "name": "Little Town",
    "price": 17.57,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.027Z"
   },
   {
    "name": "Logička igra Professor Puzzle - Sword of Nine Seals",
    "price": 10.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.061Z"
   },
   {
    "name": "Proširenje za društvenu igaru Azul: Summer Pavilion - Glazed Pavilion",
    "price": 12.78,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.088Z"
   },
   {
    "name": "Hasbro Monopoly - Queen",
    "price": 40.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.118Z"
   },
   {
    "name": "Bunny Kingdom",
    "price": 36.17,
-   "available": true
-  },
-  {
-   "name": "Proširenje za društvenu igaru Meadow: Downstream",
-   "price": 23.49,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.148Z"
   },
   {
    "name": "Arboretum",
    "price": 18.06,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.174Z"
   },
   {
    "name": "Everdell , obiteljska",
    "price": 48.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.201Z"
   },
   {
    "name": "Marbushka The Lost Necklace",
    "price": 42.55,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.230Z"
   },
   {
    "name": "Marbushka Lighthouse Adventure",
    "price": 36.16,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.256Z"
   },
   {
    "name": "Logička igra-slagalica Professor Puzzle - Sherlock Holmes The Case of Moriarty's Lair",
    "price": 31.9,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.298Z"
   },
   {
    "name": "Marbushka Ed & Wolf",
    "price": 44.68,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.332Z"
   },
   {
    "name": "Marbushka The Forgotten Kingdom",
    "price": 53.21,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.367Z"
   },
   {
    "name": "Marbushka Piggily",
    "price": 38.29,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.418Z"
   },
   {
    "name": "Yak",
    "price": 29.29,
-   "available": true
-  },
-  {
-   "name": "Megaland",
-   "price": 15.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.460Z"
   },
   {
    "name": "Maui",
    "price": 31.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.490Z"
+  },
+  {
+   "name": "Megaland",
+   "price": 15.97,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.539Z"
   },
   {
    "name": "Broken Planet",
    "price": 56.54,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.587Z"
   },
   {
    "name": "The Hunger",
    "price": 37.28,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.653Z"
   },
   {
    "name": "Insecta: The Ladies of Entomology",
    "price": 37.28,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.716Z"
   },
   {
    "name": "Knight Fall",
    "price": 39.41,
-   "available": true
-  },
-  {
-   "name": "Silver Coin",
-   "price": 18.64,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.761Z"
   },
   {
    "name": "Wormholes",
    "price": 34.61,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.801Z"
   },
   {
-   "name": "Talisman Harry Potter",
-   "price": 42.6,
-   "available": true
+   "name": "Silver Coin",
+   "price": 18.64,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.835Z"
   },
   {
    "name": "Camel Up: Off Season",
    "price": 31.95,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.866Z"
   },
   {
    "name": "Dog Lover",
    "price": 19.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.899Z"
   },
   {
    "name": "World's Fair 1893",
-   "price": 31.95,
-   "available": true
+   "price": 29.29,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.937Z"
   },
   {
    "name": "Century: Golem Edition - An Endless World",
    "price": 31.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.967Z"
   },
   {
    "name": "Enola Holmes: Finder of lost Souls",
    "price": 31.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.993Z"
   },
   {
    "name": "Carcassonne 20th Anniversary Edition",
    "price": 43.67,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:22.018Z"
   },
   {
    "name": "Welcome To The Moon",
    "price": 33.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:22.043Z"
   },
   {
    "name": "Talisman: Star Wars",
    "price": 31.95,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:22.068Z"
   },
   {
    "name": "Travelin",
    "price": 13.53,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.099Z"
   },
   {
    "name": "Carnival of Monsters",
    "price": 16.51,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.187Z"
   },
   {
    "name": "Cluedo - Killing Eve",
    "price": 40.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.228Z"
   },
   {
    "name": "Tiny Turbo Cars - Collector's Edition",
    "price": 53.25,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.296Z"
   },
   {
    "name": "Spaceship Unity - Season 1.1",
    "price": 26.62,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.356Z"
   },
   {
    "name": "Monopoly - Peanuts",
    "price": 40.7,
-   "available": true
-  },
-  {
-   "name": "Pathfinder: Level 20",
-   "price": 18.64,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.499Z"
   },
   {
    "name": "Mandragora",
    "price": 11.72,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.579Z"
+  },
+  {
+   "name": "Pathfinder: Level 20",
+   "price": 18.64,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.660Z"
   },
   {
    "name": "Pearladora",
    "price": 13.53,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.699Z"
   },
   {
    "name": "Hibachi: Hot & Spicy",
    "price": 11.27,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.733Z"
   },
   {
    "name": "Monopoly - Bond 007",
    "price": 38.44,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.764Z"
   },
   {
    "name": "Tiny Turbo Cars",
    "price": 13.31,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.849Z"
   },
   {
    "name": "Dale of Merchants Collection",
    "price": 36.17,
-   "available": true
-  },
-  {
-   "name": "Starship Captains",
-   "price": 29.29,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.054Z"
   },
   {
    "name": "Dale of Merchants 2",
    "price": 12.78,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.110Z"
+  },
+  {
+   "name": "Starship Captains",
+   "price": 29.29,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.254Z"
   },
   {
    "name": "Monopoly - Lilo & Stitch",
    "price": 40.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.393Z"
   },
   {
    "name": "Ticket To Ride: San Francisco",
    "price": 21.3,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.464Z"
   },
   {
    "name": "Astra",
    "price": 24.49,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.529Z"
   },
   {
    "name": "Exploding Kittens - 2 Player Edition",
    "price": 9.05,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.562Z"
   },
   {
    "name": "Professor Puzzle: Peace by Peace Succulents",
    "price": 18.05,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.594Z"
   },
   {
    "name": "Guardians",
    "price": 31.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.637Z"
   },
   {
    "name": "Tidal Blades: Banner Festival",
    "price": 26.62,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.672Z"
   },
   {
    "name": "Paris - l'Etoile Expansion",
    "price": 10.11,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.721Z"
   },
   {
    "name": "3000 Scoundrels",
    "price": 33.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.764Z"
   },
   {
    "name": "Witless Wizards",
    "price": 13.53,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.798Z"
   },
   {
    "name": "The Guild of Merchant Explorers",
    "price": 38.44,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.838Z"
   },
   {
    "name": "Nessos",
    "price": 9.05,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.874Z"
   },
   {
    "name": "Galaxy Trucker: Keep on Trucking",
    "price": 23.49,
-   "available": true
-  },
-  {
-   "name": "Professor Puzzle: Escape From The Museum",
-   "price": 5.27,
-   "available": true
-  },
-  {
-   "name": "Barenpark",
-   "price": 29.29,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.901Z"
   },
   {
    "name": "Dive",
    "price": 22.9,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.931Z"
+  },
+  {
+   "name": "Professor Puzzle: Escape From The Museum",
+   "price": 5.27,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.965Z"
+  },
+  {
+   "name": "Barenpark",
+   "price": 29.29,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.006Z"
   },
   {
    "name": "Sushi Go!",
    "price": 11.18,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.036Z"
   },
   {
    "name": "Dale of Merchants 3",
    "price": 12.24,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.066Z"
   },
   {
    "name": "Catan: Dawn of Humankind",
    "price": 54.85,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.096Z"
   },
   {
    "name": "- Scrabble (engleski jezik)",
    "price": 20.77,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.121Z"
   },
   {
    "name": "Sheriff of Nottingham (2nd Edition)",
    "price": 36.74,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.147Z"
   },
   {
    "name": "Azul: Summer Pavilion",
    "price": 34.61,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.178Z"
   },
   {
    "name": "Flamecraft",
    "price": 29.82,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.224Z"
   },
   {
    "name": "Port Royal Big Box",
    "price": 21.3,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.256Z"
   },
   {
    "name": "SmallWorld Underground",
    "price": 42.6,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.289Z"
   },
   {
    "name": "World of Tanks Miniatures Game  - obiteljka",
    "price": 30.89,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.321Z"
   },
   {
    "name": "Kilim",
    "price": 17.61,
-   "available": true
-  },
-  {
-   "name": "Kannste Knicken",
-   "price": 7.45,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.353Z"
   },
   {
    "name": "Kanagawa",
    "price": 20.32,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.384Z"
   },
   {
    "name": "Throw Throw Burrito - party",
    "price": 26.62,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.412Z"
   },
   {
    "name": "Dune - Arrakis: Dawn of the Fremen",
    "price": 31.95,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.457Z"
   },
   {
    "name": "Star Wars: Jabbas Palace (A Love Letter Game)",
    "price": 12.78,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.488Z"
   },
   {
    "name": "Atari Centipede",
    "price": 10.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.515Z"
   },
   {
    "name": "Azul: Kraljevski vrt",
    "price": 35.15,
-   "available": true
-  },
-  {
-   "name": "Encore!",
-   "price": 11.27,
-   "available": true
-  },
-  {
-   "name": "I Know It All!",
-   "price": 13.31,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.546Z"
   },
   {
    "name": "Anagramming",
    "price": 10.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.576Z"
   },
   {
    "name": "Nomen",
    "price": 10.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.610Z"
+  },
+  {
+   "name": "I Know It All!",
+   "price": 13.31,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.639Z"
+  },
+  {
+   "name": "Encore!",
+   "price": 11.27,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.668Z"
   },
   {
    "name": "Professor Puzzle - Travel Trivia",
    "price": 14.33,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.700Z"
   },
   {
    "name": "Professor Puzzle - The Big Movie Quiz",
    "price": 14.33,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.733Z"
   },
   {
    "name": "Drvena igra Professor Puzzle - Jenga, 54 komada",
    "price": 14.89,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.762Z"
   },
   {
    "name": "Triovision",
    "price": 15.8,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.789Z"
   },
   {
    "name": "Valeria Card Kingdoms (2nd Edition)",
    "price": 28.22,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.821Z"
   },
   {
    "name": "Proširenje za društvenu igaru Ticket to Ride - Poland",
    "price": 19.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.853Z"
   },
   {
    "name": "Mystic Vale: Essential Edition",
    "price": 63.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.882Z"
   },
   {
    "name": "Fabula Rasa: Crime",
    "price": 13.53,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.908Z"
   },
   {
    "name": "Professor Puzzle - Book Trivia",
    "price": 4.21,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.940Z"
   },
   {
    "name": "Professor Puzzle - Music Trivia",
    "price": 3.58,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.970Z"
   },
   {
    "name": "Professor Puzzle - Sports Trivia",
    "price": 3.58,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.002Z"
   },
   {
    "name": "Professor Puzzle - PET Trivia",
    "price": 3.58,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.031Z"
   },
   {
    "name": "Professor Puzzle - Food and Drink",
    "price": 4.21,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.056Z"
   },
   {
    "name": "Professor Puzzle - Movie Trivia",
    "price": 4.21,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.088Z"
   },
   {
    "name": "Professor Puzzle - Pocket Pub Quiz",
    "price": 4.21,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.121Z"
   },
   {
    "name": "Brew",
    "price": 25.76,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.154Z"
   },
   {
    "name": "Monopoly - The Big Bang Theory Edition",
    "price": 40.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.190Z"
   },
   {
    "name": "7 Wonders Architects - obiteljski",
    "price": 35.41,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.227Z"
   },
   {
    "name": "Ticket to Ride",
    "price": 36.74,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.259Z"
   },
   {
    "name": "Dinosaur Tea Party",
    "price": 17.61,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.290Z"
   },
   {
    "name": "Castles of Caladale, obiteljska",
    "price": 27.12,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.318Z"
   },
   {
    "name": "Blue Lagoon,",
    "price": 17.57,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.345Z"
   },
   {
    "name": "Dr. Beaker",
    "price": 22.59,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.373Z"
   },
   {
    "name": "Ninja Night",
    "price": 15.97,
-   "available": true
-  },
-  {
-   "name": "Uxmal",
-   "price": 14.37,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.405Z"
   },
   {
    "name": "Scarabya",
    "price": 13.53,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.440Z"
+  },
+  {
+   "name": "Uxmal",
+   "price": 14.37,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.470Z"
   },
   {
    "name": "Dragon Market",
    "price": 30.29,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.509Z"
   },
   {
    "name": "Hanamikoji",
    "price": 14.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.535Z"
   },
   {
    "name": "Betrayal at Baldur's Gate",
    "price": 42.96,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.568Z"
   },
   {
    "name": "Time Bomb Evolution",
    "price": 9.05,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.599Z"
   },
   {
    "name": "Flyin' Goblin",
    "price": 22.9,
-   "available": true
-  },
-  {
-   "name": "Fairy Tile",
-   "price": 17.04,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.630Z"
   },
   {
    "name": "Rent a Hero",
    "price": 12.18,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.666Z"
   },
   {
-   "name": "Pictionary Air",
-   "price": 19.01,
-   "available": true
+   "name": "Fairy Tile",
+   "price": 17.04,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.698Z"
   },
   {
    "name": "Ultimate Werewolf",
    "price": 12.78,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.735Z"
   },
   {
    "name": "Welcome Back to the Dungeon",
    "price": 12.63,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.770Z"
   },
   {
    "name": "Agricola (Revisited Edition)",
    "price": 45.27,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.810Z"
   },
   {
    "name": "Everdell - Bellfaire",
    "price": 34.61,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.844Z"
   },
   {
    "name": "Welcome to the Dungeon",
    "price": 12.63,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.871Z"
   },
   {
    "name": "Obrazovna društvena igra Otimo",
    "price": 22.41,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.903Z"
   },
   {
    "name": "Ticket to Ride - Asia",
    "price": 31.95,
-   "available": true
-  },
-  {
-   "name": "Vivid Memories",
-   "price": 21.3,
-   "available": true
-  },
-  {
-   "name": "Dodatak za društvenu igru Unicorn Fever - El Sparko Dorado",
-   "price": 2.66,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.930Z"
   },
   {
    "name": "Dodatak za društvenu igru Unicorn Fever - Hilda Rainbowbreaker",
    "price": 7.2,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.954Z"
+  },
+  {
+   "name": "Dodatak za društvenu igru Unicorn Fever - El Sparko Dorado",
+   "price": 2.66,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.982Z"
   },
   {
    "name": "Dodatak za društvenu igru Unicorn Fever - Frankie Flakes",
    "price": 7.2,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:29.006Z"
   },
   {
    "name": "Smash Up: Marvel",
    "price": 31.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:29.036Z"
   },
   {
    "name": "Mandala (Mandala Stones) - Harmony",
    "price": 6.92,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:29.064Z"
   },
   {
    "name": "Mandala",
    "price": 18.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:29.094Z"
   },
   {
    "name": "Railroad Ink - Electricity",
    "price": 7.2,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:29.123Z"
   },
   {
    "name": "Ticket to Ride - Europe (englesko izdanje)",
    "price": 39.94,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:29.148Z"
   },
   {
    "name": "Istanbul - Big Box",
    "price": 38.87,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:31.926Z"
   },
   {
    "name": "Rummy",
    "price": 42.61,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:31.985Z"
   },
   {
    "name": "Pirate Kimble",
    "price": 21.25,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.020Z"
   },
   {
    "name": "Cleocatra",
    "price": 16.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.075Z"
   },
   {
    "name": "Century: Golem Edition – Eastern Mountains",
    "price": 28.22,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.108Z"
   },
   {
    "name": "Patchwork Americana Edition",
    "price": 15.8,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.165Z"
   },
   {
    "name": "Codenames: Disney",
    "price": 21.83,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.228Z"
   },
   {
    "name": "Dungeon Academy - The Lost Forest",
    "price": 5.85,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.304Z"
   },
   {
    "name": "Wise Guys",
    "price": 37.28,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.391Z"
   },
   {
    "name": "Dungeon Academy - The Forbidden Mountain",
    "price": 5.85,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.441Z"
   },
   {
    "name": "Monopoly - Jaws",
    "price": 40.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.472Z"
   },
   {
    "name": "Monopoly - Metallica",
    "price": 40.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.513Z"
   },
   {
    "name": "Hidden Leaders",
    "price": 16.51,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.613Z"
   },
   {
    "name": "Monopoly - Dungeons and Dragons",
    "price": 31.95,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.655Z"
   },
   {
    "name": "The Isle of Cats: Explore & Draw",
    "price": 18.64,
-   "available": true
-  },
-  {
-   "name": "The Isle of Cats: Kittens + Beasts",
-   "price": 24.85,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.704Z"
   },
   {
    "name": "Potion Explosion - The Fifth Ingredient",
    "price": 18.06,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.732Z"
   },
   {
    "name": "Contact",
    "price": 17.61,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.763Z"
   },
   {
    "name": "Visual",
    "price": 11.72,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.791Z"
   },
   {
    "name": "Words in Mind",
    "price": 11.27,
-   "available": true
-  },
-  {
-   "name": "Radlands",
-   "price": 21.3,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.818Z"
   },
   {
    "name": "Nine Dice",
    "price": 9.58,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.866Z"
+  },
+  {
+   "name": "Radlands",
+   "price": 21.3,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.892Z"
   },
   {
    "name": "Seven Games",
    "price": 9.05,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:32.916Z"
   },
   {
    "name": "Storyteller",
    "price": 9.01,
-   "available": true
-  },
-  {
-   "name": "Welkin",
-   "price": 21.3,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.043Z"
   },
   {
    "name": "Dream Runners",
    "price": 29.38,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.162Z"
+  },
+  {
+   "name": "Welkin",
+   "price": 21.3,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.222Z"
   },
   {
    "name": "Tajuto",
    "price": 36.17,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.256Z"
   },
   {
    "name": "Gravwell (2nd Edition)",
    "price": 31.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.288Z"
   },
   {
    "name": "Broom Service",
    "price": 24.49,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.314Z"
   },
   {
    "name": "Museum - Peoples Choice",
    "price": 13.84,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.350Z"
   },
   {
    "name": "i proširenje Disney Villainous - Perfectly Wretched",
    "price": 31.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.379Z"
   },
   {
    "name": "Ravensburger Back to the Future",
    "price": 27.12,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.416Z"
   },
   {
    "name": "Ravensburger Scotland Yard Card Game",
    "price": 5.85,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.443Z"
   },
   {
    "name": "Dungeons & Dragons: Rock Paper Wizard - Fistful of Monsters",
    "price": 15.8,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.469Z"
   },
   {
    "name": "Zombie Princess and the Enchanted Maze",
    "price": 21.3,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.496Z"
   },
   {
    "name": "Bequest",
    "price": 31.95,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.521Z"
   },
   {
    "name": "Ligretto Domino",
    "price": 21.68,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.549Z"
   },
   {
    "name": "Klasična igra Schmidt - Tripple Domino",
    "price": 19.87,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.577Z"
   },
   {
    "name": "Marvel Champions - The Galaxy's Most Wanted",
    "price": 37.28,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.611Z"
   },
   {
    "name": "Marvel Champions - Star-Lord Hero Pack",
    "price": 14.37,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.640Z"
   },
   {
    "name": "ZERTZ",
    "price": 29.38,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.667Z"
   },
   {
    "name": "Mille Fiori",
    "price": 30.74,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.698Z"
   },
   {
    "name": "Hive - Mosquito",
    "price": 6.75,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.724Z"
   },
   {
    "name": "Sorcerer City",
    "price": 40.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.749Z"
   },
   {
    "name": "Glory Islands",
    "price": 26.62,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.777Z"
   },
   {
    "name": "The Grimm Masquerade",
    "price": 20.32,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.815Z"
   },
   {
    "name": "Viticulture - Essential Edition",
    "price": 45.27,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.839Z"
   },
   {
    "name": "AlderQuest",
    "price": 25.03,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.866Z"
   },
   {
    "name": "reMEmber",
    "price": 11.27,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.892Z"
   },
   {
    "name": "Framework",
    "price": 26.09,
-   "available": true
-  },
-  {
-   "name": "Hidden Games Crime Scene: The Little Gomersal Case",
-   "price": 21.83,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.916Z"
   },
   {
    "name": "Drvena igra za put Small Foot - Zmije i stepenice",
    "price": 8.52,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.942Z"
+  },
+  {
+   "name": "Hidden Games Crime Scene: The Little Gomersal Case",
+   "price": 21.83,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.968Z"
   },
   {
    "name": "First Rat",
    "price": 27.12,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:33.995Z"
   },
   {
    "name": "Dixit - Origins (4.)",
    "price": 14.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.024Z"
   },
   {
    "name": "Dixit - Harmonies (8.)",
    "price": 14.37,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.059Z"
   },
   {
    "name": "Drvena igra Small Foot - Čovječe, ne ljuti se, safari životinje",
    "price": 14.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.102Z"
   },
   {
    "name": "Drvena društvena igra Small Foot - Čovječe, ne ljuti se",
    "price": 6.39,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.131Z"
   },
   {
    "name": "Dixit - Daydreams (5.)",
    "price": 14.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.163Z"
   },
   {
    "name": "Dixit - Journey (3.)",
    "price": 14.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.193Z"
   },
   {
    "name": "Strand Unter",
    "price": 23.96,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.220Z"
   },
   {
    "name": "Fire & Stone",
    "price": 23.96,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.256Z"
   },
   {
    "name": "Dixit - Revelations (7.)",
    "price": 14.37,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.283Z"
   },
   {
    "name": "Tobago",
    "price": 29.29,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.311Z"
   },
   {
    "name": "Dixit - Mirrors (10.)",
    "price": 14.37,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.337Z"
   },
   {
    "name": "Dixit - Quest (2.)",
    "price": 15.34,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.364Z"
   },
   {
    "name": "Drvena igra Small Foot - Čovječe, ne ljuti se, sa životinjama, plava",
    "price": 19.17,
-   "available": true
-  },
-  {
-   "name": "Chronicles of Avel",
-   "price": 33.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.387Z"
   },
   {
    "name": "KO Memo",
    "price": 14.44,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.413Z"
   },
   {
    "name": "Twin Cities",
    "price": 11.27,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.442Z"
   },
   {
    "name": "Quick Stick",
    "price": 14.44,
-   "available": true
-  },
-  {
-   "name": "Murano: Light Masters",
-   "price": 15.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.473Z"
   },
   {
    "name": "MasterBluff",
    "price": 9.01,
-   "available": true
-  },
-  {
-   "name": "Sequence-X",
-   "price": 7.98,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.509Z"
   },
   {
    "name": "Escape Math",
    "price": 11.27,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.535Z"
+  },
+  {
+   "name": "Sequence-X",
+   "price": 7.98,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.567Z"
   },
   {
    "name": "Optical",
    "price": 9.01,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.598Z"
   },
   {
    "name": "Dixit - 10th Anniversary (9.)",
    "price": 15.34,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.631Z"
   },
   {
    "name": "Dixit - Memories (6.)",
    "price": 15.34,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.672Z"
   },
   {
    "name": "Clouds",
    "price": 7.45,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.699Z"
   },
   {
    "name": "Fiesta Mexicana",
    "price": 21.3,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.723Z"
   },
   {
    "name": "Bubble Stories",
    "price": 7.45,
-   "available": true
-  },
-  {
-   "name": "Društvena solo igra Mazescape Ariadne",
-   "price": 9.01,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.748Z"
   },
   {
    "name": "OČZ: Horde čudovišta i zlikovaca",
    "price": 18.64,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.772Z"
   },
   {
    "name": "Fairy Trails",
    "price": 13.08,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.802Z"
   },
   {
    "name": "Kahuna",
    "price": 15.8,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.833Z"
   },
   {
    "name": "Adventure Games - The Volcanic Island",
    "price": 10.11,
-   "available": true
-  },
-  {
-   "name": "Imhotep: The Duel",
-   "price": 15.8,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.859Z"
   },
   {
    "name": "Adventure Games - The Grand Hotel Abaddon",
    "price": 16.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.883Z"
   },
   {
    "name": "Andor: The Family Fantasy Game",
    "price": 22.9,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.910Z"
   },
   {
    "name": "The Adventures of Robin Hood",
    "price": 35.15,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.936Z"
   },
   {
    "name": "Brix",
    "price": 15.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.964Z"
   },
   {
    "name": "Who did it?",
    "price": 7.98,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:34.989Z"
   },
   {
    "name": "Once Upon a Castle",
    "price": 23.04,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.016Z"
   },
   {
    "name": "Princess Legend",
    "price": 11.27,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.039Z"
   },
   {
    "name": "Cloud City",
    "price": 16.51,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.067Z"
   },
   {
    "name": "Midnight Exchange",
    "price": 13.84,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.096Z"
   },
   {
    "name": "Espresso Doppio",
    "price": 21.3,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.121Z"
   },
   {
    "name": "12 Gangsters",
    "price": 6.92,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.151Z"
   },
   {
    "name": "Neoville",
    "price": 12.78,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.183Z"
   },
   {
    "name": "Coralia",
    "price": 27.12,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.208Z"
   },
   {
    "name": "Rajas of the Ganges: The Dice Charmers",
    "price": 12.78,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.236Z"
   },
   {
    "name": "Silver  (bugarsko izdanje)",
    "price": 13.84,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.270Z"
   },
   {
    "name": "Harry Potter: Memory Master",
    "price": 3.72,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.300Z"
   },
   {
    "name": "Boomerang: USA",
    "price": 7.98,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.334Z"
   },
   {
    "name": "Riverside",
    "price": 18.06,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.369Z"
   },
   {
    "name": "Meeple Circus: The Show Must Go On",
    "price": 13.53,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:35.399Z"
   },
   {
    "name": "Hibachi",
    "price": 27.12,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:41.647Z"
   },
   {
    "name": "A Game of Thrones: B'Twixt",
    "price": 21.03,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:41.671Z"
   },
   {
    "name": "Rolling Realms - Obiteljska",
    "price": 8.52,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:41.697Z"
   },
   {
    "name": "Paris: City of Light",
    "price": 18.1,
-   "available": true
-  },
-  {
-   "name": "The Isle of Cats",
-   "price": 43.42,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:41.744Z"
   },
   {
    "name": "7 Wonders (2nd Edition)",
    "price": 38.34,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:41.768Z"
   },
   {
    "name": "Packing Suitcases",
    "price": 2.13,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:41.829Z"
   },
   {
    "name": "Pakal",
    "price": 15.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:41.895Z"
   },
   {
    "name": "Conspiracy: Abyss (Blue Cardboard Box), obiteljska",
    "price": 14.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:41.955Z"
   },
   {
    "name": "Monopoly - Riverdale",
    "price": 26.62,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.006Z"
   },
   {
    "name": "Scape Goat",
    "price": 15.8,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.055Z"
   },
   {
    "name": "Fake That",
    "price": 10.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.082Z"
   },
   {
    "name": "Feelinks",
    "price": 18.1,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.112Z"
   },
   {
    "name": "Abra Кazam",
    "price": 10.65,
-   "available": true
-  },
-  {
-   "name": "MicroMacro: Crime City 2 - Full House",
-   "price": 20.32,
-   "available": true
-  },
-  {
-   "name": "Temple Rush",
-   "price": 15.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.204Z"
   },
   {
    "name": "Dobble Minions",
    "price": 15.44,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.239Z"
+  },
+  {
+   "name": "Temple Rush",
+   "price": 15.97,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.284Z"
   },
   {
    "name": "GrandBois - dječja",
    "price": 15.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.309Z"
   },
   {
    "name": "Cluedo - Batman",
    "price": 21.3,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.332Z"
+  },
+  {
+   "name": "MicroMacro: Crime City 2 - Full House",
+   "price": 20.32,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.352Z"
   },
   {
    "name": "Plapparagei - dječja",
    "price": 6.92,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.378Z"
   },
   {
    "name": "Stronghold: Undead (Second Edition)",
    "price": 31.95,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.401Z"
   },
   {
    "name": "Sticky Cthulhu",
    "price": 13.31,
-   "available": true
-  },
-  {
-   "name": "CATAN: 3d Edition",
-   "price": 226.3,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.422Z"
   },
   {
    "name": "Wordsmith",
    "price": 13.84,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.448Z"
+  },
+  {
+   "name": "CATAN: 3d Edition",
+   "price": 226.3,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.477Z"
   },
   {
    "name": "Little Factory",
    "price": 13.53,
-   "available": true
-  },
-  {
-   "name": "Imperial Settlers: Empires of the North - Egyptian Kings",
-   "price": 15.44,
-   "available": true
-  },
-  {
-   "name": "Neuroshima Hex 3.0 - Year of Moloch Edition",
-   "price": 53.25,
-   "available": true
-  },
-  {
-   "name": "Anansi",
-   "price": 7.98,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.514Z"
   },
   {
    "name": "The Dwarves: The Duel",
    "price": 11.27,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.552Z"
+  },
+  {
+   "name": "Neuroshima Hex 3.0 - Year of Moloch Edition",
+   "price": 53.25,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.604Z"
+  },
+  {
+   "name": "Anansi",
+   "price": 7.98,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.639Z"
+  },
+  {
+   "name": "Imperial Settlers: Empires of the North - Egyptian Kings",
+   "price": 15.44,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.670Z"
   },
   {
    "name": "For The King (and Me)",
    "price": 16.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.699Z"
   },
   {
    "name": "Monopoly - Dragon Ball",
    "price": 36.21,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.732Z"
   },
   {
    "name": "- The Mandalorian Trivia Quiz",
    "price": 5.32,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.766Z"
   },
   {
    "name": "Ticket to Ride - Japan & Italy",
    "price": 34.61,
-   "available": true
-  },
-  {
-   "name": "Diamant",
-   "price": 22.59,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.797Z"
   },
   {
    "name": "Oriflamme: Ablaze",
    "price": 12.18,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.828Z"
   },
   {
    "name": "Galaxy Trucker (2021 Edition)",
    "price": 27.96,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.861Z"
   },
   {
    "name": "- Back To Hogwarts Board Game with Spinner",
    "price": 18.06,
-   "available": true
-  },
-  {
-   "name": "Who's Most Likely To... Voting Edition",
-   "price": 21.3,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.887Z"
   },
   {
    "name": "Nova Luna",
    "price": 19.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.920Z"
+  },
+  {
+   "name": "Who's Most Likely To... Voting Edition",
+   "price": 21.3,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.947Z"
   },
   {
    "name": "i proširenje Disney Villainous: Evil Comes Prepared",
    "price": 31.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.972Z"
   },
   {
    "name": "i proširenje Disney Villainous: Wicked to the Core",
    "price": 31.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:42.996Z"
   },
   {
    "name": "Cards Against Humanity: Family Edition",
    "price": 23.96,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.022Z"
   },
   {
    "name": "Jewel Heist",
    "price": 18.06,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.045Z"
   },
   {
    "name": "Cascadia",
    "price": 33.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.066Z"
   },
   {
    "name": "Calico",
    "price": 29.38,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.088Z"
   },
   {
    "name": "Drvena igra Small Foot - Jenga",
    "price": 14.37,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.111Z"
   },
   {
    "name": "Noris BBC Earth - Animals",
    "price": 39.94,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.132Z"
   },
   {
    "name": "Djeco Igra Guska",
    "price": 13.85,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.154Z"
   },
   {
    "name": "Monopoly - Rolling Stones",
    "price": 36.17,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.176Z"
   },
   {
    "name": "Sherlock Express",
    "price": 11.27,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.196Z"
   },
   {
    "name": "Vault of Dragons",
    "price": 44.73,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.217Z"
   },
   {
    "name": "2 u 1 Trefl - Psići u ophodnji, dječja",
    "price": 11.31,
-   "available": true
-  },
-  {
-   "name": "Sherlock Holmes Consulting Detective: The Baker Street Irregulars",
-   "price": 37.81,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.237Z"
   },
   {
    "name": "Mice and Mystics",
    "price": 66.57,
-   "available": true
-  },
-  {
-   "name": "Silver Dagger",
-   "price": 20.32,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.257Z"
   },
   {
    "name": "Cat Lady: Box of Treats",
    "price": 13.31,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.279Z"
   },
   {
    "name": "Call to Adventure",
    "price": 29.29,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.300Z"
   },
   {
    "name": "Dice Forge - Rebellion",
    "price": 28.48,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.326Z"
+  },
+  {
+   "name": "Sherlock Holmes Consulting Detective: The Baker Street Irregulars",
+   "price": 37.81,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.347Z"
+  },
+  {
+   "name": "Silver Dagger",
+   "price": 20.32,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.368Z"
   },
   {
    "name": "Starcadia Quest",
    "price": 58.58,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.389Z"
   },
   {
    "name": "Troyes",
    "price": 45.23,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.410Z"
   },
   {
    "name": "Moon Bots",
    "price": 15.97,
-   "available": true
-  },
-  {
-   "name": "Forgotten Waters",
-   "price": 47.93,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.431Z"
   },
   {
    "name": "Traintopia",
    "price": 31.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.452Z"
+  },
+  {
+   "name": "Forgotten Waters",
+   "price": 47.93,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.472Z"
   },
   {
    "name": "Last Will: Getting Sacked",
    "price": 15.8,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.494Z"
   },
   {
    "name": "Tricky Druids",
    "price": 13.31,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.515Z"
   },
   {
    "name": "Undo - Blood in the Gutter",
    "price": 9.58,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.534Z"
   },
   {
    "name": "Treasure Island: Captain Silver",
    "price": 22.59,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.554Z"
   },
   {
    "name": "Dječja kartaška igra Tarantula Tango",
    "price": 7.98,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.588Z"
   },
   {
    "name": "Kartaška igra Dodelido",
    "price": 10.82,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.609Z"
   },
   {
    "name": "za dva igrača Codenames: Duet XXL",
    "price": 26.09,
-   "available": true
-  },
-  {
-   "name": "Munchkin, kartaška",
-   "price": 22.59,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.628Z"
   },
   {
    "name": "Papillon",
    "price": 38.44,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.648Z"
   },
   {
-   "name": "Ticket to Ride - USA 1910",
-   "price": 15.84,
-   "available": true
+   "name": "Imperial Settlers: Roll & Write",
+   "price": 13.84,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.668Z"
+  },
+  {
+   "name": "Munchkin, kartaška",
+   "price": 22.59,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.688Z"
   },
   {
    "name": "Dječja kartaška igra Biss 20",
    "price": 11.27,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.708Z"
   },
   {
-   "name": "Aztec",
-   "price": 7.98,
-   "available": true
+   "name": "Ticket to Ride - USA 1910",
+   "price": 15.84,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.729Z"
   },
   {
    "name": "Monolith Arena",
    "price": 23.96,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.748Z"
   },
   {
-   "name": "Adventure Island",
-   "price": 21.3,
-   "available": true
+   "name": "Aztec",
+   "price": 7.98,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.768Z"
   },
   {
    "name": "Princess Jing",
    "price": 14.91,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.788Z"
   },
   {
-   "name": "Second Chance (2nd Edition)",
-   "price": 11.27,
-   "available": true
+   "name": "Adventure Island",
+   "price": 21.3,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.809Z"
   },
   {
    "name": "Cockroach Salad - dječja",
    "price": 11.27,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.828Z"
   },
   {
    "name": "Dice Forge, obiteljska",
    "price": 39.94,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.849Z"
+  },
+  {
+   "name": "Second Chance (2nd Edition)",
+   "price": 11.27,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.870Z"
   },
   {
    "name": "Sherlock Holmes - The Thames Murders & Other Cases",
    "price": 39.94,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.892Z"
   },
   {
    "name": "Planet",
    "price": 26.62,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.912Z"
   },
   {
    "name": "Cheating Moth (Mogel Motte)",
    "price": 11.27,
-   "available": true
-  },
-  {
-   "name": "Raptor",
-   "price": 21.83,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.932Z"
   },
   {
    "name": "Schummel Hummel",
    "price": 11.27,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.953Z"
+  },
+  {
+   "name": "Raptor",
+   "price": 21.83,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.973Z"
   },
   {
    "name": "Dungeon Academy",
    "price": 15.97,
-   "available": true
-  },
-  {
-   "name": "Sonar Family",
-   "price": 15.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:43.994Z"
   },
   {
    "name": "Space Dragons",
    "price": 7.98,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.015Z"
+  },
+  {
+   "name": "Sonar Family",
+   "price": 15.97,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.040Z"
   },
   {
    "name": "za dva igrača - Kingdomino Duel",
    "price": 10.82,
-   "available": true
-  },
-  {
-   "name": "Klasična igra Tactic - Mikado",
-   "price": 13.31,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.061Z"
   },
   {
    "name": "Las Vegas Royale",
    "price": 34.61,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.081Z"
+  },
+  {
+   "name": "Klasična igra Tactic - Mikado",
+   "price": 13.31,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.101Z"
   },
   {
    "name": "za dva igrača The Fox in the Forest Duet",
    "price": 13.53,
-   "available": true
-  },
-  {
-   "name": "MicroMacro: Crime City",
-   "price": 20.32,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.121Z"
   },
   {
    "name": "Minecraft - Farmer's Market",
    "price": 10.65,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.141Z"
   },
   {
    "name": "Downforce - Wild Ride",
    "price": 13.53,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.161Z"
   },
   {
    "name": "Ticket to Ride: Amsterdam",
    "price": 18.06,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.181Z"
   },
   {
    "name": "Escape Tales: The Awakening",
    "price": 17.04,
-   "available": true
-  },
-  {
-   "name": "Photograph (Wind the film)",
-   "price": 9.58,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.200Z"
   },
   {
    "name": "Trefl - Snježno kraljevstvo",
    "price": 7.98,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.221Z"
+  },
+  {
+   "name": "Photograph (Wind the film)",
+   "price": 9.58,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.241Z"
   },
   {
    "name": "Ticket to Ride - United Kingdom",
    "price": 31.42,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.261Z"
   },
   {
    "name": "Speed Colors - dječja",
    "price": 11.72,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:44.282Z"
   },
   {
    "name": "SmallWorld",
    "price": 44.2,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.147Z"
   },
   {
    "name": "Treasure Island",
    "price": 38.44,
-   "available": true
-  },
-  {
-   "name": "Proširenje za Wingspan - European Expansion",
-   "price": 18.06,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.160Z"
   },
   {
    "name": "Ticket to Ride - Heart of Africa",
    "price": 22.36,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.186Z"
   },
   {
    "name": "X-men: Mutant Insurrection",
    "price": 49.75,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.222Z"
   },
   {
    "name": "Ticket to Ride - Europe (15th Anniversary Edition)",
    "price": 82.01,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.237Z"
   },
   {
    "name": "Smile",
    "price": 12.24,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.258Z"
   },
   {
    "name": "Splendor: Marvel",
    "price": 30.35,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.318Z"
   },
   {
    "name": "Patchwork",
    "price": 19.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.387Z"
   },
   {
    "name": "Rory's Story Cubes - Putovanja",
    "price": 7.45,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.453Z"
   },
   {
    "name": "Splendor - Cities of Splendor",
    "price": 23.43,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.550Z"
   },
   {
    "name": "Rory's Story Cubes - Akcija",
    "price": 6.92,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.566Z"
   },
   {
    "name": "Dječja stolna igra Haba – Žirafe",
    "price": 13.05,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.586Z"
   },
   {
    "name": "Drvena igra Small Foot - Jenga, s brojevima i kockicama",
    "price": 18.64,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.600Z"
   },
   {
    "name": "Wingspan",
    "price": 42.6,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:45.613Z"
   }
  ]
 }

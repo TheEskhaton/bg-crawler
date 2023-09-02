@@ -12,7 +12,7 @@ export default class CartaCrawler extends BaseCrawler {
           const name = await productEl.locator('.prom').textContent();
           const price = await productEl.locator('.proc > b').first().textContent();
           const available = true;
-          this.products.push({ name: String(name).replace(/\n/g, ''), price: Number(price?.replace('eur', '').replace(',', '.').replace(' ', '')), available });
+          this.products.push({ name: String(name).replace(/\n/g, ''), price: Number(price?.replace('eur', '').replace(',', '.').replace(' ', '')), available ,  dateCrawled: new Date()});
         }
     }
 

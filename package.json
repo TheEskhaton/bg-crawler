@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:dev": "npx nodemon"
+    "start:dev": "npx nodemon",
+    "search" :  "ts-node ./src/index.ts"
   },
   "author": "",
   "license": "ISC",

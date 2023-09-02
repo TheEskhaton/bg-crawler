@@ -3,1692 +3,1970 @@
   {
    "name": "AZUL - MASTER CHOCOLATIER (HR)",
    "price": 45.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:07.743Z"
   },
   {
    "name": "CARCASSONNE (HR)",
    "price": 27.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:07.751Z"
   },
   {
    "name": "CATAPULT FEUD (HR)",
    "price": 41.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:07.757Z"
   },
   {
-   "name": "1989",
-   "price": 79.99,
-   "available": true
+   "name": "SECRET HITLER",
+   "price": 59.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:07.766Z"
+  },
+  {
+   "name": "6 NIMMT / 6 UZIMA (HR)",
+   "price": 9.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:07.771Z"
   },
   {
    "name": "7 WONDERS - DUEL",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:07.776Z"
   },
   {
-   "name": "7 WONDERS 2ND ED (HR)",
-   "price": 49.99,
-   "available": true
+   "name": "A GAME OF THRONES BOARDGAME 2ND EDITION",
+   "price": 74.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:08.142Z"
   },
   {
    "name": "ABYSS",
    "price": 59.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:08.148Z"
   },
   {
-   "name": "ADRENALINE ",
-   "price": 59.99,
-   "available": true
+   "name": "ADVENTURE GAMES - THE VOLCANIC ISLAND",
+   "price": 23.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:08.152Z"
   },
   {
    "name": "AGRICOLA - FAMILY EDITION",
    "price": 24.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:08.156Z"
   },
   {
-   "name": "AGRICOLA 15TH. ANNIVERARY",
-   "price": 119.99,
-   "available": true
+   "name": "AHOY ",
+   "price": 49.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:08.162Z"
   },
   {
    "name": "ALHAMBRA",
    "price": 49.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:08.166Z"
   },
   {
-   "name": "ALONE",
-   "price": 79.99,
-   "available": true
+   "name": "AMSTERDAM",
+   "price": 134.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:08.868Z"
   },
   {
    "name": "ANNO 1800",
    "price": 76.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:08.873Z"
+  },
+  {
+   "name": "ARK NOVA: ZOO MAP PACK 1 ",
+   "price": 11.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:08.878Z"
   },
   {
    "name": "ARKHAM HORROR (THIRD EDITION) - DEAD OF NIGHT",
    "price": 39.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:08.882Z"
   },
   {
    "name": "ARKHAM HORROR FILES - ROAD TO INNSMOUTH",
    "price": 24.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:08.886Z"
   },
   {
    "name": "ARKHAM HORROR LCG - BLOOD ON THE ALTAR MYTHOS PACK",
    "price": 19.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:08.890Z"
   },
   {
    "name": "ARKHAM HORROR LCG - UNDIMENSIONED AND UNSEEN MYTHOS PACK",
    "price": 23.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.330Z"
   },
   {
    "name": "ARKHAM HORROR LCG: THE CIRCLE UNDONE INVESTIGATOR EXPANSION",
    "price": 49.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.335Z"
   },
   {
    "name": "ARKHAM HORROR THE CARD GAME - THE FORGOTTEN AGE CAMPAIGN EXPANSION",
    "price": 99.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.338Z"
   },
   {
    "name": "ARKHAM HORROR THE CARD GAME - THE FORGOTTEN AGE INVESTIGATOR EXPANSION",
    "price": 49.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.344Z"
   },
   {
    "name": "ARKHAM HORROR THE CARD GAME - THE SCARLET KEYS CAMPAIGN EXPANSION",
    "price": 99.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.348Z"
   },
   {
    "name": "ARRAKIS DAWN OF THE FREMEN",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.352Z"
   },
   {
    "name": "AZUL - STAINED GLASS OF SINTRA",
    "price": 49.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.589Z"
   },
   {
    "name": "AZUL - SUMMER PAVILION",
    "price": 44.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.598Z"
   },
   {
    "name": "BANG! THE DUEL",
    "price": 24.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.605Z"
   },
   {
    "name": "BARRAGE 5-PLAYER EXPANSION",
    "price": 24.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.611Z"
+  },
+  {
+   "name": "BATTLETECH: CLAN COMMAND STAR",
+   "price": 26.54,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.616Z"
   },
   {
    "name": "BATTLETECH: CLAN FIRE STAR",
    "price": 30.52,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.619Z"
   },
   {
-   "name": "BATTLETECH: CLAN HEAVY STAR",
-   "price": 30.52,
-   "available": true
+   "name": "BATTLETECH: ELEMENTAL STAR",
+   "price": 25.22,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.836Z"
   },
   {
    "name": "BATTLETECH: INNER SPHERE HEAVY LANCE",
    "price": 25.22,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.842Z"
   },
   {
-   "name": "BATTLETECH: INNER SPHERE URBAN LANCE",
-   "price": 25.22,
-   "available": true
+   "name": "BEEZ",
+   "price": 49.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.847Z"
   },
   {
    "name": "BETRAYAL AT THE HOUSE ON THE HILL 3RD. EDITION",
    "price": 64.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.851Z"
   },
   {
-   "name": "BG: WADDINGTONS NO. 1 - MARVEL UNIVERSE",
-   "price": 5.99,
-   "available": true
+   "name": "BITOKU",
+   "price": 69.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.855Z"
   },
   {
    "name": "BLACK ANGEL",
    "price": 44.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:09.860Z"
   },
   {
-   "name": "BLOOD BOWL - BLACK ORC TEAM",
-   "price": 41.81,
-   "available": true
+   "name": "BLOOD BOWL - CHAOS CHOSEN TEAM CARD PACK",
+   "price": 23.89,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.049Z"
   },
   {
    "name": "BLOOD BOWL - CRUD CREEK NOSEPICKERS TEAM (BOX)",
    "price": 41.81,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.053Z"
   },
   {
-   "name": "BLOOD BOWL - DUNGEON BOWL",
-   "price": 126.09,
-   "available": true
+   "name": "BLOOD BOWL - NECROMANTIC TEAM CARDS",
+   "price": 21.23,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.058Z"
   },
   {
    "name": "BLOOD BOWL - NORSE TEAM",
    "price": 41.81,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.068Z"
   },
   {
-   "name": "BLOOD BOWL - OLD WORLD ALLIANCE TEAM CARD PACK (CARDS)",
-   "price": 21.23,
-   "available": true
+   "name": "BLOOD BOWL: AMAZON TEAM",
+   "price": 41.81,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.072Z"
   },
   {
    "name": "BLOOD BOWL: ELVEN UNION TEAM CARD PACK",
    "price": 23.23,
-   "available": true
-  },
-  {
-   "name": "BLOOD BOWL: OGRE TEAM",
-   "price": 42.47,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.078Z"
   },
   {
    "name": "BLOOD RAGE",
    "price": 109.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.279Z"
   },
   {
    "name": "BLOOD RAGE - 5TH PLAYER EXPANSION",
    "price": 45.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.286Z"
   },
   {
    "name": "BONFIRE - TREES & CREATURES EXPANSION",
    "price": 34.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.291Z"
   },
   {
    "name": "BOONLAKE",
    "price": 79.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.295Z"
   },
   {
    "name": "BUREAU OF INVESTIGATION - INVESTIGATIONS IN ARKHAM & ELSEWHERE",
    "price": 46.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.300Z"
   },
   {
-   "name": "CALICO",
-   "price": 44.99,
-   "available": true
-  },
-  {
-   "name": "CARCASSONNE BIG BOX 2021",
-   "price": 119.99,
-   "available": true
-  },
-  {
-   "name": "CARCASSONNE MAPS: BENELUX",
+   "name": "CALL TO ADVENTURE: THE NAME OF THE WIND",
    "price": 12.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.304Z"
+  },
+  {
+   "name": "CARCASSONNE MAPS: PENINSULA IBERICA",
+   "price": 12.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.923Z"
   },
   {
    "name": "CARDS AGAINST HUMANITY - FAMILY EDITION: GLOW IN THE DARK BOX ",
    "price": 41.14,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.931Z"
   },
   {
-   "name": "CARTAVENTURA: LHASA",
+   "name": "CARTAVENTURA: VINLAND",
    "price": 18.99,
-   "available": true
-  },
-  {
-   "name": "CASCADIA",
-   "price": 44.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.937Z"
   },
   {
    "name": "CATAN - BLAGA, ZMAJEVI I ISTRAŽIVAČI",
    "price": 19.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.941Z"
   },
   {
    "name": "CATAN EKSTENZIJA ZA 5-6 IGRAČA (HR)",
    "price": 22.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.947Z"
   },
   {
    "name": "CATAN GRADOVI I VITEZOVI EKSPANZIJA (HR)",
    "price": 34.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:10.952Z"
   },
   {
    "name": "CATAN POMORCI EKSPANZIJA HR",
    "price": 34.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.161Z"
   },
   {
    "name": "CENTURY GOLEM EASTERN MOUNTAINS",
    "price": 46.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.165Z"
   },
   {
    "name": "CHRONICLES OF CRIME",
    "price": 34.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.169Z"
   },
   {
    "name": "CHRONICLES OF CRIME - 1400",
    "price": 34.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.174Z"
   },
   {
    "name": "CHRONICLES OF CRIME - 2400",
    "price": 34.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.180Z"
   },
   {
    "name": "ČIRI BIRI BAJKA SNJEŽNO KRALJEVSTVO",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.184Z"
   },
   {
    "name": "CLANK! CATACOMBS ",
    "price": 79.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.425Z"
   },
   {
-   "name": "CLUEDO - BATMAN ",
-   "price": 41.99,
-   "available": true
-  },
-  {
-   "name": "CLUEDO - RICK & MORTY ",
-   "price": 41.99,
-   "available": true
+   "name": "CLUEDO - JAMES BOND 007",
+   "price": 39.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.431Z"
   },
   {
    "name": "CODENAMES PICTURES (HR)",
    "price": 21.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.435Z"
   },
   {
-   "name": "COLT EXPRESS (HR)",
-   "price": 34.99,
-   "available": true
+   "name": "COIMBRA",
+   "price": 49.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.438Z"
   },
   {
    "name": "CONCORDIA - BALEARICA/ITALIA EXPANSION",
    "price": 19.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.442Z"
   },
   {
-   "name": "CONCORDIA - GALLIA/CORSICA",
-   "price": 16.99,
-   "available": true
+   "name": "CONCORDIA - BRITANNIA/GERMANIA EXPANSION",
+   "price": 17.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.447Z"
   },
   {
    "name": "CONNECT 4 GRAB & GO",
    "price": 14.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.918Z"
+  },
+  {
+   "name": "CORAQUEST",
+   "price": 54.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.922Z"
+  },
+  {
+   "name": "CORE SPACE - TRADING POST 5 EXPANSION ",
+   "price": 42.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.933Z"
   },
   {
    "name": "COSMIC ENCOUNTER DUEL",
    "price": 49.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.942Z"
   },
   {
-   "name": "CROWN OF EMARA",
-   "price": 32.99,
-   "available": true
+   "name": "CTHULHU DARK ARTS TAROTS",
+   "price": 29.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.951Z"
   },
   {
-   "name": "CYCLADES - HADES EXPANSION",
+   "name": "CURIOUS CARGO",
    "price": 44.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:11.957Z"
   },
   {
-   "name": "DALE OF MERCHANTS 2",
-   "price": 19.99,
-   "available": true
-  },
-  {
-   "name": "DEADLY DINNER - THE LAST ROSE",
-   "price": 16.99,
-   "available": true
+   "name": "DALE OF MERCHANTS 3",
+   "price": 21.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.159Z"
   },
   {
    "name": "DEADZONE - 3.0 TWO PLAYER STARTER SET ",
    "price": 106.18,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.166Z"
   },
   {
    "name": "DEADZONE - D8 PACK ",
    "price": 10.62,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.172Z"
   },
   {
    "name": "DETECTIVE - L.A. CRIMES",
    "price": 6.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.178Z"
   },
   {
    "name": "DIAMANT",
    "price": 34.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.182Z"
   },
   {
    "name": "DICE TOWN ",
    "price": 39.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:12.187Z"
   },
   {
    "name": "DIXIT 3 - JOURNEY",
    "price": 26.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.001Z"
   },
   {
    "name": "DIXIT 4 - ORIGINS (NORDIC)",
    "price": 26.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.016Z"
   },
   {
    "name": "DIXIT 7 - REVELATIONS",
    "price": 26.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.023Z"
   },
   {
    "name": "DIXIT 8 - HARMONIES",
    "price": 26.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.033Z"
   },
   {
    "name": "DOBBLE (HR)",
    "price": 19.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.039Z"
   },
   {
    "name": "DOBBLE - HARRY POTTER",
    "price": 18.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.047Z"
   },
   {
    "name": "DOCTOR WHO - TIME OF THE DALEKS",
    "price": 39.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.297Z"
   },
   {
    "name": "DOMINANT SPECIES",
    "price": 79.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.305Z"
   },
   {
    "name": "DRAFTOSAURUS",
    "price": 27.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.328Z"
   },
   {
    "name": "DUNE",
    "price": 66.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.342Z"
   },
   {
    "name": "DUNE - IXIANS & TLEILAXU",
    "price": 33.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.351Z"
   },
   {
    "name": "DUNE BETRAYAL",
    "price": 31.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.373Z"
   },
   {
    "name": "DUNGEON FIGHTER SECOND EDITION",
    "price": 39.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.748Z"
   },
   {
-   "name": "DUNGEONS & DRAGONS: THE YAWNING PORTAL",
-   "price": 69.99,
-   "available": true
+   "name": "DUNGEON MAYHEM",
+   "price": 17.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.752Z"
+  },
+  {
+   "name": "DUNGEONS AND DRAGONS: LEGEND OF DRIZZT BOARD GAME ",
+   "price": 74.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.756Z"
   },
   {
    "name": "ECLIPSE: 2ND EDITION - DAWN FOR THE GALAXY",
    "price": 139.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.761Z"
   },
   {
-   "name": "ELDER SIGN",
+   "name": "ELEVEN: FOOTBALL MANAGER BOARD GAME ",
    "price": 54.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.765Z"
   },
   {
    "name": "ESCAPE TALES - LOW MEMORY",
    "price": 21.99,
-   "available": true
-  },
-  {
-   "name": "EUROPA UNIVERSALIS: PRICE OF POWER",
-   "price": 129.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:13.769Z"
   },
   {
    "name": "EVERDELL MISTWOOD ",
    "price": 69.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.015Z"
   },
   {
    "name": "EVERDELL NEWLEAF",
    "price": 69.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.021Z"
   },
   {
    "name": "EVERDELL SPIRECREST",
    "price": 64.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.028Z"
   },
   {
    "name": "EXIT - KIDNAPPED IN FORTUNE CITY",
    "price": 16.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.033Z"
+  },
+  {
+   "name": "EXIT - NIGHTFALL MANOR ",
+   "price": 29.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.038Z"
   },
   {
    "name": "EXIT - STORMY FLIGHT",
    "price": 16.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.049Z"
   },
   {
-   "name": "EXIT - THE ABANDONED CABIN",
+   "name": "EXIT - THE CEMETERY OF THE KNIGHT",
    "price": 16.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.492Z"
   },
   {
    "name": "EXIT - THE DEAD MAN ON THE ORIENT EXPRESS",
    "price": 16.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.499Z"
   },
   {
-   "name": "EXIT - THE DESERTED LIGHTHOUSE PUZZLE",
-   "price": 29.99,
-   "available": true
+   "name": "EXIT - THE DISAPPEARANCE OF SHERLOCK HOLMES",
+   "price": 19.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.506Z"
   },
   {
    "name": "EXIT - THE ENCHANTED FOREST",
    "price": 16.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.514Z"
   },
   {
-   "name": "EXIT - THE FORBIDDEN CASTLE",
+   "name": "EXIT - THE FORGOTTEN ISLAND",
    "price": 16.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.520Z"
   },
   {
    "name": "EXIT - THE GATE BETWEEN WORLDS",
    "price": 16.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.528Z"
   },
   {
-   "name": "EXIT - THE HAUNTED ROLLER COASTER",
+   "name": "EXIT - THE HOUSE OF RIDDLES",
    "price": 16.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.795Z"
   },
   {
    "name": "EXIT - THE MYSTERIOUS MUSEUM",
    "price": 16.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.801Z"
   },
   {
-   "name": "EXIT - THE POLAR STATION",
-   "price": 16.99,
-   "available": true
+   "name": "EXIT - THE PROFFESSORS LAST RIDDLE ",
+   "price": 19.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.805Z"
   },
   {
    "name": "EXIT - THE RETURN TO ABANDONED CABIN",
-   "price": 19.91,
-   "available": true
+   "price": 19.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.816Z"
   },
   {
-   "name": "EXIT - THE SINISTER MANSION",
+   "name": "EXIT - THE SUNKEN TREASURE",
    "price": 16.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.822Z"
   },
   {
    "name": "EXIT - THE THEFT ON THE MISSISSIPPI",
    "price": 16.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:14.827Z"
   },
   {
-   "name": "EXPLODING KITTENS (HR)",
-   "price": 29.99,
-   "available": true
+   "name": "EXPLODING KITTENS - NORDIC NSFW ED.",
+   "price": 27.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.058Z"
   },
   {
    "name": "EXPLODING KITTENS 2 PLAYER GAME",
    "price": 18.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.064Z"
   },
   {
-   "name": "FALLOUT",
-   "price": 79.99,
-   "available": true
+   "name": "FALLOUT WASTELAND WARFARE - CILDREN OF ATOM: ZEALOT CONGREGATION",
+   "price": 58.4,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.068Z"
   },
   {
    "name": "FALLOUT: WASTELAND WARFARE - GUNNERS: CONQUERORS OF QUINCY",
    "price": 42.47,
-   "available": true
-  },
-  {
-   "name": "FALLOUT: WASTELAND WARFARE - GUNNERS: CORE BOX",
-   "price": 41.14,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.072Z"
   },
   {
    "name": "FIERCE WOMEN",
    "price": 23.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.078Z"
   },
   {
    "name": "FIREFLY: MISBEHAVIN'",
    "price": 69.99,
-   "available": true
-  },
-  {
-   "name": "FOOTHILLS",
-   "price": 18.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.082Z"
   },
   {
    "name": "FORGOTTEN WATERS: A CROSSROADS GAME",
    "price": 74.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.541Z"
   },
   {
-   "name": "FORT - CATS & DOGS EXPANSION",
-   "price": 13.99,
-   "available": true
+   "name": "FORT",
+   "price": 34.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.547Z"
   },
   {
    "name": "FOUNDERS OF TEOTIHUACAN",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.551Z"
   },
   {
-   "name": "GEEK OUT! DISNEY",
-   "price": 19.99,
-   "available": true
+   "name": "FROSTPUNK: THE BOARD GAME ",
+   "price": 109.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.556Z"
   },
   {
    "name": "GLOOM 2.ND EDITION",
    "price": 39.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.561Z"
   },
   {
-   "name": "GOONS",
-   "price": 29.99,
-   "available": true
+   "name": "GLOOMHAVEN",
+   "price": 149.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.565Z"
   },
   {
    "name": "GREAT WESTERN TRAIL - ARGENTINA ",
    "price": 53.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.838Z"
   },
   {
    "name": "HALLERTAU",
    "price": 84.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.846Z"
   },
   {
-   "name": "HALLI GALLI (HR)",
-   "price": 14.99,
-   "available": true
+   "name": "HAMBURG",
+   "price": 134.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.850Z"
   },
   {
    "name": "HARRY POTTER - HOGWARTS BATTLE",
    "price": 64.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.855Z"
   },
   {
    "name": "HERO REALMS CHARACTER PACK - FIGHTER",
    "price": 5.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.860Z"
   },
   {
-   "name": "HEROQUEST ",
-   "price": 149.99,
-   "available": true
+   "name": "HERO REALMS CHARACTER PACK - THIEF",
+   "price": 5.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:15.864Z"
   },
   {
    "name": "HEROQUEST - THE MAGE OF THE MIRROR QUEST PACK ",
    "price": 69.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.087Z"
   },
   {
-   "name": "HEY, THAT'S MY FISH!",
-   "price": 22.99,
-   "available": true
+   "name": "HEROQUEST KELLAR'S KEEP EXPANSION ",
+   "price": 49.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.093Z"
   },
   {
    "name": "HIGH SCORE ",
    "price": 17.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.100Z"
   },
   {
-   "name": "IGRA ESCAPE AQUARIUM",
-   "price": 21.99,
-   "available": true
+   "name": "HOGWARTS BATTLE - DEFENCE AGAINST THE DARK ARTS",
+   "price": 41.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.144Z"
   },
   {
    "name": "IGRA TRIVIA BOOK",
    "price": 4,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.158Z"
   },
   {
-   "name": "ILLUMINATI (SECOND EDITION) - ALTERNATIVE TRUTHS",
+   "name": "IGRA TRIVIA TRAVEL",
    "price": 14.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.163Z"
   },
   {
-   "name": "ILLUSION",
+   "name": "ILLUSION (HR)",
    "price": 11.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.387Z"
   },
   {
-   "name": "IMPERIAL SETTLERS",
-   "price": 49.99,
-   "available": true
+   "name": "ILLUSION INTERNATIONAL",
+   "price": 11.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.395Z"
   },
   {
    "name": "IMPERIUM - CLASSICS",
    "price": 49.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.400Z"
   },
   {
-   "name": "IN TOO DEEP",
-   "price": 64.99,
-   "available": true
+   "name": "IN THE HALL OF THE MOUNTAIN KING",
+   "price": 54.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.406Z"
   },
   {
    "name": "INSIDER",
    "price": 23.89,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.413Z"
   },
   {
-   "name": "ISTANBUL - BIG BOX",
-   "price": 74.99,
-   "available": true
+   "name": "ISS VANGUARD: COREBOX",
+   "price": 169.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.418Z"
   },
   {
    "name": "ISTANBUL - CHOOSE & WRITE",
    "price": 26.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.604Z"
+  },
+  {
+   "name": "JABBA'S PALACE - A LOVE LETTER GAME",
+   "price": 20.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.613Z"
   },
   {
    "name": "JOKING HAZARD",
    "price": 44.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.617Z"
   },
   {
    "name": "JOKING HAZARD - DECK ENHANCEMENT #1",
    "price": 15.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.621Z"
   },
   {
    "name": "JUNGLE SPEED ECO (HR)",
-   "price": 21.99,
-   "available": true
+   "price": 22.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.627Z"
   },
   {
    "name": "KELTIS - THE CARD GAME (HR)",
    "price": 4.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.633Z"
   },
   {
    "name": "KING OF NEW YORK",
    "price": 46.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.875Z"
   },
   {
    "name": "KINGDOMINO (HR)",
    "price": 22.99,
-   "available": true
-  },
-  {
-   "name": "KUZOOKA",
-   "price": 21.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.881Z"
   },
   {
    "name": "L.L.A.M.A. CARD GAME",
    "price": 10.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.887Z"
   },
   {
-   "name": "LEGENDARY - A MARVEL DECK BUILDING GAME",
-   "price": 44.99,
-   "available": true
+   "name": "LAST NIGHT ON EARTH 10TH ANNIVERSARY EDITION",
+   "price": 84.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.894Z"
   },
   {
    "name": "LEGENDS OF ANDOR",
    "price": 59.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.901Z"
   },
   {
-   "name": "LETTER JAM (HR)",
-   "price": 19.99,
-   "available": true
+   "name": "LEGENDS OF ANDOR - THE LAST HOPE",
+   "price": 59.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:16.909Z"
   },
   {
    "name": "LETTERS FROM WHITECHAPEL",
    "price": 59.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.151Z"
   },
   {
-   "name": "LOGIC CARDS BLUE",
-   "price": 5.31,
-   "available": true
+   "name": "LLAMAS UNLEASHED - FARMED & DANGEROUS EXPANSION",
+   "price": 16.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.155Z"
   },
   {
    "name": "LORD OF THE RINGS JOURNEYS IN MIDDLE EARTH - SHADOWED PATHS EXPANSION",
    "price": 99.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.161Z"
   },
   {
-   "name": "LORD OF THE RINGS: THE CARD GAME THE FELLOWSHIP OF THE RING SAGA EXPANSION",
-   "price": 69.99,
-   "available": true
+   "name": "LORD OF THE RINGS: THE CARD GAME DREAM-CHASER HERO EXPANSION ",
+   "price": 49.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.165Z"
   },
   {
    "name": "LORDS OF WATERDEEP",
    "price": 59.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.170Z"
   },
   {
-   "name": "LORENZO IL MAGNIFICO BIG BOX",
-   "price": 84.99,
-   "available": true
+   "name": "LORDS OF WATERDEEP - SCOUNDRELS OF SKULLPORT EXPANSION",
+   "price": 39.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.175Z"
   },
   {
    "name": "LOST CITIES CARD GAME",
    "price": 24.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.428Z"
   },
   {
-   "name": "LOST RUINS OF ARNAK",
-   "price": 67.99,
-   "available": true
+   "name": "LOST CITIES DUEL (HR)",
+   "price": 16.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.445Z"
   },
   {
    "name": "LOST RUINS OF ARNAK - EXPEDITION LEADERS EXPANSION",
    "price": 34.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.450Z"
   },
   {
-   "name": "LUNA CAPITAL",
-   "price": 19.99,
-   "available": true
+   "name": "LOVE LETTER ",
+   "price": 24.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.454Z"
   },
   {
    "name": "MANSIONS OF MADNESS 2ND. ED. - HORRIFIC JOURNEYS EXPANSION",
    "price": 84.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.460Z"
   },
   {
-   "name": "MARVEL CHAMPIONS - DRAX HERO PACK",
-   "price": 19.99,
-   "available": true
+   "name": "MARRAKESH",
+   "price": 159.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.465Z"
   },
   {
    "name": "MARVEL CHAMPIONS - GALAXY'S MOST WANTED EXPANSION",
    "price": 59.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.736Z"
   },
   {
-   "name": "MARVEL CHAMPIONS - QUICKSILVER HERO PACK",
+   "name": "MARVEL CHAMPIONS - MS. MARVEL HERO PACK",
    "price": 19.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.750Z"
   },
   {
    "name": "MARVEL CHAMPIONS - STAR-LORD HERO PACK",
    "price": 19.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.761Z"
   },
   {
-   "name": "MARVEL CHAMPIONS - THE MAD TITAN'S SHADOW",
-   "price": 64.99,
-   "available": true
+   "name": "MARVEL CHAMPIONS - THE HOOD SCENARIO PACK",
+   "price": 29.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.770Z"
   },
   {
    "name": "MARVEL CHAMPIONS - THE ONCE AND FUTURE KANG EXPANSION",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.778Z"
   },
   {
-   "name": "MARVEL CHAMPIONS - VISION HERO PACK",
+   "name": "MARVEL CHAMPIONS - VENOM EXPANSION",
    "price": 19.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:17.784Z"
   },
   {
    "name": "MARVEL CHAMPIONS - WIDOW'S STING EXPANSION",
    "price": 19.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.064Z"
   },
   {
-   "name": "MARVEL CHAMPIONS: MOJOMANIA SCENARIO PACK",
-   "price": 34.99,
-   "available": true
+   "name": "MARVEL CHAMPIONS - WRECKING CREW SCENARIO PACK",
+   "price": 29.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.075Z"
   },
   {
    "name": "MARVEL CHAMPIONS: MUTANT GENESIS EXPANSION",
    "price": 49.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.085Z"
   },
   {
-   "name": "MARVEL CHAMPIONS: SINISTER MOTIVES ",
-   "price": 59.99,
-   "available": true
+   "name": "MARVEL CHAMPIONS: PHOENIX HERO PACK",
+   "price": 19.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.092Z"
   },
   {
    "name": "MARVEL CRISIS PROTOCOL CORE SET",
    "price": 109.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.099Z"
   },
   {
-   "name": "MASTER WORD",
-   "price": 14.99,
-   "available": true
+   "name": "MARVEL D.A.G.G.E.R",
+   "price": 89.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.108Z"
   },
   {
    "name": "MAZESCAPE: ARIADNE",
    "price": 18.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.317Z"
   },
   {
-   "name": "MEADOW",
-   "price": 47.99,
-   "available": true
+   "name": "MAZESCAPE: LABYRINTHOS",
+   "price": 18.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.321Z"
   },
   {
    "name": "MEMOIR '44",
    "price": 69.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.328Z"
   },
   {
-   "name": "MICE AND MYSTICS",
-   "price": 89.99,
-   "available": true
+   "name": "MERCHANTS OF THE DARK ROAD",
+   "price": 49.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.335Z"
   },
   {
    "name": "MICROMACRO (HR)",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.342Z"
   },
   {
-   "name": "MONOPOLY - DOGS",
-   "price": 44.99,
-   "available": true
-  },
-  {
-   "name": "MONOPOLY - DRAGON BALL SUPER ",
+   "name": "MONOPOLY - BACK TO THE FUTURE ",
    "price": 41.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.347Z"
   },
   {
    "name": "MONOPOLY - DUNGEONS AND DRAGONS ",
    "price": 41.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.656Z"
   },
   {
    "name": "MONOPOLY - METALLICA ",
    "price": 41.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.663Z"
   },
   {
    "name": "MONOPOLY - ONE PIECE ",
    "price": 41.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.669Z"
   },
   {
    "name": "MONOPOLY - QUEEN ",
    "price": 41.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.676Z"
   },
   {
    "name": "MONOPOLY - THE BIG BANG THEORY  ",
    "price": 49.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.680Z"
   },
   {
    "name": "MONOPOLY STAR WARS - THE CHILD EDITION",
    "price": 44.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.684Z"
   },
   {
    "name": "MONOPOLY: STAR WARS DARK SIDE",
    "price": 64.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.985Z"
   },
   {
    "name": "MUNCHKIN BITES 2 - PANTS MACABRE EXPANSION",
    "price": 25.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:18.989Z"
   },
   {
    "name": "MY LIL' EVERDELL",
    "price": 54.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.000Z"
   },
   {
    "name": "MYSTERIUM - HIDDEN SIGNS ",
    "price": 25.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.007Z"
   },
   {
    "name": "NEMESIS - ALIEN KINGS EXPANSION",
    "price": 49.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.017Z"
   },
   {
    "name": "NEMESIS LOCKDOWN - ALIEN KINGS EXPANSION",
    "price": 44.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.024Z"
   },
   {
    "name": "NEW YORK",
    "price": 134.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.271Z"
   },
   {
    "name": "NINJA NIGHT",
    "price": 19.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.277Z"
   },
   {
    "name": "NOVA LUNA",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.282Z"
   },
   {
    "name": "NOW OR NEVER",
    "price": 54.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.287Z"
   },
   {
    "name": "OHANAMI",
    "price": 11.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.294Z"
   },
   {
    "name": "ON A SCALE FROM ONE TO T-REX",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.299Z"
   },
   {
    "name": "ONIRIM",
    "price": 33.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.533Z"
   },
   {
    "name": "ONITAMA - LIGHT & SHADOW EXPANSION",
    "price": 26.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.538Z"
   },
   {
    "name": "PALADINS OF THE WEST KINGDOM",
    "price": 69.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.544Z"
   },
   {
    "name": "PALADINS OF THE WEST KINGDOM - CITY OF CROWNS ",
    "price": 39.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.550Z"
   },
   {
    "name": "PANDEMIC LEGACY - SEASON 1  - BLUE ",
    "price": 109.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.554Z"
   },
   {
    "name": "PANDEMIC LEGACY - SEASON 1  - RED",
    "price": 109.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.560Z"
   },
   {
    "name": "PARIS EIFFEL",
    "price": 15.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.842Z"
   },
   {
    "name": "PARKS",
    "price": 64.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.849Z"
   },
   {
    "name": "PATCHWORK (HR)",
    "price": 26.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.854Z"
   },
   {
    "name": "PATHFINDER DEEP CUTS: ZOMBIE BRUTE ",
    "price": 9.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.858Z"
   },
   {
    "name": "PERICLES - THE PELOPONNESIAN WARS 460-400 BC",
    "price": 99.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.864Z"
   },
   {
    "name": "PHOTOSYNTHESIS (HR)",
    "price": 44.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:19.870Z"
   },
   {
    "name": "POETRY FOR NEANDERTHALS EXPANSION 1",
    "price": 23.89,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.135Z"
   },
   {
    "name": "POINT SALAD",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.140Z"
   },
   {
    "name": "PRAGA CAPUT REGNI",
    "price": 54.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.147Z"
   },
   {
    "name": "PUBLIC MARKET",
    "price": 65.99,
-   "available": true
-  },
-  {
-   "name": "QUANTIK",
-   "price": 33.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.150Z"
   },
   {
    "name": "QUICK (HR)",
    "price": 4.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.155Z"
   },
   {
-   "name": "QWIXX",
+   "name": "QUIZ STAR WARS ",
    "price": 11.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.161Z"
   },
   {
    "name": "QWIXX MIXX RECHARGE PACK (HR)",
    "price": 7.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.339Z"
   },
   {
-   "name": "RAILROAD INK - BLUE",
+   "name": "RAILROAD INK - BLAZING RED EDITION",
    "price": 18.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.349Z"
   },
   {
-   "name": "RAILROAD INK CHALLENGE - LUSH GREEN EDITION",
+   "name": "RAILROAD INK CHALLENGE - SHINING YELLOW EDITION",
    "price": 18.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.354Z"
   },
   {
    "name": "REALLY LOUD LIBRARIANS",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.359Z"
   },
   {
-   "name": "RED CATHEDRAL",
-   "price": 34.99,
-   "available": true
+   "name": "REVIVE",
+   "price": 79.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.365Z"
   },
   {
    "name": "ROBINSON CRUSOE - ADVENTURES ON THE CURSED ISLAND ",
    "price": 64.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.373Z"
   },
   {
-   "name": "ROLL PLAYER - FIEND & FAMILIARS EXPANSION",
-   "price": 54.99,
-   "available": true
+   "name": "ROOT - CLOCKWORK EXPANSION",
+   "price": 44.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.587Z"
   },
   {
    "name": "ROOT: THE CLOCKWORK EXPANSION 2 - EN",
    "price": 49.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.601Z"
   },
   {
-   "name": "ROOT: UNDERWORLD HIRELINGS PACK - EN",
-   "price": 15.99,
-   "available": true
+   "name": "SABOTEUR (HR)",
+   "price": 10.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.606Z"
   },
   {
    "name": "SAGRADA",
    "price": 52.99,
-   "available": true
-  },
-  {
-   "name": "SCYTHE",
-   "price": 89.99,
-   "available": true
-  },
-  {
-   "name": "SENTINELS OF THE MULTIVERSE: DEFINITIVE EDITION ",
-   "price": 68.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.615Z"
   },
   {
    "name": "SET (CARD GAME)",
    "price": 11.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.627Z"
   },
   {
-   "name": "SHERLOCK HOLMES CONSULTING DETECTIVE - JACK THE RIPPER & THE WEST END ADVENTURES",
+   "name": "SHERLOCK HOLMES CONSULTING DETECTIVE - CARLTON HOUSE & QUEEN'S PARK",
    "price": 59.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.634Z"
   },
   {
    "name": "SHERLOCK HOLMES CONSULTING DETECTIVE - THAMES MURDERS & OTHER CASES",
    "price": 59.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.853Z"
   },
   {
-   "name": "SIDEREAL CONFLUENCE - REMASTERED EDITION",
-   "price": 99.99,
-   "available": true
+   "name": "SHERLOCK HOLMES CONSULTING DETECTIVE - THE BAKER STREET IRREGULARS",
+   "price": 59.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.862Z"
   },
   {
-   "name": "SIMILO - FABLES",
+   "name": "SIMILO - HISTORY",
    "price": 9.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.867Z"
   },
   {
    "name": "SIMILO - MYTHS",
    "price": 9.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.873Z"
   },
   {
-   "name": "SIMILO - SPOOKIES",
+   "name": "SIMILO - WILD ANIMALS",
    "price": 9.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.880Z"
   },
   {
    "name": "SKYMINES",
    "price": 69.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:20.884Z"
   },
   {
-   "name": "SLEEPING GODS",
-   "price": 99.99,
-   "available": true
+   "name": "SLEEPING GODS DUNGEONS",
+   "price": 18.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.244Z"
   },
   {
    "name": "SLOVO NA SLOVO",
    "price": 17.25,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.258Z"
   },
   {
-   "name": "SMALL WORLD",
-   "price": 59.99,
-   "available": true
+   "name": "SMALL WORLD - POWER PACK #1 EXPANSION",
+   "price": 19.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.265Z"
   },
   {
    "name": "SMALL WORLD - POWER PACK #2 EXPANSION",
    "price": 19.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.270Z"
   },
   {
-   "name": "SMALL WORLD OF WARCRAFT",
-   "price": 79.99,
-   "available": true
+   "name": "SMARTPHONE INC",
+   "price": 65.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.278Z"
   },
   {
    "name": "SNIPER ELITE - THE BOARD GAME",
    "price": 67.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.285Z"
   },
   {
-   "name": "SONAR FAMILY",
-   "price": 34.99,
-   "available": true
+   "name": "SORCERER - EXTRA PLAYER BOARD",
+   "price": 5.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.538Z"
   },
   {
    "name": "SPACE BATTLE LUNCHTIME CARD GAME",
    "price": 19.97,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.561Z"
   },
   {
-   "name": "SPACESHIP UNITY - SEASON 1.1",
-   "price": 34.99,
-   "available": true
+   "name": "SPIRIT ISLAND",
+   "price": 99.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.588Z"
   },
   {
    "name": "SPLENDOR DUEL (HR)",
    "price": 29.99,
-   "available": true
-  },
-  {
-   "name": "SQUID GAME (HR)",
-   "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.602Z"
   },
   {
    "name": "STAR WARS ARMADA - GALACTIC REPUBLIC FLEET EXPANSION PACK",
    "price": 132.72,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.625Z"
   },
   {
    "name": "STAR WARS ARMADA - SEPARATIST ALLIANCE FLEET EXPANSION PACK",
    "price": 132.72,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:21.634Z"
   },
   {
    "name": "STAR WARS IMPERIAL ASSAULT -  RETURN TO HOTH CAMPAIGN",
    "price": 99.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:22.618Z"
   },
   {
    "name": "STAR WARS IMPERIAL ASSAULT - BESPIN GAMBIT CAMP EXPANSION",
    "price": 69.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:22.626Z"
   },
   {
    "name": "STAR WARS IMPERIAL ASSAULT - JABBA'S REALM CAMPAIGN EXPANSION ",
    "price": 99.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:22.632Z"
   },
   {
    "name": "STAR WARS IMPERIAL ASSAULT - TWIN SHADOWS EXPANSION",
    "price": 69.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:22.636Z"
   },
   {
    "name": "STAR WARS OUTER RIM UNFINISHED BUSINES EXPANSION",
    "price": 64.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:22.640Z"
   },
   {
    "name": "STAR WARS: SHATTERPOINT",
    "price": 169.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:22.645Z"
   },
   {
    "name": "STAR WARS: SHATTERPOINT - MEASURING TOOL ",
    "price": 16.49,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:23.568Z"
   },
   {
-   "name": "STAR WARS: THE CLONE WARS - A PANDEMIC SYSTEM GAME",
-   "price": 54.99,
-   "available": true
-  },
-  {
-   "name": "STORY CUBES -   ACTIONS",
-   "price": 15.99,
-   "available": true
+   "name": "STOCKPILE - CONTINUING CORRUPTION",
+   "price": 4.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:23.572Z"
   },
   {
    "name": "STORY CUBES -  PREHISTORIC",
    "price": 3.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:23.579Z"
   },
   {
-   "name": "STORY CUBES - ARCADE",
-   "price": 3.7,
-   "available": true
+   "name": "STORY CUBES - ACTIONS (HR)",
+   "price": 13.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:23.586Z"
+  },
+  {
+   "name": "STORY CUBES - CLASSIC (HR)",
+   "price": 13.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:23.593Z"
   },
   {
    "name": "STORY CUBES - EXPLORE",
    "price": 3.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:23.599Z"
   },
   {
    "name": "STORY CUBES - MEDIC",
    "price": 3.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:23.913Z"
   },
   {
    "name": "STORY CUBES - MYTHIC ",
    "price": 3.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:23.919Z"
   },
   {
    "name": "STORY CUBES - RESCUE",
    "price": 3.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:23.926Z"
   },
   {
    "name": "STORY CUBES - SCORE",
    "price": 3.7,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:23.931Z"
   },
   {
    "name": "STORY CUBES - VOYAGES (HR)",
    "price": 13.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:23.936Z"
   },
   {
    "name": "SUMMONER WARS 2ND EDITION STARTER SET",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:23.942Z"
+  },
+  {
+   "name": "SWL: STAR WARS LEGION - CORE SET",
+   "price": 106.18,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:24.667Z"
   },
   {
    "name": "SWL: STAR WARS LEGION - HAN SOLO",
    "price": 22.56,
-   "available": true
-  },
-  {
-   "name": "SWL: STAR WARS LEGION - STORMTROOPERS UNIT",
-   "price": 30.52,
-   "available": true
-  },
-  {
-   "name": "TACO MAČKA KOZA SIR PIZZA (HR)",
-   "price": 10.49,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:24.672Z"
   },
   {
    "name": "TACOCAT SPELLED BACKWARDS",
    "price": 27.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:24.678Z"
   },
   {
-   "name": "TARGI - THE EXPANSION",
-   "price": 17.99,
-   "available": true
+   "name": "TAKENOKO (HR)",
+   "price": 42.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:24.684Z"
   },
   {
    "name": "TAVERNS OF TIEFENTHAL",
    "price": 42.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:24.690Z"
   },
   {
-   "name": "TERRA MYSTICA BIG BOX",
-   "price": 139.99,
-   "available": true
+   "name": "TERRA MYSTICA - AUTOMA SOLO BOX",
+   "price": 7.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:24.695Z"
   },
   {
    "name": "TERRA NOVA ",
    "price": 64.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.222Z"
   },
   {
-   "name": "TERRAFORMING MARS",
+   "name": "TERRACOTTA ARMY ",
    "price": 64.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.231Z"
   },
   {
    "name": "TERRAFORMING MARS - ARES EXPEDITION",
    "price": 54.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.237Z"
   },
   {
-   "name": "TERRAFORMING MARS - COLONIES",
-   "price": 39.99,
-   "available": true
+   "name": "TERRAFORMING MARS - BIG BOX",
+   "price": 134.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.247Z"
   },
   {
    "name": "TERRAFORMING MARS - PRELUDE EXPANSION",
    "price": 27.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.262Z"
   },
   {
-   "name": "TERRAFORMING MARS: ARES EXPEDITION: CRISIS",
-   "price": 29.99,
-   "available": true
+   "name": "TERRAFORMING MARS - SMALL BOX",
+   "price": 80,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.266Z"
   },
   {
    "name": "TERRAFORMING MARS: ARES EXPEDITION: DISCOVERY",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.516Z"
   },
   {
-   "name": "THE ANCIENT WORLD (SECOND EDITION)",
-   "price": 76.99,
-   "available": true
+   "name": "TERRRAFORMING MARS: ARES EXPEDITION: FOUNDATIONS",
+   "price": 29.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.521Z"
   },
   {
    "name": "THE BATTLE OF FIVE ARMIES",
    "price": 99.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.528Z"
   },
   {
-   "name": "THE ELDER SCROLLS: SKYRIM - ADVENTURE BOARD GAME ",
-   "price": 159.99,
-   "available": true
+   "name": "THE CREW (HR)",
+   "price": 11.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.534Z"
   },
   {
    "name": "THE GAME (HR)",
    "price": 11.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.539Z"
   },
   {
-   "name": "THE GREAT DALMUTI ",
-   "price": 19.99,
-   "available": true
+   "name": "THE GAME - QUICK & EASY (HR)",
+   "price": 11.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.548Z"
   },
   {
    "name": "THE GRIZZLED",
    "price": 37.16,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.908Z"
   },
   {
-   "name": "THE ISLE OF CATS - LATE ARRIVALS ",
-   "price": 21.99,
-   "available": true
+   "name": "THE INITIATIVE",
+   "price": 69.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.913Z"
   },
   {
    "name": "THE KING'S DILEMMA",
    "price": 89.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.917Z"
   },
   {
-   "name": "THE MIND (HR)",
-   "price": 11.99,
-   "available": true
+   "name": "THE MAGNIFICIENT",
+   "price": 29.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.923Z"
   },
   {
    "name": "THE RESISTANCE ",
-   "price": 24.99,
-   "available": true
+   "price": 31.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.929Z"
   },
   {
-   "name": "THUNDERSTONE QUEST",
-   "price": 54.99,
-   "available": true
+   "name": "THROUGH THE AGES - NEW LEADERS AND WONDERS EXPANSION",
+   "price": 29.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:25.934Z"
   },
   {
    "name": "TICKET TO RIDE EUROPE (HR)",
    "price": 49.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.262Z"
   },
   {
-   "name": "TILETUM",
-   "price": 60.99,
-   "available": true
+   "name": "TICKET TO RIDE EXPANSION - USA 1910",
+   "price": 19.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.274Z"
   },
   {
    "name": "TINY EPIC DEFENDERS - DARK WAR EXPANSION",
    "price": 39.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.285Z"
   },
   {
-   "name": "TINY EPIC VIKINGS RAGNAROK EXPANSION",
-   "price": 19.99,
-   "available": true
+   "name": "TINY EPIC VIKINGS ",
+   "price": 39.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.291Z"
   },
   {
    "name": "TOP TRUMPS - ANIME",
    "price": 5.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.299Z"
   },
   {
-   "name": "TOUCH OF EVIL 10 YEAR ANNIVERSARY EDITION",
-   "price": 69.99,
-   "available": true
+   "name": "TOP TRUMPS - SONIC",
+   "price": 5.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.303Z"
   },
   {
    "name": "TRIAL BY TROLLEY",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.710Z"
   },
   {
-   "name": "TRIVIAL PURSUIT - FRIENDS",
-   "price": 9.99,
-   "available": true
+   "name": "TRICKERION",
+   "price": 89.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.729Z"
   },
   {
    "name": "TRIVIAL PURSUIT - RICK & MORTY",
    "price": 14.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.736Z"
   },
   {
-   "name": "TRUDVANG LEGENDS",
-   "price": 145.99,
-   "available": true
+   "name": "TRIVIAL PURSUIT – HARRY POTTER ULTIMATE EDITION",
+   "price": 31.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.743Z"
   },
   {
    "name": "TWILIGHT IMPERIUM 4TH ED. - PROPHECY OF KINGS EXPANSION",
    "price": 119.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.750Z"
   },
   {
    "name": "ULTIMATE RAILROADS",
    "price": 134.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:26.755Z"
   },
   {
-   "name": "ULTIMATE WEREWOLF - LEGACY",
-   "price": 36.99,
-   "available": true
+   "name": "ULTRA TINY EPIC GALAXIES",
+   "price": 19.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.454Z"
   },
   {
    "name": "UNDER FALLING SKIES",
    "price": 35.99,
-   "available": true
-  },
-  {
-   "name": "UNDERWATER CITIES - NEW DISCOVERIES EXPANSION",
-   "price": 54.99,
-   "available": true
-  },
-  {
-   "name": "UNLOCK! - ESCAPE ADVENTURES",
-   "price": 34.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.460Z"
   },
   {
    "name": "UNLOCK! - EXOTIC ADVENTURES",
-   "price": 36.99,
-   "available": true
+   "price": 34.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.467Z"
   },
   {
-   "name": "UNLOCK! HEROIC ADVENTURES",
-   "price": 36.99,
-   "available": true
+   "name": "UNLOCK! - SECRET ADVENTURES",
+   "price": 34.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.472Z"
   },
   {
    "name": "UNMATCHED MARVEL - TEEN SPIRIT",
    "price": 47.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.478Z"
   },
   {
-   "name": "VAMPIRE: THE MASQUERADE - BLOOD FEUD",
-   "price": 109.99,
-   "available": true
+   "name": "UNMATCHED: HOUDINI VS. THE GENIE ",
+   "price": 29.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.483Z"
   },
   {
    "name": "VAMPIRE: THE MASQUERADE – CHAPTERS ",
    "price": 179.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.734Z"
   },
   {
-   "name": "VITICULTURE WORLD: COOPERATIVE EXPANSION",
-   "price": 49.99,
-   "available": true
+   "name": "VISCOUNTS OF WEST KINGDOM",
+   "price": 59.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.737Z"
   },
   {
    "name": "VIVID MEMORIES",
    "price": 29.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.743Z"
   },
   {
-   "name": "WADDINGTONS NO. 1 - GOLD",
+   "name": "WADDINGTONS NO. 1 - GAME OF THRONES",
    "price": 5.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.748Z"
   },
   {
    "name": "WADDINGTONS NO. 1 - HARRY POTTER",
    "price": 5.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.752Z"
   },
   {
-   "name": "WADDINGTONS NO. 1 - NARUTO",
+   "name": "WADDINGTONS NO. 1 - LORD OF THE RINGS",
    "price": 5.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.756Z"
   },
   {
    "name": "WADDINGTONS NO. 1 - RICK & MORTY",
    "price": 5.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.968Z"
   },
   {
-   "name": "WALKING IN BURANO",
-   "price": 37.99,
-   "available": true
+   "name": "WADDINGTONS NO. 1 - RICK & MORTY 2022",
+   "price": 5.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.973Z"
   },
   {
-   "name": "WAR CHEST",
-   "price": 59.99,
-   "available": true
+   "name": "WAR OF THE RING - FATE OF EREBOR",
+   "price": 9.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.991Z"
   },
   {
    "name": "WAR OF THE RING - THE CARD GAME ",
    "price": 54.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:27.997Z"
   },
   {
-   "name": "WAR OF THE RING 2ND. ED.",
-   "price": 109.99,
-   "available": true
+   "name": "WESTERN EMPIRES",
+   "price": 59.99,
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.001Z"
   },
   {
    "name": "WHITE BOX - A GAME DESIGN KIT IN A BOX",
    "price": 36.99,
-   "available": true
-  },
-  {
-   "name": "WHOT! - RICK AND MORTY",
-   "price": 6.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.004Z"
   },
   {
    "name": "WINGSPAN SPECKLED EGGS EXPANSION",
    "price": 17.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.461Z"
   },
   {
    "name": "WISE GUYS ",
    "price": 57.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.467Z"
   },
   {
    "name": "WITHIN WALLS",
    "price": 39.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.471Z"
   },
   {
    "name": "WOLFENSTEIN BOARD GAME",
    "price": 59.99,
-   "available": true
+   "available": true,
+   "dateCrawled": "2023-09-02T12:14:28.476Z"
   }
  ]
 }

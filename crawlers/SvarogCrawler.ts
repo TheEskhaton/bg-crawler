@@ -12,7 +12,7 @@ export default class SvarogCrawler extends BaseCrawler {
           const name = await productEl.locator('.woocommerce-loop-product__title').textContent();
           const price = await productEl.locator('bdi').first().textContent();
           const available = await productEl.locator('.ajax_add_to_cart').first().isVisible();
-          this.products.push({ name: String(name), price: Number(price?.replace('€', '').replace(',', '.').replace(' ', '')), available });
+          this.products.push({ name: String(name), price: Number(price?.replace('€', '').replace(',', '.').replace(' ', '')), available,  dateCrawled: new Date() });
         }
     }
 

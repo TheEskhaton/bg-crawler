@@ -34,7 +34,8 @@ export default class OzoneStrategyCrawler extends BaseCrawler {
                     .replace('Proširenje za kartašku igru ', '')
                     .trim(),
                 price: Number(price?.replace('€', '').replace(',', '.').replace(' ', '').replace(/\n/g, '')),
-                available
+                available,
+                dateCrawled: new Date()
             });
         }
     }

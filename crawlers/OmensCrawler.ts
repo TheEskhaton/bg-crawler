@@ -12,7 +12,7 @@ export default class OmensCrawler extends BaseCrawler {
             const name = await productEl.locator('.product-item__title').textContent();
             const price = await productEl.locator('.money').first().textContent();
             const available = await productEl.locator('.product-item__action-button').first().isEnabled();
-            this.products.push({ name: String(name), price: Number(price?.replace('€', '')), available });
+            this.products.push({ name: String(name), price: Number(price?.replace('€', '')), available, dateCrawled: new Date() });
         }
     }
 

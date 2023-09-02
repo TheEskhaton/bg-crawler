@@ -19,6 +19,7 @@ async function run() {
     program
         .name("bg-crawler")
         .option('-q, --query <search query>')
+        .option('-e, --exact', "exact match", false)
         .option('-t, --top <number>', "number of items to show", "5");
 
     program.parse();
@@ -44,24 +45,42 @@ async function run() {
         allProducts = allProducts.concat(products);
     }
 
+    var t = new Table();
+    
+    if(options.exact) {
+        const products = allProducts.filter(prod => {
+            return prod.name.toLowerCase().trim() == options.query.toLowerCase().trim();
+        });
+
+        for(const product of products){
+            renderProduct(product);
+        }
+        console.log(t.toString())
+        return;
+    }
     for(let i= 0;i < allProducts.length;i++) {
         index.add(i, allProducts[i].name)
     }
 
     const resultIndices : number[] = index.search(query, Number(options.top));
 
-    var t = new Table();
+
 
 
     for(const idx of resultIndices) {
         const product = allProducts[idx];
-        t.cell('store', product.storeName)
-        t.cell('name', product.name)
-        t.cell('price', product.price + " €")
-        t.cell('available', (product.available ? '✅' : '❌'))
-        t.newRow();
+        renderProduct(product);
     }
     console.log(t.toString())
+
+    function renderProduct(product: Product) {
+        t.cell('dateCrawled', product.dateCrawled);
+        t.cell('store', product.storeName);
+        t.cell('name', product.name);
+        t.cell('price', product.price + " €");
+        t.cell('available', (product.available ? '✅' : '❌'));
+        t.newRow();
+    }
 }
 
 

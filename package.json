@@ -5,13 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start:dev": "npx nodemon",
-    "search" :  "ts-node ./src/index.ts"
+    "search": "ts-node ./src/index.ts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@types/flexsearch": "^0.7.3",
-    "chalk": "^4.1.2",
     "commander": "^11.0.0",
     "crawler": "^1.4.0",
     "easy-table": "^1.2.0",

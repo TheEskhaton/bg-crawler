@@ -5,7 +5,6 @@ import path from 'path';
 var Table = require('easy-table')
 
 const { Index  } = require("flexsearch");
-import chalk from 'chalk';
 
 const options = {
     charset: "latin:extra",
